@@ -1,0 +1,743 @@
+key,value
+site_name,Flutter Satın & Satış Yönetici Paneli
+title_bar_seperator,|
+added_date,tarih
+upload_point_label,Yükleme Noktası
+success_item_report,Ürün Raporu başarıyla eklendi
+signin,Oturum aç
+check_for_detail,Daha fazla ayrıntı için kontrol edin!
+success_delete,başarıyla silindi
+success_save_contact,Bizimle iletişime geçtiğiniz için teşekkürler. Yakında size geri ulaşacaktır.
+success_contact_delete,İletişim İleti başarıyla silindi
+btn_search,Arama
+btn_add_new,Yeni ekle
+btn_edit,Düzenle
+btn_save,Kayıt etmek
+btn_save_gallery,Galeri Kaydet ve Gönder
+btn_cancel,İptal etmek
+btn_yes,Evet
+btn_delete,Sil
+btn_publish,Yayınla
+btn_replace_photo,Fotoğraf değiştirin
+btn_replace_icon,Simge Değiştir
+back_button,Geri
+lbl_view,Görünüm
+chat_history_save_success,Sohbet geçmişi başarıyla eklendi
+chat_history_update_success,Sohbet geçmişi başarıyla güncellendi edilmiştir
+btn_version,versiyon
+ver_info,Versiyon bilgisi
+ver_no_label,Sürüm No
+ver_msg_label,Sürüm Mesajı
+ver_title_label,Sürüm Adı
+ver_force_update,Sürüm Kuvvet Güncelleme?
+ver_need_data,Sürüm İhtiyaç Verileri Temizle?
+success_version_add,Sürüm başarıyla eklendi
+success_version_edit,Sürüm başarıyla güncellendi
+dashboard,Gösterge Paneli
+no,Hayır
+del_cover_photo,Kapak Fotoğrafı Sil
+youtube_url,Youtube URL
+profile_img,Profil Görüntü
+success_upload,Görüntü başarıyla yüklendi
+success_img_delete,Görüntü başarıyla silindi
+error_login,E-posta ve şifre uyuşmuyor
+err_access,Maalesef bu eylemde hiçbir erişebilir
+err_model,Veritabanı hatası oluştu
+err_sys,Sistem hatası oluştu
+err_upload,Yükleme hata oluştu
+wrn_no_data,henüz veri bulunmamaktadır
+del_cover_photo_confirm,Fotoğrafı silmek istediğiniz emin misiniz?
+upload_photo,Fotoğraf yükle
+no_record,Artık kayıtlar
+invalid_api_key,API Anahtarı geçersiz
+invalid_user_id,Geçersiz kullanıcı kimliği
+invalid_item_id,Geçersiz Öğe Kimliği
+role,rol
+user_name,Kullanıcı adı
+user_email,E-posta
+user_password,Parola
+conf_password,Şifreyi Onayla
+user_phone,Telefon
+allowed_modules,İzin Modüller
+user_ban,yasak
+user_unban,Yasağı kaldır
+user_info,Kullanıcı bilgisi
+user_list,Kullanıcılar listesi
+user_add,Yeni Kullanıcı Ekle
+user_edit,kullanıcıyı düzenle
+user_search,Arama Kullanıcısı
+err_dup_email,E-posta Adresi sistemde zaten var olan
+err_dup_name,İsim sistemde zaten varolan edilir
+err_user_name_blank,Kullanıcı adını verin
+err_user_name_len,Kullanıcı adı uzunluğu 4 daha büyük olmalıdır
+err_user_email_blank,E-posta adresi sağlayın
+err_user_email_invalid,geçerli e-posta adresi girin
+err_user_email_exist,E-posta Adresi sistemde zaten var olan
+err_user_pass_blank,Lütfen şifreyi girin
+err_user_pass_len,Şifre uzunluğu 4 daha büyük olmalıdır
+err_user_pass_conf_blank,onayla şifresini verin
+err_user_pass_conf_not_match,Şifre ve onaylama şifre eşleşmiyor
+err_permission_blank,ulaflabildikleri hangi modülleri seçiniz
+success_user_add,Kullanıcı başarıyla eklendi
+success_user_edit,Kullanıcı başarıyla güncellendi
+err_user_banned,"Hesabınız yasaklandı çünkü Maalesef, giriş yapamıyorum."
+cat_info,Kategori Bilgisi
+cat_name,Kategori adı
+cat_ordering,Kategori Sipariş
+cat_img,Kategori Kapak Fotoğrafı
+cat_icon,Kategori Simgesi
+cat_search,Arama Kategorisi
+cat_select,Kategori Seç Adı
+cat_add,Kategori ekle
+cat_edit,Kategori Düzenle
+success_cat_edit,Kategori başarıyla güncellendi
+success_cat_add,Kategori başarıyla eklendi
+success_cat_delete,Kategori başarıyla silindi
+err_cat_name,Kategori adını verin
+err_cat_len,Kategori Adı uzunluğu 4 daha büyük olmalıdır
+err_cat_exist,Kategori Adı sistemde zaten var olan
+delete_cat_label,Sil Kategori?
+cat_delete_confirm_message,Tüm kategoriyi silmek istiyor musunuz?
+cat_yes_all_message,Evet Hepsi - Kategori ve Öğeler sistemden siler.
+cat_no_only_message,Sadece Kategori - Yalnızca Kategori sisteminden silecektir.
+cat_yes_all_label,Evet Hepsi
+cat_no_only_label,Sadece Kategorisi
+subcat_info,Alt Kategori Bilgisi
+subcat_name,Alt Kategori Adı
+subcat_ordering,Alt Kategori Sipariş
+subcat_img,Alt Kategori Fotoğraf
+subcat_icon,Alt Kategori Simgesi
+subcat_search,Alt Kategori Ara
+subcat_add,Alt Kategori Ekle
+subcat_edit,Düzenleme Alt Kategori
+success_subcat_edit,Alt Kategori başarıyla güncellendi
+success_subcat_add,Alt Kategori başarıyla eklendi
+success_subcat_delete,Alt Kategori başarıyla silindi
+err_subcat_name,alt kategori adını verin
+err_subcat_len,Alt Kategori Adı uzunluğu 4 daha büyük olmalıdır
+err_subcat_exist,Alt Kategori Adı sistemde zaten varolan edilir
+delete_subcat_label,Sil Alt Kategori?
+subcat_delete_confirm_message,Emin bu Sub Categry silmek musunuz?
+subcat_yes_all_message,"Bu alt kategoriyi sildiğinizde, aynı zamanda tüm ilgili ürünler silecektir. Yani, yine de silmek istiyor musunuz?"
+subcat_no_only_message,<B> Yalnızca Alt Kategori </ b> - Yalnızca Alt Kategori sisteminden silecektir.
+subcat_yes_all_label,Evet Hepsi
+subcat_no_only_label,Sadece Alt Kategori
+select_subcat,Seç Alt Kategori
+select_cat,Kategori seç
+subcat_panel_title,Alt Kategori Listesi
+Prd_search_cat,Kategori Seç Adı
+delete_contact_label,İletişim Mesajı Sil?
+contact_delete_confirm_message,Eğer kontak mesajı silmek istiyor musunuz?
+detail_contact_label,İletişim Mesajı Detay
+contact_info_label,İletişim Mesaj Bilgileri
+about_contact_label,İletişim Mesaj Hakkında
+contact_info_label,İletişim Detay Bilgileri
+contact_name,temas kurulacak kişinin ismi
+contact_email,Muhatap Email
+contact_phone,Muhatap Telefon
+btn_reset,Sıfırla
+reset_password,Şifreyi yenile
+contact_receive_message,Yeni iletişim bize mesaj aldık.
+nav_profile,Profile git
+nav_backend,Arka Ucu git
+nav_logout,Çıkış Yap
+total_label,Toplam :
+device_label,cihaz
+devices_label,Cihazlar
+registered_label,Push Bildirim için kaydedildi
+noti_info,Bildirim almak
+noti_message_label,İleti
+noti_message_tooltips,itme bildirimi için messsage verin.
+noti_send_btn,Gönder Push Bildirim
+sorry_no_device,Maalesef Push Bildirim için kayıtlı cihaz yoktur.
+select_cat,Kategori seç
+success_noti_add,Bildirim başarıyla eklendi
+success_noti_delete,Bildirim başarıyla silindi
+delete_noti_label,Sil Bildirim?
+noti_yes_message,Evet- Bildirim sistemden siler.
+push_message,itme Mesajı
+noti_des_label,Açıklama
+noti_img,Bildirim Fotoğraf
+noti_search,Arama Noti
+select_cat,Kategori seç
+noti_add,noti ekle
+app_info_lable,Bilgiler
+about_title_label,Başlık Hakkında
+description_label,Hakkında Açıklama
+about_email_label,E-posta hakkında
+about_phone_label,Telefon hakkında
+about_website_label,Web sitesi Link Hakkında
+about_seo_section,SEO Bilgiler
+about_seo_title_label,SEO Başlığı
+about_seo_desc_label,SEO Açıklaması
+about_seo_keywords_label,SEO Anahtar Kelimeler
+about_social_section,Sosyal Bilgiler
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,pinterest
+about_twitter_label,heyecan
+about_color_section,İkinci web Renk Hakkında
+about_theme,Mevcut Temalar
+success_about_edit,Hakkında başarıyla güncellendi
+about_ads_analyt,Google Analitik & Reklamlar Ayarı
+about_ads_client,Reklamlar Müşteri
+about_ads_slot,Reklamlar Yuvası
+about_analyt_track_id,Analitik Parça Kimliği
+about_ads_on,Google Adsense etkinleştirme
+about_analyt_on,Google Analitik etkinleştirme
+gdpr_label,GDPR İçerik
+safety_tips_label,Güvenlik ipuçları
+total_users_count_label,kayıtlı kullanıcılar
+total_cat_count_label,Toplam Kategori
+total_contact_label,Toplam İletişim Mesaj
+total_likes_count_label,Toplam Kont Beğeni
+total_favs_count_label,Toplam Sık sayın
+total_comments_count_label,Toplam Yorum Sayısı
+category_panel_title,En son kategoriler
+recent_news_panel_title,Son Haberler
+available_inside,Bu kategoride içinde mevcuttur Haber.
+contact_message,İletişim Mesajlar
+user_latest_members,Son Kayıtlı Kullanıcılar
+success_contact,Mesajınız başarıyla sistemde kaydedin.
+file_na,Müsait değil
+required_platform,Gerekli Platform
+err_noti_register,Maalesef Push Bildirim kayıt için sorun var
+success_noti_register,Cihazınız başarıyla Push Bildirim için kayıtlı.
+success_noti_unregister,Cihazınız başarıyla Push Bildirim için ruhsatlı olmayan.
+err_noti_unregister,Maalesef Push Bildirim kaydı silme sorunu vardır
+success_touch_count,Dokunmatik Kont Başarıyla Eklendi.
+err_touch_count,Problem Dokunmatik say!
+err_user_register,Maalesef kullanıcı kaydı için sorun yoktur.
+err_user_not_exist,Maalesef kullanıcı sisteminde mevcut değildir.
+err_user_not_verify,Maalesef hesabınız henüz doğrulamak değildir.
+err_email_not_send,Maalesef email göndermede sorun vardır.
+err_user_update,"Maalesef, güncelleme kullanıcı bilgilerinde sorun vardır."
+err_user_password_update,Maalesef güncelleme kullanıcının şifresini sorunu vardır.
+success_profile_update,Profiliniz başarıyla güncellendi.
+success_email_sent,E-posta başarıyla gönderilir.
+success_reset,Şifre başarıyla reset vardır
+success_reset_email_sent,Sıfırlama E-posta başarıyla gönderilir
+trending,Artan Haber
+editor_pick,Editör Haberler aldı
+list_product_nav,madde
+prd_add,Öğe eklemek
+att_add,Yeni Özellik Ekle
+add_att_detail,Yeni Özellik Ayrıntısı ekle
+list_attribute_header,Başlık Öznitelik Listesi
+item_name,Öğe adı
+att_name,Özellik Adı
+Prd_search_subcat,Seç Alt kategori ismi
+Prd_search_dis,Seç İndirim Tipi
+product_gallery,Ürün Galeri
+prd_info,öğe Bilgisi
+rec_prd_info,Yeni Eklenen Öğeler
+att_info,Özellik Bilgileri
+prd_desc,Ürün Açıklaması
+prd_high_info,Öğe Vurgu Bilgi
+prd_edit,Ögeyi düzenle
+prd_code,Ürün Kodu
+success_prd_add,Öğe başarıyla eklendi
+success_prd_edit,Öğe başarıyla güncellendi
+success_upload,Görüntü başarıyla güncellendi
+delete_prd_label,Öğeyi silmek?
+prd_yes_all_message,"Bu öğeyi sildiğinizde, aynı zamanda tüm ilgili alt kategoriler ve kategori silecektir. Yani, yine de silmek istiyor musunuz?"
+success_prd_delete,Öğe başarıyla silindi
+prd_search,Arama Öğe
+err_item_name,öğe adı girin
+err_item_len,Öğe Adı uzunluğu 4 daha büyük olmalıdır
+err_item_exist,Öğe Adı sistemde zaten var olan
+item_gallery,Ürün Galeri
+condition_of_item,Kalemleri Durumu
+item_description_label,Açıklama
+deal_option_id_label,Fırsat Seçeneği
+meet_up_label,Buluşmak
+mailing_or_delivery_label,Posta Veya Teslimat
+brand_label,Marka
+price,Fiyat
+itm_title_label,Başlık
+itm_business_mode,Mağaza mi?
+itm_show_shop,"(Gösteri kullanıcı, birden fazla sipariş edebilirsiniz If)"
+itm_is_sold_out,Satıldı?
+location_info_label,konum bilgisi
+itm_address_label,Adres
+itm_lat_label,Enlem
+itm_lng_label,Boylam
+itm_select_price,Seç Fiyat Türü
+itm_select_type,Seç Öğe Türü
+itm_select_currency,Öğe Seç Döviz
+status_label,durum
+select_status_label,seç Durum
+itm_select_location,Öğe Seç Yeri
+find_location_label,Tip & Google API konumu bulun
+itm_select_condition_of_item,öğenin Koşulu seçin
+itm_select_deal_option,Fırsat Seçeneği Tercih
+api_info,API Ayar Bilgileri
+api_title,API Ayarı
+api_title_tooltips,API Adı
+api_order_by,Tarafından sipariş
+btn_save,Kayıt etmek
+btn_cancel,İptal etmek
+success_api_edit,Başarıyla güncellendi
+about_gallery,galeri
+categories_label,Kategoriler
+messages_label,Mesajlar
+total_label,Toplam
+view_all_label,Hepsini gör
+divider_label,:
+users_label,Kullanıcılar
+app_setting,Uygulama Ayarı Bilgi
+apikey_info,Api Anahtarı Bilgi
+key_label,anahtar
+success_apikey_edit,Api Anahtarı başarıyla güncellendi
+success_apikey_add,Api Anahtarı başarıyla eklenir
+earn_point_label,Noktasını kazanın
+currency_info,Döviz Bilgileri
+currency_add,Ekleme Döviz
+currency_symbol,Para Birimi Sembolü
+currency_short_form,Para Short Form
+currency_add,Ekleme Döviz
+success_currency_edit,Para başarıyla güncellendi
+success_currency_add,Para başarıyla eklendi
+success_currency_delete,Para başarıyla silindi
+delete_currency_label,Sil Para?
+currency_delete_confirm_message,Eğer Para silmek istiyor musunuz?
+currency_search,Arama Para Birimi
+currency_edit,Düzenleme Döviz
+err_currency_name,para adı girin
+err_currency_len,Döviz Adı ​​uzunluğu 4 daha büyük olmalıdır
+err_currency_exist,Para Birimi Adı sistemde zaten varolan edilir
+color_color,Renk
+select_type,seç Tipi
+from_point,Nokta Gönderen:
+to_point,To Noktası:
+order_by,Tarafından sipariş :
+select_order,Sipariş seç
+push_noti_sending_title,İtme Bildirimi Gönderme
+no_device_label,Hiçbir henüz cihazlar kaydedilir.
+delete_color_label,Renk Sil?
+color_delete_confirm_message,Eğer renk silmek istiyor musunuz?
+upload_icon,Kategori Simgesi
+about_upload_icon,Yükleme Simge
+fav_upload_icon,fav Simge
+btn_upload,Yükleme
+not_enough_point,"Maalesef, nokta yeterli değildir."
+view_count,Görünüm Sayımlar
+earn_point_label,Kazanılan Noktası
+download_count,indirme Sayısı
+rating_count,Puanlama Sayısı
+terms_label,Şartlar ve koşullar
+about_img,Kapak Fotoğraf Hakkında
+select_csv_file,CSV dosyasını seçin
+something_wrong_upload,Yüklenen verilerdeki şeyler ters.
+pls_upload_csv,CSV dosyası yükle.
+sample_csv_format,Numune CSV burada: https://www.dropbox.com/s/oheyivxfgdlk129/sample.csv?dl=0
+csv_upload_instruction,"aşağısında bu adımları takip edin: <br>
+yüklemelere 1. yükle görüntüleri FTP üzerinden manuel olarak klasörü. <br>
+görüntülerin küçük resim 2. Yükleme için yüklenenler / küçük resim klasör manully FTP üzerinden. <br>
+3. Daha sonra, CSV formatı gibi hazırlanır. İşte Sample: http://bit.ly/2UvCjRp <br>
+4. bu kuralları takip etmek gerekir. İşte: http://bit.ly/2T1Tjgp <br>
+5. oluşturabilir ve virgül ayırıcı olarak ihracat için Google Sheet kullanabilirsiniz. <br>
+Önerilen 6. bir CSV 100 kayıtların başındadır."
+noti_sent_fail,itme bildirim göndermek için Fail
+noti_sent_success,Başarıyla için itme bildirim gönderdi
+reject_message_2,)
+approve_message_2,)
+uploaded_user,Yüklenen Kullanıcı
+delete_user_label,Kayıtlı Kullanıcıyı Sil?
+user_delete_confirm_message,Tüm Kayıtlı Kullanıcı silmek istiyor musunuz?
+user_yes_all_label,Evet Hepsi
+user_no_only_label,Sadece Kategorisi
+success_user_delete,Kayıtlı Kullanıcı başarıyla silindi
+credit,Kredi
+price_info,Fiyat bilgisi
+price_name,Fiyat Ad
+price_edit,Düzenleme Fiyatı
+price_add,Ekleme Fiyat
+price_search,Arama Fiyatı
+delete_price_label,Sil Fiyatı?
+price_delete_confirm_message,Eğer Fiyatı silmek istiyor musunuz?
+err_price_name,fiyat adı girin
+err_price_len,Fiyat İsim uzunluğu 4 daha büyük olmalıdır
+err_price_exist,Fiyat İsim sistemde zaten varolan edilir
+success_price_edit,Fiyat başarıyla güncellendi
+success_price_add,Fiyat başarıyla eklendi
+success_price_delete,Fiyat başarıyla silindi
+type_info,Öğe Türü Bilgileri
+type_name,Tür Adı
+type_edit,Düzenleme Türü
+type_add,Türü ekle
+type_search,Arama Tipi
+delete_type_label,Sil Tipi?
+type_delete_confirm_message,Yazım silmek istiyor musunuz?
+err_type_name,Tür adı verin
+err_type_len,Tür Adı uzunluğu 4 daha büyük olmalıdır
+err_type_exist,Tür ismi sistemde zaten varolan edilir
+success_type_edit,Tip başarıyla güncellendi
+success_type_add,Tip başarıyla eklendi
+success_type_delete,Tip başarıyla silindi
+location_info,Öğe Konum Bilgisi
+location_name,Yer ismi
+location_edit,Konumunu düzenle
+location_add,Konum ekle
+location_search,Arama Yeri
+delete_location_label,Sil Konum?
+location_delete_confirm_message,Eğer Konumu silmek istiyor musunuz?
+err_location_name,Yer adını belirtin
+err_location_len,Yer Adı uzunluğu 4 daha büyük olmalıdır
+err_location_exist,Yer ismi sistemde zaten varolan edilir
+success_location_edit,Yer başarıyla güncellendi
+success_location_add,Yer başarıyla eklendi
+success_location_delete,Yer başarıyla silindi
+blog_add,Ekleme blog
+blog_info,Blog Bilgileri
+blog_name,Blog Adı
+blog_desc,Blog Tanımı
+blog_edit,Düzenleme Bloglar
+success_blog_add,Bloglar başarıyla eklendi
+success_blog_edit,Bloglar başarıyla güncellendi
+err_dup_name,İsim sistemde zaten varolan edilir
+err_blog_exist,İsim sistemde zaten varolan edilir Blog
+delete_blog_label,Sil blog?
+blog_delete_confirm_message,Bu blogu silmek istediğinizden emin misiniz?
+success_blog_delete,Bloglar başarıyla silindi
+err_blog_len,Blog Adı uzunluğu 4 daha büyük olmalıdır
+err_blog_name,Blog adı girin
+blog_search,Blog Arama
+blog_gallery,Galeri Blog
+btn_disable,Devre Dışı
+report_edit,Düzenleme Öğe Raporu
+total_category_count_label,Toplam Kategori
+total_sub_cat_count_label,Toplam Alt
+total_blog_count_label,Toplam Bloglar
+total_contact_count_label,Toplam İletişim Mesaj
+popular_item,En Popüler Öğe
+item_report,Bildirilen Öğe
+items_label,Yeni Eklenen Öğeler
+item_img,öğe Görüntü
+popular_item_info,Popüler Öğe Bilgisi
+popular_item_view,Görünüm Popüler Öğe
+app_setting_lable,Uygulama Ayarı Bilgi
+app_lat_label,Enlem
+app_lng_label,Boylam
+location_info_label,konum bilgisi
+err_chat_history_not_exist,Kayıt Yok sohbet geçmişinde bulundu
+accept_update_success,Kabul Teklif başarıyla güncellendi
+err_accept_update,Maalesef teklifi kabul bir sorun vardır
+count_update_success,Sıfırlama Kont başarıyla güncellendi
+err_count_update,Maalesef sıfırlama sayısında bir sorun vardır
+price_update_success,Fiyat başarıyla güncellendi
+err_price_update,Maalesef fiyata bir sorun vardır
+err_accept_offer,"Maalesef, tekrar teklif accepect olamazdı."
+overall_rating,Değerlendirme
+user_is_verify_do_forgot_password,unuttum şifreyi değişikliği lütfen Hesabınız doğrulandı.
+user_view,Kullanıcıyı görüntüle
+user_address,Adres
+user_city,Kent
+about_me,Benim hakkımda
+verify_type,Tür doğrulama
+follower_count,takipçi Sayısı
+following_count,takip Sayısı
+user_profile,Profil resmi
+email_verify,doğrulama Email
+facebook_verify,doğrulama facebook
+google_verify,Google doğrulama
+phone_verify,Telefon doğrulama
+condition_name,Durum Adı
+cond_search,Arama Durumu
+condition_add,Koşulu ekle
+condition_info,Öğe Durumu Bilgileri
+cond_edit,Düzenleme Durumu
+delete_condition_label,Koşulu Sil?
+condition_delete_confirm_message,Eğer koşullar silmek istiyor musunuz?
+condition_yes_all_message,Evet Hepsi - Durum ve Öğeler sistemden siler.
+success_condition_edit,Durum başarıyla güncellendi
+success_condition_add,Durum başarıyla eklendi
+success_condition_delete,Durum başarıyla silindi
+err_condition_name,koşul adı girin
+err_condition_len,Durum Adı uzunluğu 4 daha büyük olmalıdır
+err_condition_exist,Durum Adı sistemde zaten varolan edilir
+option_name,Fırsat Seçenek Adı
+cond_search,Fırsat Seçeneği ara
+option_add,Fırsat Seçeneği Ekle
+option_info,Öğe Deal Seçeneği Bilgi
+cond_edit,Düzenleme Deal Seçeneği
+delete_option_label,Sil Deal Seçeneği?
+option_delete_confirm_message,Eğer Deal Seçenek silmek istiyor musunuz?
+option_yes_all_message,Evet Hepsi - Deal Seçenek ve Öğeler sistemden siler.
+success_option_edit,Fırsat Seçeneği başarıyla güncellendi
+success_option_add,Fırsat Seçeneği başarıyla eklendi
+success_option_delete,Fırsat Seçeneği başarıyla silindi
+err_option_name,Fırsat Seçeneği adı girin
+err_option_len,Deal Seçenek Adı uzunluğu 4 daha büyük olmalıdır
+err_option_exist,Fırsat Seçenek Adı sistemde zaten varolan edilir
+lang_name,dil adı
+btn_active,Aktif
+lang_string,Dil Dize
+lang_add,Dil ekle
+lang_info,Dil Bilgisi
+lang_symbol,sembol
+lang_search,Arama Dili
+lang_edit,Düzenleme Dil
+success_lang_edit,Dil başarıyla güncellendi
+success_lang_add,Dil başarıyla eklendi
+success_lang_delete,Dil başarıyla silindi
+err_lang_name,dil adı girin
+err_lang_len,Dil adı uzunluğu 4 daha büyük olmalıdır
+err_lang_exist,Dil adı sistemde zaten varolan edilir
+delete_lang_label,Dil Sil?
+lang_delete_confirm_message,Tüm bu dil birlikte ile altında dizesini silmek istiyor musunuz?
+lang_yes_all_label,Evet Hepsi
+lang_no_only_label,Sadece Dil
+lang_yes_all_message,Evet Hepsi - Dil ve Öğeler sistemden siler.
+language_id,Dil
+lang_string_key,anahtar
+lang_string_value,değer
+lang_string_info,Dil Dize BİLGİLERİ
+select_language,Seçilmiş Dil
+btn_import,İthalat
+csv_symbol_link,Burada örnek csv dosyası
+lang_str_search,Dil Dize ara
+success_langstr_import,Dil Dize başarıyla csv dosyası yüklendi
+lang_str_add,Dil Dize ekle
+lang_str_edit,Düzenleme Dil Dize
+lang_active,Aktif
+lang_deactive,Devre dışı bırakmak
+success_lang_str_edit,Dil Dize başarıyla güncellendi
+success_lang_str_add,Dil Dize başarıyla eklendi
+err_lang_str_name,dil dize adı girin
+err_lang_str_len,dil dize uzunluğu 4 daha büyük olmalıdır
+err_lang_str_exist,Dil Dize sistemde zaten varolan edilir
+lang_title,Silinmiş Dili?
+lang_warning,Etkin bir dil silemezsiniz.
+btn_ok,tamam
+list_lang_label,Diller
+list_lang_str_label,Dil Strings
+err_lang_symbol,dil sembolünü verin
+dashboard_label,Gösterge Paneli
+cat_module,Kategoriler
+subcat_module,Alt Kategoriler
+contact_module,Bize Mesaj
+system_user_module,Sistem Kullanıcıları
+register_user_module,kayıtlı kullanıcılar
+about_module,Hakkında & Ayarı
+noti_module,Bildirim almak
+analytic_module,analitik
+export_database_module,İhracat Veritabanı
+app_user_module,APP Kullanıcı
+popular_item_module,En Popüler Öğeler
+item_module,Öğeler
+api_key_module,Api Tuşlar
+api_setting_module,API Ayarı
+rating_module,Çoğu Puanlama Kullanıcılar
+version_module,versiyon
+item_currency_module,öğe Döviz
+item_price_module,Ürün ücreti
+item_type_module,Öğe türü
+blog_module,Blog
+item_report_module,Bildirilen Öğeler
+app_setting_module,Uygulama Ayarı
+item_location_module,Öğe konumu
+item_condition_module,öğe Koşullar
+deal_option_module,Öğe Deal Seçeneği
+language_module,Diller
+paid_item_module,Ücretli Öğeler
+backend_setting_module,Arka uç Ayarı
+start_date_label,Başlangıç ​​tarihi
+end_date_label,Bitiş tarihi
+amount_label,Miktar
+payment_method_label,Ödeme şekli
+progress_label,İlerleme
+finished_label,bitmiş
+not_yet_start_label,Henüz başlamadı
+today_label,Bugün
+second_ago,saniye
+minute_ago,dakika
+hour_ago,saatler
+day_ago,günler
+week_ago,haftalar
+month_ago,ay
+year_ago,yıl
+decade_ago,on yıllar
+just_now_label,Şu anda
+ago_label,önce
+user_acc_reg_label,Yeni Kullanıcı Hesabı Kaydı
+user_register_success_but_email_not_send,Kullanıcı kayıt başarı ancak e-posta göndermez
+pwd_reset_label,Parola sıfırlama
+hi_label,Selam
+pwd_reset_link,Şifrenizi sıfırlamak için aşağıdaki bağlantıyı tıklayınız
+reset_link_label,Şifreyi yenile
+best_regards_label,Saygılarımla
+new_user_acc,Yeni Kullanıcı Hesabı oluşturuldu. Flutter Buy & Sell hoş geldiniz. actived Hesabınıza aşağısında kodla doğrulanması edin.
+verify_code_label,Doğrulanmış Kod
+hi_admin_label,Merhaba Yönetici
+name_label,ad
+email_label,E-posta
+phone_label,Telefon
+msg_label,İleti
+verify_code_sent,Doğrulama kodu gönderildi.
+user_id_required,Kullanıcı kimliği gerekiyor.
+invalid_login_user_id,Kullanıcı kimliği geçersiz.
+already_accept_user,Kullanıcı kabul edildi.
+sender_id_required,Gönderen İD gereklidir
+success_delete,Başarıyla Silindi.
+success_cat_request,Başarıyla talebiniz.
+err_cat_request,Afedersiniz
+err_chat_history_save,Afedersiniz
+accept_reset_success,Başarıyla Sohbet isteği.
+error_delete_chat_history,Afedersiniz
+success_delete_chat_history,Sohbet geçmişi başarıyla silindi.
+err_soldout_reset,Afedersiniz
+soldout_reset_success,Kişisel sıfırlama başarılı oldu.
+err_item_report,Afedersiniz
+token_already_exist,Afedersiniz
+err_in_noti_read,Afedersiniz
+success_noti_send,Bildirim başarıyla gönderildi.
+error_noti_send,Afedersiniz
+invalid_code,Afedersiniz
+backend_config_info_lable,Arka uç Ayar Bilgileri
+sender_name_label,Gönderen adı
+receive_email_label,Mail almak
+sender_email_label,Gönderen E-posta
+img_section,Görüntü Bölüm
+fcm_api_key_label,fcm api anahtarı
+backend_login_img,Arka uç Girişi Arka Plan Resmi
+backend_logo,Arka uç Logosu
+backend_fav_icon,Arka Uç Fav Ico
+upload_backend_logo,Yükleme Arka Uç Logosu
+upload_fav_icon,Yükleme Fav Simge
+upload_login_img,Yükleme Girişi Fotoğraf
+transaction_module,İşlemler Tarih
+history_search,Arama İşlemleri Geçmişi
+trans_history_info,İşlemler Tarih Bilgisi
+entry_group,giriş
+reports_group,Raporlar
+user_mang_group,Kullanıcılar Yönetimi
+miscellaneous_group,Çeşitli
+setting_group,Ayar
+ple_sub_cat_name,Lütfen Alt Kategori Adı
+ple_highlight_info,Bilgi vurgulayın Lütfen
+forget_pwd,Parolanızı mı unuttunuz?
+remove_label,Kaldırmak
+his_info,Tarih Bilgisi
+err_paid_item_history,o değiştirmek mümkün değildir bu yüzden Reklam henüz bitirmek değil.
+paid_config_module,Ücretli Configs
+currency_symbol_label,Para Birimi Sembolü (örneğin; $)
+paypal_env_label,Paypal Çevre
+paypal_merchant_label,Paypal Satıcı Kimliği
+paypal_pub_label,Paypal Açık Anahtar
+paypal_pri_label,Paypal Özel Anahtar
+paypal_enabled_label,Paypal Etkin mi?
+stripe_publishable_key,yayınlanabilir Anahtar
+stripe_secret_key,Gizli anahtar
+stripe_enable_label,Çizgili Ödeme Etkin mi?
+stripe_label,[Seçenek 2]: şerit Ödeme
+paypal_label,[Seçenek 1]: Paypal ile Ödeme Etkin
+day_label,Gün
+paid_config_info_lable,Ücretli Yapılandırma Bilgi
+paid_currrency_setting,Para Birimi Sembolü Ayarı
+paid_paypal_setting,Paypal Ayarı
+paid_stripe_setting,çizgili Ayar
+success_backend_edit,Arka uç Ayarı başarıyla güncellendi
+smtp_section,SMTP Yapılandırma
+smtp_host_label,SMTP Sunucu
+smtp_host_placeholder,örneğin: ssl: //smtp.hostmail.com
+smtp_port_label,SMTP Bağlantı Noktası Numarası
+smtp_enable,Enable SMTP?
+smtp_user_label,SMTP Kullanıcı
+smtp_pass_label,SMTP Şifresi
+topics_label,Başlıklar
+cannot_deactive,"Maalesef, devreden çıkarmak mümkün değildir."
+err_symbol_exist,Dil sembolü sistemde zaten var olan.
+policy_info,Gizlilik Politikası Bilgi
+content_label,içerik
+privacy_policy_module,Gizlilik Politikası
+success_policy_edit,Gizlilik Politikası başarıyla güncellendi
+success_policy_add,Gizlilik Politikası başarıyla eklendi
+paid_razor_setting,jilet Ayarı
+razor_label,[Seçenek 3]: jilet ile ödeme
+razor_key_label,jilet Anahtar
+razor_enabled_label,Razor Etkin mi?
+btn_promote,Desteklemek
+prd_paid_info,Öğe ücretli Bilgi
+app_is_approval_enabled,Onay Sistemi mı?
+approval_group,onay
+pending_items_module,Beklemedeki ürünler
+reject_items_module,Öğeler Reddet
+disable_items_module,Devre Dışı Öğeler
+select_status,Durum seç?
+pending_edit,Düzenleme Beklemede Öğe
+approve_message_1,Tebrik! Onaylı Öğe (
+approve_message_2,)
+disable_message_1,Tebrik! Devre Dışı Ürün (
+disable_message_2,)
+reject_message_1,Tebrik! (Öğe Reddet
+reject_message_2,)
+reject_edit,Düzenleme Ürünleri Reddet
+disable_edit,Düzenleme Devre Dışı Öğeler
+noti_sent_fail,itme bildirim göndermek için Fail
+noti_sent_success,Başarıyla için itme bildirim gönderdi
+success_app_setting_edit,Uygulama Ayarı başarıyla güncellendi
+btn_no,Hayır
+module_group_lang,Modül Grubu
+group_name,Modül Grup Adını
+group_icon,Modül Grup Simgesi
+group_lang_key,Dil Anahtar
+group_info,Modül Grubu Bilgisi
+group_search,Modül grupta ara
+group_add,Modül Grubu ekle
+success_group_edit,Modül Grup başarıyla düzenlendi
+success_group_add,Modül Grubu başarıyla eklendi
+group_edit,Düzenleme Modülü Grubu
+success_group_delete,Modül Grup başarıyla silindi
+err_group_name,Modül grup verin
+err_group_len,Modül Grup Adı uzunluğu 4 daha büyük olmalıdır
+err_group_exist,Modül Grup Adını zaten vardı edilir
+module_lang,modül
+module_desc,Açıklama
+module_ordering,Sipariş
+module_add,Modül ekle
+module_info,Modül Bilgi
+module_name,Modül Adı
+is_show_on_menu,Göster On Menüsü mı?
+module_lang_key,Modül Dil Anahtar
+module_select_group,Seç Modülü Grubu
+delete_module_label,Modül Sil?
+module_delete_confirm_message,Emin bu Modülü silmek musunuz?
+delete_group_label,Modül Grubu Sil?
+group_delete_confirm_message,Bu Modül Grubu silmek istediğinizden emin misiniz?
+err_module_name,modül adı verin
+err_module_len,Modül Adı uzunluğu 4 daha büyük olmalıdır
+err_module_exist,Modül Adı zaten vardı edilir
+module_search,Modül Adı Arama
+success_module_edit,Modül başarıyla güncellendi.
+success_module_add,Modül başarıyla eklendi.
+module_edit,Düzenleme Modülü
+success_module_delete,Modül başarıyla silindi.
+approval_yes_all_message,Silmek istediğinize emin misiniz?
+err_user_phone_exist,Telefon sistemde zaten var olan.
+paid_history_edit,Düzenleme hareketleri geçmişi
+paid_prd_add,Ücretli Öğe Ekle
+delete_system_user_label,Sistem Kullanıcıyı Sil?
+system_user_delete_confirm_message,Bu sistem Kullanıcıyı silmek istediğinizden emin misiniz?
+loc_ordering,Sipariş
+select_location_label,Yer seç
+delete_offline_item_label,Çevrimdışı öğeyi silin mi?
+offline_item_delete_message_label,Çevrimdışı öğeyi sildiğinizden emin misiniz?
+blue_mark,Mavi işaret
+blue_mark_verified,Mavi işaret doğrulandı
+blue_mark_applied,Mavi işareti uygulandı
+blue_mark_rejected,Mavi mark reddedildi
+verify_blue_mark_noti_approve,"Tebrikler, yönetici mavi işaretinizi onayladı."
+verify_blue_mark_noti_reject,"Üzgünüz, Yönetici mavi işaretinizi reddetti. Tekrar başvurmaya çalışabilirsiniz."
+verify_email_not_send_user,E-postayı doğrulamak için başarısız
+del_photo,Resmi Sil?
+upload_video,Video yükle
+del_video,Videoyu sil?
+del_video_confirm,Videoyu sildiğinizden emin misiniz?
+success_video_delete,Video başarıyla silindi.
+success_video_icon_delete,Video simgesi başarıyla silindi.
+apply_success,Mavi işaret uygulandı. Lütfen yönetici onayını bekleyin.
+blue_mark_pending,"Halen, beklemede olduğunuz için mavi işareti uygulayamazsınız. Öyleyse, lütfen yönetici onayını bekleyin."
+already_blue_mark,Zaten mavi işareti aldın.

@@ -1,0 +1,1322 @@
+key,value
+site_name,Flutter Buy & Sell Admin Panel
+title_bar_seperator,|
+added_date,Date
+upload_point_label,Upload Point
+success_item_report,Item Report has been successfully added
+signin,Sign In
+check_for_detail,Check for more detail!
+success_delete,Successfully Deleted
+success_save_contact,Thanks for contacting us. We will reach back to you soon.
+success_contact_delete,Contact Message has been successfully deleted
+btn_search,Search
+btn_add_new,Add New
+btn_edit,Edit
+btn_save,Save
+btn_save_gallery,Save and Go to Gallery
+btn_cancel,Cancel
+btn_yes,Yes
+btn_delete,Delete
+btn_publish,Publish
+btn_replace_photo,Replace Photo
+btn_replace_icon,Replace Icon
+back_button,Back
+lbl_view,View
+chat_history_save_success,Chat history has been successfully added
+chat_history_update_success,Chat history has been successfully updated
+btn_version,Version
+ver_info,Version Information
+ver_no_label,Version No
+ver_msg_label,Version Message
+ver_title_label,Version Title
+ver_force_update,Version Force Update?
+ver_need_data,Version Need Clear Data?
+success_version_add,Version has been successfully added
+success_version_edit,Version has been successfully updated
+dashboard,Dashboard
+no,No
+del_cover_photo,Delete Cover Photo
+youtube_url,Youtube URL
+profile_img,Profile Image
+success_upload,Image has been successfully uploaded
+success_img_delete,Image has been successfully deleted
+error_login,Email and Password do not match
+err_access,"Sorry, you have no access to take this action"
+err_model,Database error occured
+err_sys,System error occured
+err_upload,Upload error occured
+wrn_no_data,There is no data yet
+del_cover_photo_confirm,Are you sure you want to delete the photo?
+upload_photo,Upload photo
+no_record,No more records
+invalid_api_key,API Key is invalid
+invalid_user_id,Invalid User Id
+invalid_item_id,Invalid Item Id
+role,Role
+user_name,User Name
+user_email,Email
+user_password,Password
+conf_password,Confirm Password
+user_phone,Phone
+allowed_modules,Allowed Modules
+user_ban,Ban
+user_unban,Unban
+user_info,User Information
+user_list,Users List
+user_add,Add New User
+user_edit,Edit User
+user_search,Search User
+err_dup_email,Email Address is already existed in the system
+err_dup_name,Name is already existed in the system
+err_user_name_blank,Please provide username
+err_user_name_len,The length of the username must be greater than 4
+err_user_email_blank,Please provide email address
+err_user_email_invalid,Please provide valid email address
+err_user_email_exist,Email Address is already existed in the system
+err_user_pass_blank,Please provide password
+err_user_pass_len,The length of the password must be greater than 4
+err_user_pass_conf_blank,Please provide confirm password
+err_user_pass_conf_not_match,Password and confirm password do not match
+err_permission_blank,Please select which modules are able to access
+success_user_add,User has been successfully added
+success_user_edit,User has been succesfully updated
+err_user_banned,"Sorry, you cannot login because your account is banned."
+cat_info,Category Information
+cat_name,Category Name
+cat_ordering,Category Order
+cat_img,Category Cover Photo
+cat_icon,Category Icon
+cat_search,Search Category
+cat_select,Select Category Name
+cat_add,Add Category
+cat_edit,Edit Category
+success_cat_edit,Category has been successfully updated
+success_cat_add,Category has been successfully added
+success_cat_delete,Category has been successfully deleted
+err_cat_name,Please provide category name
+err_cat_len,The length of Category Name must be greater than 4
+err_cat_exist,Category Name is already existed in the system
+delete_cat_label,Delete Category?
+cat_delete_confirm_message,Do you want to delete all the category?
+cat_yes_all_message,Yes All - Category and Items will delete from system.
+cat_no_only_message,Only Category - Only Category will delete from system.
+cat_yes_all_label,Yes All
+cat_no_only_label,Only Category
+subcat_info,Sub Category Information
+subcat_name,Sub Category Name
+subcat_ordering,Sub Category Order
+subcat_img,Sub Category Photo
+subcat_icon,Sub Category Icon
+subcat_search,Search Sub Category
+subcat_add,Add Sub Category
+subcat_edit,Edit Sub Category
+success_subcat_edit,Sub Category has been successfully updated
+success_subcat_add,Sub Category has been successfully added
+success_subcat_delete,Sub Category has been successfully deleted
+err_subcat_name,Please provide sub category name
+err_subcat_len,The length of Sub Category Name must be greater than 4
+err_subcat_exist,Sub Category Name is already existed in the system
+delete_subcat_label,Delete Sub Category?
+subcat_delete_confirm_message,Are you sure to delete this Sub Categry?
+subcat_yes_all_message,"When delete this sub category, it will delete all related products also. So, do you still want to delete it?"
+subcat_no_only_message,<b>Only Sub Category</b> - Only Sub Category will delete from system.
+subcat_yes_all_label,Yes All
+subcat_no_only_label,Only Sub Category
+select_subcat,Select Sub Category
+select_cat,Select Category
+subcat_panel_title,Sub Category List
+Prd_search_cat,Select Category Name
+delete_contact_label,Delete Contact Message?
+contact_delete_confirm_message,Do you want to delete the contact message?
+detail_contact_label,Contact Message Detail
+contact_info_label,Contact Message Information
+about_contact_label,About Contact Message
+contact_info_label,Contact Detail Information
+contact_name,Contact Person Name
+contact_email,Contact Person Email
+contact_phone,Contact Person Phone
+btn_reset,Reset
+reset_password,Reset Password
+contact_receive_message,You have received new contact us message.
+nav_profile,Go to profile
+nav_backend,Go to Backend
+nav_logout,Logout
+total_label,Total :
+device_label,Device
+devices_label,Devices
+registered_label,has been registered for Push Notification
+noti_info,Push Notification
+noti_message_label,Message
+noti_message_tooltips,Please provide the messsage for push notification.
+noti_send_btn,Send Push Notification
+sorry_no_device,"Sorry, there is no registered device for Push Notification."
+select_cat,Select Category
+success_noti_add,Notification has been successfully added
+success_noti_delete,Notification has been successfully deleted
+delete_noti_label,Delete Notification?
+noti_yes_message,Yes- Notification will delete from system.
+push_message,Push Message
+noti_des_label,Description
+noti_img,Notification Photo
+noti_search,Search Noti
+select_cat,Select Category
+noti_add,Add Noti
+app_info_lable,About Information
+about_title_label,About Title
+description_label,About Description
+about_email_label,About Email
+about_phone_label,About Phone
+about_website_label,About Website Link
+about_seo_section,SEO Information
+about_seo_title_label,SEO Title
+about_seo_desc_label,SEO Description
+about_seo_keywords_label,SEO Keywords
+about_social_section,Social Information
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Twitter
+about_color_section,About Website Theme Color
+about_theme,Available Themes
+success_about_edit,About is successfully updated
+about_ads_analyt,Google Analytic & Ads Setting
+about_ads_client,Ads Client
+about_ads_slot,Ads Slot
+about_analyt_track_id,Analytic Track Id
+about_ads_on,Enable Google Adsense
+about_analyt_on,Enable Google Analytic
+gdpr_label,GDPR Content
+safety_tips_label,Safety Tips
+total_users_count_label,Registered Users
+total_cat_count_label,Total Categories
+total_contact_label,Total Contact Message
+total_likes_count_label,Total Likes Count
+total_favs_count_label,Total Favourites Count
+total_comments_count_label,Total Comments Count
+category_panel_title,Recent Categories
+recent_news_panel_title,Recent News
+available_inside,News available inside this category.
+contact_message,Contact Messages
+user_latest_members,Latest Registered Users
+success_contact,Your message successfully save in the system.
+file_na,Not Available
+required_platform,Required Platform
+err_noti_register,"Sorry, there is the problem for Push Notification registration"
+success_noti_register,Your device successfully registered for Push Notification.
+success_noti_unregister,Your device successfully unregistered for Push Notification.
+err_noti_unregister,"Sorry, there is the problem for Push Notification unregistration"
+success_touch_count,Touch Count Successfully Inserted.
+err_touch_count,Problem In Touch Count!
+err_user_register,"Sorry, there is the problem for user registration."
+err_user_not_exist,"Sorry, user is not exist in the system."
+err_user_not_verify,"Sorry, your account is not yet verify."
+err_email_not_send,"Sorry, there is problem in sending email."
+err_user_update,"Sorry, there is problem in updating user information."
+err_user_password_update,"Sorry, there is problem in updating user's password."
+success_profile_update,Your profile successfully updated.
+success_email_sent,Email is sent successfully.
+success_reset,Password has been reset successfully
+success_reset_email_sent,Reset Email is sent successfully
+trending,Trending News
+editor_pick,Editor Picked News
+list_product_nav,Item
+prd_add,Add Item
+att_add,Add New Attribute
+add_att_detail,Add New Attribute Detail
+list_attribute_header,Attribute Header List
+item_name,Item Name
+att_name,Attribute Name
+Prd_search_subcat,Select Subcategory Name
+Prd_search_dis,Select Discount Type
+product_gallery,Item Gallery
+prd_info,Item Information
+rec_prd_info,Recently Added Items
+att_info,Attribute Information
+prd_desc,Item Description
+prd_high_info,Item Highlight Information
+prd_edit,Edit Item
+prd_code,Item Code
+success_prd_add,Item has been successfully added
+success_prd_edit,Item has been successfully updated
+success_upload,Image has been successfully updated
+delete_prd_label,Delete Item?
+prd_yes_all_message,"When delete this item, it will delete all related sub categories and category also. So, do you still want to delete it?"
+success_prd_delete,Item has been successfully deleted
+prd_search,Search Item
+err_item_name,Please provide item name
+err_item_len,The length of Item Name must be greater than 4
+err_item_exist,Item Name is already existed in the system
+item_gallery,Item Gallery
+condition_of_item,Condition Of Item
+item_description_label,Description
+deal_option_id_label,Deal Option
+meet_up_label,Meet Up
+mailing_or_delivery_label,Mailing Or Delivery
+brand_label,Brand
+price,Price
+itm_title_label,Title
+itm_business_mode,Is Shop?
+itm_show_shop,( If show user can order more than one )
+itm_is_sold_out,Is Sold Out?
+location_info_label,Location Information
+itm_address_label,Address
+itm_lat_label,Latitude
+itm_lng_label,Longitude
+itm_select_price,Select Price Type
+itm_select_type,Select Item Type
+itm_select_currency,Select Item Currency
+status_label,Status
+select_status_label,Select Status
+itm_select_location,Select Item Location
+find_location_label,Type & Find location from Google API
+itm_select_condition_of_item,Select Condition of item
+itm_select_deal_option,Select Deal Option
+api_info,API Setting Information
+api_title,API Setting
+api_title_tooltips,API Name
+api_order_by,Order By
+btn_save,Save
+btn_cancel,Cancel
+success_api_edit,Successfully Updated
+about_gallery,Gallery
+categories_label,Categories
+messages_label,Messages
+total_label,Total
+view_all_label,View All
+divider_label,:
+users_label,Users
+app_setting,App Setting Information
+apikey_info,Api Key Information
+key_label,Key
+success_apikey_edit,Api Key is successfully updated
+success_apikey_add,Api Key is successfully added
+earn_point_label,Earn Point
+currency_info,Currency Information
+currency_add,Add Currency
+currency_symbol,Currency Symbol
+currency_short_form,Currency Short Form
+currency_add,Add Currency
+success_currency_edit,Currency has been successfully updated
+success_currency_add,Currency has been successfully added
+success_currency_delete,Currency has been successfully deleted
+delete_currency_label,Delete Currency?
+currency_delete_confirm_message,Do you want to delete Currency?
+currency_search,Search Currency
+currency_edit,Edit Currency
+err_currency_name,Please provide currency name
+err_currency_len,The length of Currency Name must be greater than 4
+err_currency_exist,Currency Name is already existed in the system
+color_color,Color
+select_type,Select Type
+from_point,From Point :
+to_point,To Point :
+order_by,Order By :
+select_order,Select Order
+push_noti_sending_title,Sending Push Notification
+no_device_label,There is no registered devices yet.
+delete_color_label,Delete Color?
+color_delete_confirm_message,Do you want to delete color?
+upload_icon,Category Icon
+about_upload_icon,Upload Icon
+fav_upload_icon,Fav Icon
+btn_upload,Upload
+not_enough_point,"Sorry, your point is not enough."
+view_count,View Counts
+earn_point_label,Earned Point
+download_count,Download Count
+rating_count,Rating Count
+terms_label,Terms and Conditions
+about_img,About Cover Photo
+select_csv_file,Select CSV File
+something_wrong_upload,Something wrong in your uploaded data.
+pls_upload_csv,Please upload CSV file.
+sample_csv_format,Sample CSV is here : https://www.dropbox.com/s/oheyivxfgdlk129/sample.csv?dl=0
+csv_upload_instruction,"Please follow those steps at below : <br>
+1. Upload images to uploads folder manually via FTP. <br>
+2. Upload thumbnail images to uploads/thumbnail folder manully via FTP.<br>
+3. Then prepare like CSV format. Sample Here : http://bit.ly/2UvCjRp <br>
+4. Need to follow those rules. Here : http://bit.ly/2T1Tjgp <br>
+5. You can use Google Sheet to create and export as comma separator. <br>
+6. Recommended is around 100 records at one CSV."
+noti_sent_fail,Fail to send push notification
+noti_sent_success,Successfully sent push notification to
+reject_message_2,)
+approve_message_2,)
+uploaded_user,Uploaded User
+delete_user_label,Delete Registered User?
+user_delete_confirm_message,Do you want to delete all the Registered User?
+user_yes_all_label,Yes All
+user_no_only_label,Only Category
+success_user_delete,Registered User has been successfully deleted
+credit,Credit
+price_info,Price Information
+price_name,Price Name
+price_edit,Edit Price
+price_add,Add Price
+price_search,Search Price
+delete_price_label,Delete Price?
+price_delete_confirm_message,Do you want to delete Price?
+err_price_name,Please provide price name
+err_price_len,The length of Price Name must be greater than 4
+err_price_exist,Price Name is already existed in the system
+success_price_edit,Price has been successfully updated
+success_price_add,Price has been successfully added
+success_price_delete,Price has been successfully deleted
+type_info,Item Type Information
+type_name,Type Name
+type_edit,Edit Type
+type_add,Add Type
+type_search,Search Type
+delete_type_label,Delete Type?
+type_delete_confirm_message,Do you want to delete Type?
+err_type_name,Please provide type name
+err_type_len,The length of Type Name must be greater than 4
+err_type_exist,Type Name is already existed in the system
+success_type_edit,Type has been successfully updated
+success_type_add,Type has been successfully added
+success_type_delete,Type has been successfully deleted
+location_info,Item Location Information
+location_name,Location Name
+location_edit,Edit Location
+location_add,Add Location
+location_search,Search Location
+delete_location_label,Delete Location?
+location_delete_confirm_message,Do you want to delete Location?
+err_location_name,Please provide Location name
+err_location_len,The length of Location Name must be greater than 4
+err_location_exist,Location Name is already existed in the system
+success_location_edit,Location has been successfully updated
+success_location_add,Location has been successfully added
+success_location_delete,Location has been successfully deleted
+blog_add,Add Blog
+blog_info,Blog Informations
+blog_name,Blog Name
+blog_desc,Blog Description
+blog_edit,Edit Blogs
+success_blog_add,Blogs has been successfully added
+success_blog_edit,Blogs has been successfully updated
+err_dup_name,Name is already existed in the system
+err_blog_exist,Blog Name is already existed in the system
+delete_blog_label,Delete Blog?
+blog_delete_confirm_message,Are you sure to delete this blog?
+success_blog_delete,Blogs has been successfully deleted
+err_blog_len,The length of blog Name must be greater than 4
+err_blog_name,Please provide blog name
+blog_search,Blog Search
+blog_gallery,Blog Gallery
+btn_disable,Disable
+report_edit,Edit Item Report
+total_category_count_label,Total Categories
+total_sub_cat_count_label,Total Subcategories
+total_blog_count_label,Total Blogs
+total_contact_count_label,Total Contact Message
+popular_item,Most Popular Item
+item_report,Reported Item
+items_label,Recently Added Items
+item_img,Item image upload
+popular_item_info,Popular Item Information
+popular_item_view,View Popular Item
+app_setting_lable,App Setting Information
+app_lat_label,Latitude
+app_lng_label,Longitude
+location_info_label,Location Information
+err_chat_history_not_exist,No Record found in chat history
+accept_update_success,Accept Offer has been successfully updated
+err_accept_update,"Sorry, there is a problem in accept offer"
+count_update_success,Reset Count has been successfully updated
+err_count_update,"Sorry, there is a problem in reset count"
+price_update_success,Price has been successfully updated
+err_price_update,"Sorry, there is a problem in price"
+err_accept_offer,"Sorry, you could not accepect the offer again."
+overall_rating,Rating
+user_is_verify_do_forgot_password,Your account is verified so please do forgot password.
+user_view,View User
+user_address,Address
+user_city,City
+about_me,About Me
+verify_type,Verify Type
+follower_count,Follower Count
+following_count,Following Count
+user_profile,Profile Photo
+email_verify,Email Verify
+facebook_verify,Facebook Verify
+google_verify,Google Verify
+phone_verify,Phone Verify
+condition_name,Condition Name
+cond_search,Search Condition
+condition_add,Add Condition
+condition_info,Item Condition Information
+cond_edit,Edit Condition
+delete_condition_label,Delete Condition?
+condition_delete_confirm_message,Do you want to delete the conditions?
+condition_yes_all_message,Yes All - Condition and Items will delete from system.
+success_condition_edit,Condition has been successfully updated
+success_condition_add,Condition has been successfully added
+success_condition_delete,Condition has been successfully deleted
+err_condition_name,Please provide condition name
+err_condition_len,The length of Condition Name must be greater than 4
+err_condition_exist,Condition Name is already existed in the system
+option_name,Deal Option Name
+cond_search,Search Deal Option
+option_add,Add Deal Option
+option_info,Item Deal Option Information
+cond_edit,Edit Deal Option
+delete_option_label,Delete Deal Option?
+option_delete_confirm_message,Do you want to delete the Deal Options?
+option_yes_all_message,Yes All - Deal Option and Items will delete from system.
+success_option_edit,Deal Option has been successfully updated
+success_option_add,Deal Option has been successfully added
+success_option_delete,Deal Option has been successfully deleted
+err_option_name,Please provide Deal Option name
+err_option_len,The length of Deal Option Name must be greater than 4
+err_option_exist,Deal Option Name is already existed in the system
+lang_name,Language Name
+btn_active,Active
+lang_string,Language String
+lang_add,Add Language
+lang_info,Language Information
+lang_symbol,Symbol
+lang_search,Search Language
+lang_edit,Edit Language
+success_lang_edit,Language has been successfully updated
+success_lang_add,Language has been successfully added
+success_lang_delete,Language has been successfully deleted
+err_lang_name,Please provide language name
+err_lang_len,The length of Language Name must be greater than 4
+err_lang_exist,Language Name is already existed in the system
+delete_lang_label,Delete Language?
+lang_delete_confirm_message,Do you want to delete all the string under that language together?
+lang_yes_all_label,Yes All
+lang_no_only_label,Only Language
+lang_yes_all_message,Yes All - Language and Items will delete from system.
+language_id,Language
+lang_string_key,Key
+lang_string_value,Value
+lang_string_info,Language String Informaton
+select_language,Selected Language
+btn_import,Import
+csv_symbol_link,Sample csv file here
+lang_str_search,Search Language String
+success_langstr_import,Language String successfully csv file uploaded
+lang_str_add,Add Language String
+lang_str_edit,Edit Language String
+lang_active,Active
+lang_deactive,Deactivate
+success_lang_str_edit,Language String has been successfully updated
+success_lang_str_add,Language String has been successfully added
+err_lang_str_name,Please provide language string name
+err_lang_str_len,The length of language string must be greater than 4
+err_lang_str_exist,Language String is already existed in the system
+lang_title,Deleted Language?
+lang_warning,You can't delete active language.
+btn_ok,OK
+list_lang_label,Languages
+list_lang_str_label,Language Strings
+err_lang_symbol,Please provide language symbol
+dashboard_label,Dashboard
+cat_module,Categories
+subcat_module,Subcategories
+contact_module,Contact Us Message
+system_user_module,System Users
+register_user_module,Registered Users
+about_module,App About
+noti_module,Push Notification
+analytic_module,Analytics
+export_database_module,Export Database
+app_user_module,APP User
+popular_item_module,Most Popular Items
+item_module,Items
+api_key_module,Api Keys
+api_setting_module,API Setting
+rating_module,Most Rating Users
+version_module,App Version
+item_currency_module,Item Currency
+item_price_module,Item Price
+item_type_module,Item Type
+blog_module,Blog
+item_report_module,Reported Items
+app_setting_module,App Setting
+item_location_module,Location Cities
+item_condition_module,Item Conditions
+deal_option_module,Item Deal Option
+language_module,Languages
+paid_item_module,Sponsored Items Report
+backend_setting_module,Backend Setting
+start_date_label,Start Date
+end_date_label,End Date
+amount_label,Amount
+payment_method_label,Payment Method
+progress_label,Progress
+finished_label,Finished
+not_yet_start_label,Not yet start
+today_label,Today
+second_ago,seconds
+minute_ago,minutes
+hour_ago,hours
+day_ago,days
+week_ago,weeks
+month_ago,months
+year_ago,years
+decade_ago,decades
+just_now_label,Just Now
+ago_label,ago
+user_acc_reg_label,New User Account Registration
+user_register_success_but_email_not_send,User register success but email not send
+pwd_reset_label,Password Reset
+hi_label,Hi
+pwd_reset_link,Please click the following link to reset your password
+reset_link_label,Reset Password
+best_regards_label,Best Regards
+new_user_acc,Your new User Account has been created. Welcome to Flutter Buy&Sell. Please verified with the code at below to actived your account.
+verify_code_label,Verified Code
+hi_admin_label,Hi Admin
+name_label,Name
+email_label,Email
+phone_label,Phone
+msg_label,Message
+verify_code_sent,Verification code has been sent.
+user_id_required,User ID is required.
+invalid_login_user_id,User ID is invalid.
+already_accept_user,User has been accepted.
+sender_id_required,Sender ID is required
+success_delete,Successfully Deleted.
+success_cat_request,Your request successfully.
+err_cat_request,Sorry
+err_chat_history_save,Sorry
+accept_reset_success,Your chat request successfully.
+error_delete_chat_history,Sorry
+success_delete_chat_history,Your chat history successfully deleted.
+err_soldout_reset,Sorry
+soldout_reset_success,Your reset has been success.
+err_item_report,Sorry
+token_already_exist,Sorry
+err_in_noti_read,Sorry
+success_noti_send,Notification has been sent successfully.
+error_noti_send,Sorry
+invalid_code,Sorry
+backend_config_info_lable,Backend Setting Information
+sender_name_label,Sender Name
+receive_email_label,Receive Email
+sender_email_label,Sender Email
+img_section,Image Section
+fcm_api_key_label,fcm api key
+backend_login_img,Backend Login Background Image
+backend_logo,Backend Logo
+backend_fav_icon,Backend Fav Ico
+upload_backend_logo,Upload Backend Logo
+upload_fav_icon,Upload Fav Icon
+upload_login_img,Upload Login Photo
+transaction_module,Transactions History
+history_search,Search Transactions History
+trans_history_info,Transactions History Information
+entry_group,Entry
+reports_group,Reports
+user_mang_group,Users Management
+miscellaneous_group,Miscellaneous
+setting_group,Setting
+ple_sub_cat_name,Please Sub Category Name
+ple_highlight_info,Please Highlight Information
+forget_pwd,Forgot Password?
+remove_label,Remove
+his_info,History Information
+err_paid_item_history,Your Ad is not yet finish so it is not able to modify.
+paid_config_module,Payment Setting
+currency_symbol_label,Currency Symbol (eg; $)
+paypal_env_label,Paypal Environment
+paypal_merchant_label,Paypal Merchant ID
+paypal_pub_label,Paypal Public Key
+paypal_pri_label,Paypal Private Key
+paypal_enabled_label,Is Paypal Enabled?
+stripe_publishable_key,Publishable Key
+stripe_secret_key,Secret Key
+stripe_enable_label,Is Enabled Stripe Payment?
+stripe_label,[Option 2] : Payment With Stripe
+paypal_label,[Option 1] : Payment With Paypal Enabled
+day_label,Day
+paid_config_info_lable,Paid Config Information
+paid_currrency_setting,Currency Symbol Setting
+paid_paypal_setting,Paypal Setting
+paid_stripe_setting,Stripe Setting
+success_backend_edit,Backend Setting has been successfully updated
+smtp_section,SMTP Configuration
+smtp_host_label,SMTP Host
+smtp_host_placeholder,eg: ssl://smtp.hostmail.com
+smtp_port_label,SMTP Port Number
+smtp_enable,SMTP Enable?
+smtp_user_label,SMTP User
+smtp_pass_label,SMTP Password
+topics_label,Topics
+cannot_deactive,"Sorry, it is not able to deactivate."
+err_symbol_exist,Language symbol is already existed in the system.
+policy_info,Privacy Policy Information
+content_label,Content
+privacy_policy_module,Privacy Policy
+success_policy_edit,Privacy Policy has been successfully updated
+success_policy_add,Privacy Policy has been successfully added
+paid_razor_setting,Razor Setting
+razor_label,[Option 3] : Payment With Razor
+razor_key_label,Razor Key
+razor_enabled_label,Is Enabled Razor?
+btn_promote,Promote
+prd_paid_info,Item paid Information
+app_is_approval_enabled,"Approval System On?(If this setting is ""On"" when user update new item it need to approve or reject from super admin.)"
+approval_group,Approval
+pending_items_module,Pending Items
+reject_items_module,Reject Items
+disable_items_module,Disable Items
+select_status,Select Status?
+pending_edit,Edit Pending Item
+approve_message_1,Congratulation! Approved Item (
+approve_message_2,)
+disable_message_1,Sorry! Disable Item (
+disable_message_2,)
+reject_message_1,Sorry! Reject Item (
+reject_message_2,)
+reject_edit,Edit Reject Items
+disable_edit,Edit Disable Items
+noti_sent_fail,Fail to send push notification
+noti_sent_success,Successfully sent push notification to
+success_app_setting_edit,App Setting has been successfully updated
+btn_no,No
+module_group_lang,Menu Name Setting
+group_name,Module Group Name
+group_icon,Module Group Icon
+group_lang_key,Language Key
+group_info,Module Group Information
+group_search,Search Module Group
+group_add,Add Module Group
+success_group_edit,Module Group has been successfully edited
+success_group_add,Module Group has been successfully added
+group_edit,Edit Module Group
+success_group_delete,Module Group has been successfully deleted
+err_group_name,Please provide module group
+err_group_len,The length of Module Group Name must be greater than 4
+err_group_exist,Module Group Name is already existed
+module_lang,Sub Menu Name Setting
+module_desc,Description
+module_ordering,Ordering
+module_add,Add Module
+module_info,Module Information
+module_name,Module Name
+is_show_on_menu,Is Show On Menu?
+module_lang_key,Module Language Key
+module_select_group,Select Module Group
+delete_module_label,Delete Module?
+module_delete_confirm_message,Are you sure to delete this Module?
+delete_group_label,Delete Module Group?
+group_delete_confirm_message,Are you sure to delete this Module Group?
+err_module_name,Please provide module name
+err_module_len,The length of Module Name must be greater than 4
+err_module_exist,Module Name is already existed
+module_search,Search Module Name
+success_module_edit,Module has been successfully updated.
+success_module_add,Module has been successfully added.
+module_edit,Edit Module
+success_module_delete,Module has been successfully deleted.
+approval_yes_all_message,Are you sure to Delete?
+err_user_phone_exist,Phone is already existed in the system.
+paid_history_edit,Edit Transaction history
+paid_prd_add,Add Paid Item
+delete_system_user_label,Delete System User?
+system_user_delete_confirm_message,Are you sure to delete this System User?
+loc_ordering,Ordering
+record_not_found,"10001##Sorry, record not found."
+no_record_pagination,"10002##Sorry, no more record in the system."
+offline_paid_module,Offline Sponsored Items Request
+offline_paid_prd_info,Offline Sponsored Items Information
+offline_paid_edit,Edit Offline Sponsored Items
+offline_setting,Offline Setting
+offline_label,[Option 4] : Payment With Offline
+offline_message,Message
+offline_enabled_label,Is Enabled Offline?
+prd_paid_info,Paid Item Information
+offline_info,Offline Payment Information
+offline_title_label,Offline Payment Title
+offline_description_label,Offline Payment Description
+offline_icon,Offline Payment Icon
+offline_search,Search Offline Payment
+offline_add,Add Offline Payment
+offline_edit,Edit Offline Payment
+success_offline_edit,Offline Payment has been successfully updated
+success_offline_add,Offline Payment has been successfully added
+success_offline_delete,Offline Payment has been successfully deleted
+err_offline_name,Please provide offline payment title
+err_offline_len,The length of offline payment title must be greater than 4
+err_offline_exist,Offline Paymen Title is already existed in the system
+delete_offline_label,Delete Offline Payment?
+offline_delete_confirm_message,Do you want to delete all the offline payment?
+offline_yes_all_label,Yes
+offline_no_only_label,Cancel
+offline_payment,Payment Offline Setting
+offline_paid_module,Offline Sponsored Items Request
+err_lat,Provide Latitude
+err_lng,Provide Longitude
+img_configuration,Image Configuration
+land_width_label,Landscape Width
+potrait_height_label,Potrait Height
+square_label,Square Height
+err_lat,Please provide Latitude
+err_lng,Please provide Longitude
+err_lat_lng,Your Latitude and Longitude must not be 0.0
+offline_yes_all_message,Do you want to delete all the offline payment?
+email_verification_enabled,"Email Verification Enabled?(If this setting is ""On"" when user register by using email it will send verification code to user registered email.)"
+user_auto_approved,Your new User Account has been created. Welcome to Flutter Buy&Sell.
+user_not_able_delete,"sorry, this is system account so it is not able to deactivate."
+delete_allow_user_label,Delete Allowed User?
+allow_user_delete_confirm_message,Do you want to delete all the Allowed User?
+allowed_module_lang,Allowed Users
+itm_promote_alert,Important : This item is under promotion now so please make sure for Disable Action.
+success_block,User has been successfully blocked.
+success_unblock,User has been successfully unblocked.
+no_user_unblock,Unable to unblock the user.
+unable_to_report,Unable to report the item because it is your own item.
+success_logout,User has been successfully logout.
+deeplink_section,Deep Linking Section
+dyn_link_key_label,Dynamic link key
+dyn_link_url_label,Dynamic linking url
+dyn_link_package_name_label,Dynamic linking package name
+dyn_link_domain_label,Dynamic linking domain
+dyn_link_deep_url_label,Deep linking url
+prd_dynamic_link_label,Product Dynamic Link
+already_report,You have already reported to this item.
+lat_invlaid,Latitude must be between -90 and 90 degrees inclusive.
+lng_invlaid,Longitude must be between -180 and 180 degrees inclusive.
+paystack_setting,Paystack Setting
+paystack_label,[Option 5]: Payment with Paystack
+paystack_key_label,Paystack Key
+paystack_enabled_label,Is Paystack Enabled?
+btn_duplicate,Duplicate
+success_prd_duplicate_add,Duplicate Item has been successfully added
+dyn_link_package_name_ios,Dynamic linking IOS package name
+dyn_link_ios_appstore_id,Dynamic Linking IOS AppStore Id
+purchase_add,Add In App Product
+in_app_purchase_info,In App Purchased Informations
+app_purchase_product_id_label,In App Purchased Product Id ( Item Promotion )
+purchase_description_label,Description
+purchase_type_label,Type
+err_purchase_description,Please Provide Description
+success_purchase_edit,In App Purchased has been successfully updated.
+delete_purchase_label,Delete In App Purchased?
+purchase_yes_all_message,Do you want to delete In App Purchased?
+success_purchase_delete,In App Purchased has been successfully deleted.
+in_app_purchased_setting,In App Purchased Setting
+purchase_key_label,You cam make the payment with in app purchased
+purchase_enabled_label,Is Purchase Enabled?
+in_app_purchases,Payment In App Purchased Setting
+data_delection_module,User Data Deletion
+data_delete_info,User Data Deletion Information
+is_show_email,Show Email
+is_show_phone,Show Phone
+data_delete_info,Data Deletion Policy Information
+success_data_deletion_add,Data Deletion Policy has been successfully added.
+success_data_deletion_edit,Data Deletion Policy has been successfully updated.
+data_deletion_module,Data Deletion Policy
+data_deletion_policy_url,Data Deletion Policy URL
+privacy_policy_url,Privacy Policy URL
+Privacy_policies,Privacy Policies
+Data_deletions_policies,Data Deletion Policies
+success_delete,Successfully deleted
+location_townships,Loction Townships
+location_township_add,Add Location Township
+township_name,Township Name
+item_location_module,Location Cities
+is_default,Default
+Prd_search_location_township,Select Item Location Township
+itm_select_location_township,Select Item Location Township
+location_township_name,Township Name
+township_search,Search Township
+township_edit,Edit Township
+is_sub_location,"Sub Location On?(If this setting is ""On"" when the user open the app the user need to choose sub location(township) under the location(city) )"
+followed_you,follow you.
+bought_your_item,bought your item
+you_bought,You bought
+err_user_bought,"Sorry, there is a problem when clicking user bought."
+success_user_bought,User bought has been successfully clicked.
+thumbnail_generators_lng,Thumbnail Generator
+btn_create_thumbnail,Thumbnail (1x2x3x) Generator
+thumb_1x_label,Thumbnail 1x Image Size
+thumb_2x_label,Thumbnail 2x Image Size
+thumb_3x_label,Thumbnail 3x Image Size
+image_lists_lng,Image Lists
+img_name,Image Name
+success_img_create,"Thumbnail 2x,3x has been created successfully."
+img_not_exist,Image has not existed in upload folder.
+select_location_label,Select Location
+delete_offline_item_label,Delete Offline Item?
+offline_item_delete_message_label,Are you sure to delete offline Item?
+blue_mark,Blue Mark
+blue_mark_verified,Blue Mark Verified
+blue_mark_applied,Blue Mark Applied
+blue_mark_rejected,Blue Mark Rejected
+verify_blue_mark_noti_approve,"Congratulations, the admin approved your blue mark."
+verify_blue_mark_noti_reject,"Sorry, the admin rejected your blue mark. You can try to apply again."
+verify_email_not_send_user,Fail to send verify email to
+del_photo,Delete Image?
+upload_video,Upload Video
+del_video,Delete Video?
+del_video_confirm,Are you sure to delete Video?
+success_video_delete,Video has been deleted successfully.
+success_video_icon_delete,Video Icon has been deleted successfully.
+apply_success,Blue Mark has been applied. Please wait for an admin approval.
+blue_mark_pending,"Currently, you can't apply blue mark because you are in pending. So, please wait an admin approval."
+already_blue_mark,You already got the blue mark.
+note,Note
+user_social_info_override,"User Social Information Override? If checked, the user's social information will be overried when you login with (google, facebook, phone and apple, etc...)"
+recommended_size_img,Recommended Size : 400 x 200
+recommended_size_icon,Recommended Size : 200 x 200
+applied_date_label,Applied Date (DD/MM/YYYY)
+pending,Pending
+verified,Verified
+rejected,Rejected
+all,All
+blue_mark_users_label,Verify Blue Mark Users
+app_token_label,App Token ( for Facebook profile picture )
+already_sold_out,The item has already sold out and you can't make offer.
+city_id_required,Please select city id.
+err_township_name,Please provide township name.
+err_township_len,The length of Township Name must be greater than 4.
+success_township_add,Township has been added successfully.
+success_township_edit,Township has been updated successfully.
+deeplink_generator_label,Deeplink Generator
+btn_deeplink_generator,Generate Deeplink
+success_deeplink_generate,Deeplink has been generated successfully.
+err_currency_symbol,Please provide currency symbol.
+err_desciption,Please provide item description
+pkg_add,Add Package
+pkg_search,Search Package
+pkg_edit,Edit Package
+success_pkg_edit,Package has been successfully updated.
+success_pkg_add,Package has been successfully added.
+success_pkg_delete,Package has been successfully deleted.
+title,Title
+pkg_info,Package Information
+post_count,Post count
+pkg_select_currency,Select Package Currency
+err_pkg_title,Please provide package title
+err_pkg_price,Please provide package price
+err_pkg_currency,Please provide package currency
+err_pkg_post_count,Please provide number of post count
+err_pkg_exit,Package Name is already existed in the system
+delete_pkg_label,Delete Package?
+pkg_delete_confirm_message,Are you sure to delete this Package?
+pkg_yes_all_label,Yes All
+pkg_no_only_label,Only Package
+err_pkg_bought,Sorry
+success_pkg_bought,Package Bought Successfully Inserted.
+is_paid_app,"Paid App On? (If this setting is ""On"", this app is limited user ad post)"
+package_module,Packages
+is_subcat_subscription,"Sub Category Subscription On? (If this setting is ""On"", the user must be able to subscribe to the subcategories.)"
+err_subcat_subscibe_save,Sorry
+err_subcat_subscibe_delete,Sorry
+success_subcat_subscribe,Success subcategory subscription.
+verify_blue_mark,Blue Mark Verified
+rating_view,View Rating User
+csv_export,CSV Export
+Item_reports,Reported Items
+report_search,Search reported item
+rating_search,Search rating user
+demo_login,Login with demo account
+approve_item,Approve Item
+disable_item,Disable Item
+reject_item,Reject Item
+receive_rating_from,Receive rating from
+discount_rate_by_percentage,Discount Rate by Percentage
+item_upload_config,Item Upload Configs
+success_item_config_edit,Item Upload Config has been successfully updated
+success_item_config_add,Item Upload Config has been successfully added
+item_config_label,Item Upload Config Informations
+item_type,Item type
+price_type,Item price type
+deal_option_remark,Deal Option Remark
+System_users,System users
+Registered_users,Registered users
+item_location,Item Location
+item_location_township,Item Location Township
+Item_currency,Item currency
+App_settings,App settings
+Backend_configs,Backend configs
+is_block_user,"Block feature On? (If this setting is ""On"", the user can block other unwanted users from seeing their ad post.)"
+err_image,Please fill upload photo
+err_video,Please fill upload video
+err_video_icon,Please fill upload video icon
+item_video,Item video upload
+item_video_icon,Item video icon upload
+item_loc_config,Item Location Config
+err_brand,Please provide item brand name
+err_address,Please provide address
+err_deal_option,Please provide deal option
+err_deal_option_remark,Please provide deal option remark
+err_highlight_info,Please provide highlight information
+Item_price,Item price
+err_item_price_type,Please provide item price type
+err_item_type,Please provide item type
+err_condition_of_item,Please provide condition of item
+open,Open
+in_progress,In progress
+close,Close
+demo_data_delete,Demo Data Deletion
+demo_data_delete_note_label,Note: All 'users' records will be deleted except the admin account.
+success_demo_data_delete,Demo data has been successfully deleted.
+btn_submit,Submit
+admin_pwd_label,Enter Admin Password
+delete_demo_data,Are you sure to delete all demo data?
+admin_confirm,Please enter your admin password below to confirm these demo data deletions.
+err_blank_pwd,Please fill admin password
+err_pwd_invalid,Your password is invalid!
+no_messages,No recently messages
+no_items,No recently added items
+no_users,No recently added users
+img_all_delete,All related images will be deleted
+images,Images
+no_need_bought,"No need to buy ad posts, you are a system user."
+need_user_bought,This item has been needed to buy by the user first.
+need_accept_offer,This item has been needed to accept an offer first.
+need_make_offer,This item has been needed to make offer first.
+already_make_offer,This item is already made an offer.
+already_reject_offer,This item has already been rejected the offer.
+already_rejected,This item has already been rejected the offer.
+adpost_history_search,Search Ad Post Transactions History
+ad_post_transactions_module,Ad Post Transactions History
+package_name,Package Name
+buy_ad_post_transactions,Ad Post Transactions History
+adpost_history_view,View Ad Post Transactions History
+cannot_default,"Sorry, it is not able to undefault."
+cannot_unpublish,"Sorry, it is not able to unpublish to default currency."
+new_item_upload_label,New item uploaded under
+csv_upload_instruction_city,"Please follow those steps below: <br>
+1. Then prepare like CSV format. <a href=""https://drive.google.com/file/d/1g3T6H2cdZsGS0UlHji6_BkP_JIa1YBCy/view?usp=sharing"" target=""_blank""> sample csv file here </a> <br>
+2. You can use Google Sheet to create and export as a comma separator."
+pls_upload_csv,Please upload a CSV file.
+Something wrong in your uploaded data.,Something wrong upload file
+err_paid_adpost_history,Sorry! Please check the payment information.
+total_city,Total location city :
+success_total_city,Succeed location city :
+fail_total_city,Failed location city :
+total_township,Total location township :
+success_total_township,Succeed location township :
+fail_total_township,Failed location township :
+beacause_db_err,because of a database error.
+because_miss_city,because of missing location city
+because_miss_township,because of missing location township
+csv_upload_instruction_township,"Please follow those steps below: <br>
+1. Then prepare like CSV format. <a href=""https://drive.google.com/file/d/1hkLZUDt4pxIqtfPE9k5rhzf4rhK6VJit/view?usp=sharing"" target=""_blank""> sample csv file here </a> <br>
+2. You can use Google Sheet to create and export as comma separator.<br>
+Note: The city name to be used in the location township CSV file should be added first."
+because_noexit_city,the city name is not existed in the system
+item_locations,Item location city
+city_existed,is already existed in the system.
+township_existed,is already existed in the system.
+success_generate_sitemap,The sitemap has been generated successfully.
+sitemap_generator,Sitemap Generator
+sitemap_generators,Sitemap Generator
+sitemap_generator_label,Sitemap Generator
+btn_create_sitemap,Generate Sitemap
+err_generate_sitemap,Sitemaps do not generate some errors.
+sitemap_generate_desc,It will generate the sitemap XML files. Please take note that this process will take some things based on your data.
+sitemap_url_here,Sitemap File Here:
+sitemap_info,Your sitemap xml has been generated at
+copy_sitemap_to_fe,Copy sitemap file to frontend
+total_cat,Total Category:
+success_cat,Successed Category:
+fail_cat,Failed Category:
+miss_cat_name,because of missing category name
+miss_cat_img,because of the missing category image in the 'uploads' folder.
+miss_cat_icon,because of the missing category icon in the 'uploads' folder.
+total_subcat,Total Sub Category:
+success_subcat,Successed Sub Category:
+fail_subcat,Failed Sub Category:
+miss_subcat_name,because of missing subcategory name
+miss_subcat_img,because of missing subcategory image in the 'uploads' folder.
+miss_subcat_icon,because of the missing subcategory icon in the 'uploads' folder.
+not_exist_cat,category name has not existed in the system.
+db_err,because of a database error.
+already_existed,is already existed.
+csv_upload_instruction_cat,"Please follow those steps below:<br>
+1. Upload images to uploads folder manually via FTP.<br>
+2. Then prepare like CSV format. <a href=""https://drive.google.com/file/d/1Qt-fnaTullQo6tOumLGwoZIB34b-TlW3/view?usp=sharing"" target=""_blank"">Sample file here</a><br>
+3. You can use Google Sheet to create and export as a comma separator."
+csv_upload_instruction_subcat,"Please follow those steps below:<br>
+1. Upload images to uploads folder manually via FTP.<br>
+2. Then prepare like CSV format. <a href=""https://drive.google.com/file/d/1SZpLcLjRXEYZCym5aQJHs5Par0_qvrDr/view?usp=sharing"" target=""_blank"">Sample file here</a><br>
+3. You can use Google Sheet to create and export as comma separator.<br>
+<b>Note: The category name to be used in the subcategory CSV file should be added first.</b>"
+unauthorize_item_edit,You don't have permission to update an item because it is not your item.
+not_enought_post_count,Not enough post count.
+offer_rejected,Offer Rejected!
+make_offer,Make Offer!
+offer_accepted,Offer Accepted!
+image,Image!
+about_app,App About
+api_setting,API Setting
+app_setting,App Setting
+fail_push_devices,Fail to push all android and IOS devices.
+fail_push_websites,Fail to push all websites.
+push_noti_module,Push Notification
+app_version,Version
+err_title,Please provide the title.
+err_title_len,The length of the title must be greater than 4.
+remove_label,Remove
+all_label,All
+approved_label,Approved
+reject_label,Reject
+err_icon,Please fill upload icon.
+start_upload,Start upload
+cancel_upload,Cancel upload
+add_files,Add files
+btn_update,Update
+err,Error
+btn_start,Start
+btn_close,Close
+category,Category
+added,Added
+disable_label,Disable
+waiting_approval_label,Waiting for Approval
+count,Count
+demo_dummy_refresh_hour,Please be aware backend is a demo mode so all those dummy data will be refreshed every one hour.
+sys_err_occur,A system error occurred. Please contact your system administrator.
+registered_user,Registered User
+generate_thumbnail_label,It will generate the thumbnails images for each item. Please take note that this process will take some time based on your data.
+max_img_upload_of_item,Maximum Image Upload of Item
+err_max_img_blank_save,Please provide maximum image upload of the item.
+err_max_img_zero_save,Maximum image upload of the item cannot be zero.
+err_max_img_upload,The image of the item is maximum.
+price_format,Price Format
+price_format_desc,"You need to change according to your format that you need (e.g "",##0.00"" => 2,555.00, ""##0.00"" => 2555.00 ,"".00"" => 2555.00, "",##0"" => 2,555, "",##0.0"" => 2,555.0)"
+date_format,Date Format
+google_playstore_url,Google Play Store URL
+apple_appstore_url,Apple App Store URL
+ios_appstore_id,IOS App Store ID
+default_order_time,Default Order Time (Minutes)
+fb_key,Facebook Key
+is_show_token_id,"Token ID On? (If this setting is ""On"", the user can view token id  in notification setting.)"
+is_show_subcategory,"Subcategory On? (If this setting is ""On"", the subcategory can be able to use in the application.)"
+is_use_thumbnail_as_placeholder,"Use Thumbnail as Placeholder Setting On? (If this setting is ""On"", it will load the thumbnail image first, and later it will load the full image. Or if this setting is ""Off"", it will load the full image directly and for the placeholder image it will use the default placeholder image.)"
+admob_section,AdMob Configuration
+is_show_admob,"AdMob Setting On? (If this setting is ""On"", the application will display ads.)"
+lang_section,Language Configuration
+default_language,Default Language
+exclude_language,Available Languages
+exclude_lang_desc,"(If the language is ""On"", the user can be used this language in the application.)"
+default_currency_section,Default Currency Configuration
+default_razor_currency,Default Razor Currency
+is_razor_support_multi_currency,"Razor Support Multi-Currency On? (If this setting is ""On"", you can accept razor payment in multi-currency in the application.)"
+default_flutter_wave_currency,Default Flutterwave Currency
+login_section,Login Configuration
+show_facebook_login,"Facebook Login On? (If this setting is ""On"", the users can be logged in with Facebook.)"
+show_google_login,"Google Login On? (If this setting is ""On"", the users can be logged in with Google.)"
+show_phone_login,"Phone Login On? (If this setting is ""On"", the users can be logged in with a phone number.)"
+show_main_menu,"Main Menu On? (If this setting is ""On"", the user can view the ""Main Menu"" tab in each shop.)"
+show_special_collections,"Special Collections On? (If this setting is ""On"",  the user can view the ""Special Offers"" tab in each shop.)"
+show_featured_items,"Featured Items On? (If this setting is ""On"", the user can view the ""Featured Items"" in each shop.)"
+show_best_choice_slider,"Best Choice Slider On? (If this setting is ""On"" when the user opens the app, the user can view the best choice collections with slider view.)"
+default_loading_limit,Default Loading Limit
+category_loading_limit,Category Loading Limit
+recent_item_loading_limit,Recent Item Loading Limit
+popular_item_loading_limit,Popular Item Loading Limit
+discount_item_loading_limit,Discount Item Loading Limit
+feature_item_loading_limit,Feature Item Loading limit
+block_slider_loading_limit,Block Slider Loading Limit
+follower_item_loading_limit,Follower Item Loading Limit
+default_limit_section,Default Limit Configuration
+block_item_loading_limit,Block Item Loading Limit
+date_format_desc,"dd for the day, MM for the month, yyyy for the year, hh for the hour, mm for the minute, ss for the second (e.g. dd-MM-yyyy hh:mm:ss)"
+app_config_info_lable,Mobile Setting Information
+loc_section,Location Configuration
+success_mobile_edit,Mobile Config has been successfully updated.
+success_mobile_add,Mobile Config has been successfully added.
+err_default_lang,Please provide the default language.
+err_default_loading_limit_zero,The default loading limit cannot be zero.
+err_default_loading_limit,Please provide the default loading limit.
+err_category_loading_limit,Please provide the category loading limit
+err_category_loading_limit_zero,The category loading limit cannot be zero.
+err_collection_product_loading_limit,Please provide the collection product loading limit.
+err_collection_product_loading_limit_zero,Collection product loading limit cannot be zero.
+err_discount_product_loading_limit,Please provide the discount product loading limit.
+err_discount_product_loading_limit_zero,The discount product loading limit cannot be zero.
+err_feature_product_loading_limit,Please provide the featured product loading limit.
+err_feature_product_loading_limit_zero,The featured product loading limit cannot be zero.
+err_latest_product_loading_limit,Please provide the latest product loading limit.
+err_latest_product_loading_limit_zero,The latest product loading limit cannot be zero.
+err_shop_loading_limit,Please provide the shop loading limit.
+err_shop_loading_limit_zero,Shop loading limit cannot be zero.
+err_trending_product_loading_limit,Please provide the trending product loading limit.
+err_trending_product_loading_limit_zero,The trending product loading limit cannot be zero.
+err_default_order_time,Please provide the default order time.
+err_default_order_time_zero,Default order time (minutes) cannot be zero.
+err_google_playstore_url,Please provide the google play store URL.
+err_apple_appstore_url,Please provide the apple app store URL.
+err_ios_appstore_id,Please provide an ios app store id.
+err_price_format,Please provide the price format.
+err_date_format,Please provide the date format.
+err_fb_key,Please provide a facebook key.
+default_lang_select,Select default language
+mobile_configs,Mobile Config
+frontend_configs,Frontend Config
+faq_pages_label,FAQ Pages
+terms_and_conditions_label,Terms and Conditions
+is_use_googlemap,Use Google Map On ?
+item_detail_view_count_for_ads,Item detail View Count For Ads
+is_show_ads_in_item_detail,Is show Ads in Item Detail ?
+after_item_count_admob_once,After Item Count Admob Once
+is_show_admob_inside_list,Is show Admob inside list ?
+blue_mark_size,Bluemark Size
+mile,Mile Range for Nearest Items
+video_duration,Video Duration (milliseconds)
+image_section,Image Section
+profile_image_size,Profile Image Size
+upload_image_size,Upload Image Size
+chat_image_size,Chat Image Size
+promote_section,Promote Section
+promote_first_choice_day,Promote First Choice Day or Default Day
+promote_second_choice_day,Promote Second Choice Day
+promote_third_choice_day,Promote Third Choice Day
+promote_fourth_choice_day,Promote Fourth Choice Day
+no_filter_with_location_on_map,Is No Filter With location on Map ?
+is_show_owner_info,Is show Owner Info?
+frontend_config_label,Frontend Config Information
+map_key,Map Key
+enable_notification,Is Enable Notification ?
+fcm_server_key,FCM Server Key
+firebase_web_push_key_pair,Firebase Web Push Key Pair
+ad_client,Ad Client
+ad_slot,Ad Slot
+copy_right,Copy Right
+google_play_url,Google Play Url
+app_store_url,App Store Url
+google_setting,Google Setting
+app_store_setting,App Store Setting
+banner_src,Banner Src
+google_map,Google Map
+open_street_map,Open Street Map
+image_limit,Image Limit
+success_frontend_edit,Frontend Config has been successfully updated.
+success_frontend_add,Frontend Config has been successfully added.
+show_user_profile,Show User Profile ?
+is_enable_video_setting,Is Enable Video Setting ?
+err_map,Please Provide Map Key
+err_price_format,Please Provide Price format
+err_fcm_server_key,Please Provide FCM Server key
+err_firebase_web_push_key_pair,Please Provide Firebase Web Push key pair
+err_ad_client,Please Provide Ad Client
+err_copy_right,Please Provide Copy Right
+err_google_play_url,Please Provide Google Play Url
+err_ad_slot,Please Provide Ad Slot
+err_app_store_url,Please Provide App Store Url
+err_banner_src,Please Provide Banner Src
+err_block_item_loading_limit_zero,Block Item Loading Limit can not be zero
+err_block_item_loading_limit,Please Provide Block Item Loading
+err_follower_item_loading_limit_zero,Follower Item Loading Limit can not be zero
+err_follower_item_loading_limit,Please Provide Follower Item Loading Limit
+err_block_slider_loading_limit_zero,Block Slider Loading Limit can not be zero
+err_feature_item_loading_limit_zero,Feature Item Loading limit can not be zero
+err_feature_item_loading_limit,Please Provide Feature Item Loading limit
+err_discount_item_loading_limit_zero,Discount Item Loading Limit can not be zero
+err_discount_item_loading_limit,Please Provide Discount Item Loading Limit
+err_popular_item_loading_limit_zero,Popular Item Loading Limit can not be zero
+err_popular_item_loading_limit,Please Provide Popular Item Loading Limit
+err_recent_item_loading_limit_zero,Recent Item Loading Limit can not be zero
+err_recent_item_loading_limit,Please Provide Recent Item Loading Limit
+err_item_detail_view_count_for_ads_zero,Item detail View Count For Ads can not be zero
+err_item_detail_view_count_for_ads,Please Provide Item detail View Count For Ads
+err_after_item_count_admob_once_zero,After Item Count Admob Once can not be zero
+err_after_item_count_admob_once,Please Provide After Item Count Admob Once
+err_profile_image_size_zero,Profile Image Size can not be zero
+err_profile_image_size,Please Provide Profile Image Size
+err_upload_image_size_zero,Upload Image Size can not be zero
+err_upload_image_size,Please Provide Upload Image Size
+err_blue_mark_size_zero,Bluemark Size can not be zero
+err_blue_mark_size,Please Provide Bluemark Size
+err_video_duration_zero,Video Duration can not be zero
+err_video_duration,Please Provide Video Duration
+err_mile_zero,Mile can not be zero
+err_mile,Please Provide Mile
+err_chat_image_size_zero,Chat Image Size can not be zero
+err_chat_image_size,Please Provide Chat Image Size
+ad_post_type,Ad Post Type
+err_ad_post_type,Please provide ad post type.
+select_ad_post_type,Select Ad Post Type
+err_promo_cell_blank_save,Please provide the promoted cell interval no.
+err_promo_cell_zero_save,The promoted cell interval no. cannot be zero.
+promo_cell_interval_no,Promoted Cell Interval No.
+ad_post_section,Ad Post Type Setting
+paid_items,Sponsored Items
+promo_cell_interval_desc,(The sponsored ads or google ads are going to show in every x no of the list.)
+offline_pkg_bought_edit,Edit Offline Package Bought
+offline_pkg_bought_search,Search Offline Package Bought
+delete_offline_pkg_label,Delete Offline Ad Package Bought?
+offline_pkg_delete_message_label,Are you sure to delete the offline ad package bought?
+offline_pkg_bought_info,Offline Package Bought Information
+bought_user,Bought User
+currency_label,Currency
+success_offline_pkg_delete,The offline ad package bought has been successfully deleted.
+success_offline_pkg_edit,The offline ad package bought has been successfully updated.
+success_offline_pkg_add,The offline ad package bought has been successfully added.
+offline_paids,Offline Sponsored Items Request
+offline_ad_package_bought_request,Offline Ad Package Bought Request
+err_block_slider_loading_limit,Please provide the block slider loading limit.
+err_item_detail_view_count_for_ads,Please provide item detail count for ads.
+err_item_detail_view_count_for_ads_zero,Item detail count for ads cannot be zero.
+err_promote_fourth_choice_day,Please provide promote the fourth choice day.
+err_promote_fourth_choice_day_zero,The promote the fourth choice day cannot be zero.
+err_promote_first_choice_day,Please provide promote the first choice day.
+err_promote_first_choice_day_zero,The promote the first choice day cannot be zero.
+err_promote_second_choice_day,Please provide promote the second choice day.
+err_promote_second_choice_day_zero,The promote second choice day cannot be zero.
+err_promote_third_choice_day,Please provide promote the third choice day.
+err_promote_third_choice_day_zero,The promote the third choice day cannot be zero.
+success_image_reorder,The image has been successfully reordered.
+unauthorize_reorder_img_edit,You don't have permission to reorder this image because you are not an owner.
+no_transaction_yet,You cannot export CSV file because of no transaction.
+package_app_purchase_product_id_label,Package In App Purchases Product ID
+package_purchase_type_label,Package In App Purchases Type
+default_map_section,Default Map Section
+is_force_login,"Is Force Login On? (If this setting is ""On"", when app start, user must login first.)"
+is_language_config,"Is Language Config On? ( If this setting is ""On"", when app start, user must select the language.)"
+sold_out_items,Sold Out Items
+sold_out_items_module,Sold Out Items
+sold_out_item_view,View Sold Items
+item_upload_ui_section,Item Upload UI Section
+item_upload_ui1,Item Upload UI 1
+item_upload_ui2,Item Upload UI 2
+price_pkg_desc,(The price field is only used for other payments other than IAP (in app purchased).)
+currency_pkg_desc,(The currency field is only used for other payments other than IAP (in app purchased).)
+api_keys,API Keys
+languages,Languages
+versions,Versions
+abouts,Abouts
+item_address_label,Address
+lat_label,Latitude
+lng_label,Longitude
+data_deletion_policy_url,Data Deletion Policy URL
+paid_configs,Payment Settng
+in_app_purchased,In App Purchased
+in_app_purchases,In App Purchased
+module_groups,Menu Name Setting
+modules,Sub Menu Name Setting
+thumbnail_generators,Thumbnail Generators
+image_lists,Image Lists
+categrories,Categories
+subcategories,Subcategories
+packages,Packages
+item location townships,Item Location Townships
+item_location_townships,Item Location Townships
+items,Items
+item_conditions,Item Conditions
+deal_options,Deal Options
+blogs,Blogs
+pendings,Pendings
+rejects,Rejects
+disables,Disables
+blue_mark_users,Blue Mark Users
+Blue mark users,Blue Mark Users
+user_phone_label,Phone
+popularitems,Popular Items
+view,View
+ratings,Ratings
+contacts,Contacts
+transactions,Transactions
+notis,Notifications
+deeplink_generators,Deeplink Generators
+Deeplink generators,Deeplink Generators

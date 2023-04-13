@@ -1,0 +1,1344 @@
+key,valor
+site_name,Flutter Buy & Sell Admin Panel
+title_bar_seperator,|
+added_date,Encontro
+upload_point_label,Upload Point
+success_item_report,Relatório de item foi adicionado com sucesso
+signin,Assinar em
+check_for_detail,Verifique para mais detalhes!
+success_delete,Excluído com sucesso
+success_save_contact,Obrigado por nos contactar. Em breve entraremos em contato.
+success_contact_delete,A mensagem de contato foi excluída com sucesso
+btn_search,Procurar
+btn_add_new,Adicionar novo
+btn_edit,Editar
+btn_save,Salve
+btn_save_gallery,Salvar e ir para a Galeria
+btn_cancel,Cancelar
+btn_yes,sim
+btn_delete,Excluir
+btn_publish,Publicar
+btn_replace_photo,Substituir foto
+btn_replace_icon,Substituir ícone
+back_button,Costas
+lbl_view,Visão
+chat_history_save_success,O histórico de bate-papo foi adicionado com sucesso
+chat_history_update_success,Histórico de bate-papo atualizado com sucesso
+btn_version,Versão
+ver_info,Versão informação
+ver_no_label,Versão n.
+ver_msg_label,Versão Mensagem
+ver_title_label,Título da versão
+ver_force_update,Versão Force Update?
+ver_need_data,Versão Precisa de dados claros?
+success_version_add,A versão foi adicionada com sucesso
+success_version_edit,Version has been successfully updated
+dashboard,painel de controle
+no,Não
+del_cover_photo,Excluir foto da capa
+youtube_url,URL do YouTube
+profile_img,Imagem de perfil
+success_upload,A imagem foi enviada com sucesso
+success_img_delete,A imagem foi excluída com sucesso
+error_login,Email e senha não correspondem
+err_access,"Desculpe, você não tem acesso para executar esta ação"
+err_model,Ocorreu um erro no banco de dados
+err_sys,Ocorreu um erro no sistema
+err_upload,Ocorreu um erro no upload
+wrn_no_data,Ainda não há dados
+del_cover_photo_confirm,Are you sure you want to delete the photo?
+upload_photo,Carregar foto
+no_record,Não há mais registros
+invalid_api_key,Chave da API inválida
+invalid_user_id,ID de usuário inválido
+invalid_item_id,ID do item inválido
+role,Função
+user_name,Nome do usuário
+user_email,O email
+user_password,Senha
+conf_password,Confirme a Senha
+user_phone,telefone
+allowed_modules,Módulos Permitidos
+user_ban,Banimento
+user_unban,Unban
+user_info,Informação do usuário
+user_list,Lista de Usuários
+user_add,Adicionar novo usuário
+user_edit,Editar usuário
+user_search,Pesquisar Usuário
+err_dup_email,O endereço de e-mail já existe no sistema
+err_dup_name,O nome já existe no sistema
+err_user_name_blank,Forneça o nome de usuário
+err_user_name_len,O comprimento do nome de usuário deve ser maior que 4
+err_user_email_blank,Forneça o endereço de e-mail
+err_user_email_invalid,Forneça um endereço de email válido
+err_user_email_exist,O endereço de e-mail já existe no sistema
+err_user_pass_blank,Forneça a senha
+err_user_pass_len,O comprimento da senha deve ser maior que 4
+err_user_pass_conf_blank,Forneça a senha de confirmação
+err_user_pass_conf_not_match,A senha e a confirmação da senha não coincidem
+err_permission_blank,"Por favor, selecione quais módulos podem acessar"
+success_user_add,O usuário foi adicionado com sucesso
+success_user_edit,User has been succesfully updated
+err_user_banned,"Desculpe, você não pode entrar porque sua conta foi banida."
+cat_info,Categoria Informação
+cat_name,Category Name
+cat_ordering,Ordem da categoria
+cat_img,Categoria Foto da capa
+cat_icon,Ícone da categoria
+cat_search,Categoria de Pesquisa
+cat_select,Selecione o nome da categoria
+cat_add,Adicionar categoria
+cat_edit,Editar categoria
+success_cat_edit,A categoria foi atualizada com sucesso
+success_cat_add,A categoria foi adicionada com sucesso
+success_cat_delete,A categoria foi excluída com sucesso
+err_cat_name,Forneça o nome da categoria
+err_cat_len,O comprimento do nome da categoria deve ser maior que 4
+err_cat_exist,O nome da categoria já existe no sistema
+delete_cat_label,Excluir categoria?
+cat_delete_confirm_message,Deseja excluir toda a categoria?
+cat_yes_all_message,Sim tudo - a categoria e os itens serão excluídos do sistema.
+cat_no_only_message,Somente categoria - Somente a categoria será excluída do sistema.
+cat_yes_all_label,Sim todos
+cat_no_only_label,Apenas categoria
+subcat_info,Informações da subcategoria
+subcat_name,Nome da subcategoria
+subcat_ordering,Ordem da subcategoria
+subcat_img,Subcategoria Foto
+subcat_icon,Ícone da subcategoria
+subcat_search,Subcategoria de pesquisa
+subcat_add,Adicionar subcategoria
+subcat_edit,Editar subcategoria
+success_subcat_edit,A subcategoria foi atualizada com sucesso
+success_subcat_add,Subcategoria foi adicionada com sucesso
+success_subcat_delete,A subcategoria foi excluída com sucesso
+err_subcat_name,Please provide sub category name
+err_subcat_len,O comprimento do nome da subcategoria deve ser maior que 4
+err_subcat_exist,O nome da subcategoria já existe no sistema
+delete_subcat_label,Excluir subcategoria?
+subcat_delete_confirm_message,Are you sure to delete this Sub Categry?
+subcat_yes_all_message,"Ao excluir esta subcategoria, todos os produtos relacionados também serão excluídos. Então, você ainda deseja excluí-lo?"
+subcat_no_only_message,<b> Somente subcategoria </b> - Somente a subcategoria será excluída do sistema.
+subcat_yes_all_label,Sim todos
+subcat_no_only_label,Apenas subcategoria
+select_subcat,Selecionar subcategoria
+select_cat,Selecione a Categoria
+subcat_panel_title,Sub Category List
+Prd_search_cat,Selecione o nome da categoria
+delete_contact_label,Excluir mensagem de contato?
+contact_delete_confirm_message,Deseja excluir a mensagem de contato?
+detail_contact_label,Detalhe da mensagem de contato
+contact_info_label,Contact Message Information
+about_contact_label,Sobre a mensagem de contato
+contact_info_label,Informações detalhadas do contato
+contact_name,Nome da pessoa de contato
+contact_email,E-mail da pessoa de contato
+contact_phone,Telefone da pessoa de contato
+btn_reset,Redefinir
+reset_password,Redefinir senha
+contact_receive_message,Você recebeu uma nova mensagem de contato.
+nav_profile,Ir para o perfil
+nav_backend,Vá para o back-end
+nav_logout,Sair
+total_label,Total :
+device_label,Dispositiva
+devices_label,Dispositivas
+registered_label,foi registrado para a notificação por push
+noti_info,Push Notification
+noti_message_label,mensagem
+noti_message_tooltips,Forneça a mensagem para notificação por push.
+noti_send_btn,Enviar notificação por push
+sorry_no_device,"Desculpe, não há um dispositivo registrado para a notificação por push."
+select_cat,Selecione a Categoria
+success_noti_add,A notificação foi adicionada com sucesso
+success_noti_delete,A notificação foi excluída com sucesso
+delete_noti_label,Excluir notificação?
+noti_yes_message,Sim - A notificação será excluída do sistema.
+push_message,Mensagem de envio
+noti_des_label,Descrição
+noti_img,Foto de notificação
+noti_search,Pesquisar Noti
+select_cat,Selecione a Categoria
+noti_add,Adicionar Noti
+app_info_lable,Sobre Informações
+about_title_label,Sobre o título
+description_label,Sobre Descrição
+about_email_label,Sobre o email
+about_phone_label,Sobre telefone
+about_website_label,Sobre o link do site
+about_seo_section,Informação SEO
+about_seo_title_label,Título SEO
+about_seo_desc_label,Descrição SEO
+about_seo_keywords_label,Palavras-chave SEO
+about_social_section,Informação Social
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Twitter
+about_color_section,Sobre a cor do tema do site
+about_theme,Temas Disponíveis
+success_about_edit,About é atualizado com sucesso
+about_ads_analyt,Google Analytics e configuração de anúncios
+about_ads_client,Cliente de anúncios
+about_ads_slot,Espaço de anúncios
+about_analyt_track_id,ID da faixa analítica
+about_ads_on,Ativar o Google Adsense
+about_analyt_on,Ativar o Google Analytic
+gdpr_label,Conteúdo GDPR
+safety_tips_label,Dicas de segurança
+about_nav_icon,Ícone de navegação
+about_fav_icon,Ícone fav
+about_backend_icon,Para back-end
+total_users_count_label,Usuários registrados
+total_cat_count_label,Total de Categorias
+total_contact_label,Total da mensagem de contato
+total_likes_count_label,Contagem total de curtidas
+total_favs_count_label,Contagem total de favoritos
+total_comments_count_label,Contagem total de comentários
+category_panel_title,Categorias recentes
+recent_news_panel_title,Notícias recentes
+available_inside,Notícias disponíveis nesta categoria.
+contact_message,Mensagens de contato
+user_latest_members,Usuários registrados mais recentes
+success_contact,Sua mensagem foi salva com sucesso no sistema.
+file_na,Não disponível
+required_platform,Plataforma necessária
+err_noti_register,"Desculpe, existe um problema no registro de notificação por push"
+success_noti_register,Seu dispositivo se registrou com sucesso para a notificação por push.
+success_noti_unregister,Seu dispositivo não foi registrado com êxito para a notificação por push.
+err_noti_unregister,"Desculpe, existe o problema de cancelamento de registro de notificação por push"
+success_touch_count,Toque em Contagem inserida com sucesso.
+err_touch_count,Problema na contagem do toque!
+err_user_register,"Desculpe, há um problema no registro do usuário."
+err_user_not_exist,"Desculpe, o usuário não existe no sistema."
+err_user_not_verify,"Desculpe, sua conta ainda não está confirmada."
+err_email_not_send,"Sorry, there is problem in sending email."
+err_user_update,"Desculpe, há um problema ao atualizar as informações do usuário."
+err_user_password_update,"Desculpe, há um problema ao atualizar a senha do usuário."
+success_profile_update,Profile has been successfully updated.
+success_email_sent,O email é enviado com sucesso.
+success_reset,A senha foi redefinida com sucesso
+success_reset_email_sent,Redefinir email é enviado com sucesso
+trending,Notícias de tendências
+editor_pick,Editor Picked News
+list_product_nav,Item
+prd_add,Adicionar Item
+att_add,Adicionar novo atributo
+add_att_detail,Add New Attribute Detail
+list_attribute_header,Lista de Cabeçalhos de Atributos
+item_name,Nome do item
+att_name,Nome do Atributo
+Prd_search_subcat,Informações sobre o item
+Prd_search_dis,Selecionar tipo de desconto
+product_gallery,Galeria de itens
+prd_info,Informações sobre o item
+rec_prd_info,Itens Adicionados Recentemente
+att_info,Informações sobre atributos
+prd_desc,descrição do item
+prd_high_info,Informações sobre o item em destaque
+prd_edit,Editar item
+prd_code,Código do item
+success_prd_add,O item foi adicionado com sucesso
+success_prd_edit,O item foi atualizado com sucesso
+success_upload,A imagem foi atualizada com sucesso
+delete_prd_label,Apagar item?
+prd_yes_all_message,"Ao excluir este item, ele excluirá todas as subcategorias e categorias relacionadas também. Então, você ainda deseja excluí-lo?"
+success_prd_delete,O item foi excluído com sucesso
+prd_search,Pesquisar Item
+err_item_name,Forneça o nome do item
+err_item_len,O comprimento do nome do item deve ser maior que 4
+err_item_exist,O nome do item já existe no sistema
+item_gallery,Galeria de itens
+condition_of_item,Condição do item
+item_description_label,Descrição
+deal_option_id_label,Opção de transação
+meet_up_label,Encontro
+mailing_or_delivery_label,Envio ou entrega
+brand_label,Marca
+price,Preço
+itm_title_label,Título
+itm_business_mode,É Shop?
+itm_show_shop,(Se o usuário do show puder pedir mais de um)
+itm_is_sold_out,Está esgotado?
+location_info_label,Informações de localização
+itm_address_label,Endereço
+itm_lat_label,Latitude
+itm_lng_label,Longitude
+itm_select_price,Selecionar tipo de preço
+itm_select_type,Selecionar tipo de item
+itm_select_currency,Selecionar moeda do item
+status_label,Status
+select_status_label,Selecione Status
+itm_select_location,Selecionar localização do item
+find_location_label,Digite e localize a localização da API do Google
+itm_select_condition_of_item,Selecione Condição do item
+itm_select_deal_option,Selecionar opção de oferta
+api_info,Informações de configuração da API
+api_title,Configuração da API
+api_title_tooltips,Nome da API
+api_order_by,Ordenar por
+btn_save,Salve
+btn_cancel,Cancelar
+success_api_edit,Atualizado com sucesso
+about_gallery,Galeria
+categories_label,Categorias
+messages_label,Mensagens
+total_label,Total
+view_all_label,Ver tudo
+divider_label,:
+users_label,Comercial
+app_setting,Informações de configuração do aplicativo
+apikey_info,Informações-chave da API
+key_label,Chave
+success_apikey_edit,Api Key é atualizado com sucesso
+success_apikey_add,A API Key foi adicionada com sucesso
+earn_point_label,Ganhe Ponto
+currency_info,Informações sobre Moedas
+currency_add,Adicionar moeda
+currency_symbol,Símbolo Monetário
+currency_short_form,Forma abreviada de moeda
+currency_add,Adicionar moeda
+success_currency_edit,A moeda foi atualizada com sucesso
+success_currency_add,A moeda foi adicionada com sucesso
+success_currency_delete,A moeda foi excluída com sucesso
+delete_currency_label,Excluir moeda?
+currency_delete_confirm_message,Deseja excluir a moeda?
+currency_search,Moeda de Pesquisa
+currency_edit,Editar Moeda
+err_currency_name,Forneça o nome da moeda
+err_currency_len,O comprimento do nome da moeda deve ser maior que 4
+err_currency_exist,O nome da moeda já existe no sistema
+color_color,Cor
+select_type,Selecione o tipo
+from_point,Do ponto:
+to_point,Apontar :
+order_by,Ordenar por :
+select_order,Selecionar pedido
+push_noti_sending_title,Enviando notificação por push
+no_device_label,Ainda não há dispositivos registrados.
+delete_color_label,Excluir cor?
+color_delete_confirm_message,Deseja excluir cores?
+upload_icon,Ícone da categoria
+about_upload_icon,Carregar ícone
+fav_upload_icon,Ícone fav
+sidebar_upload_icon,Logotipo da barra lateral
+btn_upload,Envio
+not_enough_point,"Desculpe, seu argumento não é suficiente."
+view_count,Exibir contagens
+earn_point_label,Ponto ganho
+download_count,Contagem de downloads
+rating_count,Contagem de classificação
+terms_label,Termos e Condições
+about_img,Sobre a foto da capa
+select_csv_file,Selecione arquivo CSV
+something_wrong_upload,Algo errado nos seus dados enviados.
+pls_upload_csv,Faça o upload do arquivo CSV.
+sample_csv_format,O exemplo de CSV está aqui : https://www.dropbox.com/s/oheyivxfgdlk129/sample.csv?dl=0
+csv_upload_instruction,"Siga os passos abaixo : <br>
+1. Carregar imagens para a pasta de uploads manualmente via FTP. <br>
+2. Carregue imagens em miniatura para carregar / pasta de miniaturas manualmente via FTP. <br>
+3. Em seguida, prepare como o formato CSV. Amostra Aqui : http://bit.ly/2UvCjRp <br>
+4. Precisa seguir essas regras. Aqui : http://bit.ly/2T1Tjgp <br>
+5. Você pode usar o Google Sheet para criar e exportar como separador de vírgulas. <br>
+6. Recomendado é de cerca de 100 registros em um CSV."
+noti_sent_fail,Falha ao enviar notificação por push
+noti_sent_success,Enviada com êxito a notificação por push para
+reject_message_2,)
+approve_message_2,)
+uploaded_user,Usuário enviado
+delete_user_label,Excluir usuário registrado?
+user_delete_confirm_message,Deseja excluir todo o usuário registrado?
+user_yes_all_label,Sim todos
+user_no_only_label,Apenas categoria
+success_user_delete,Usuário registrado foi excluído com sucesso
+credit,Crédito
+price_info,Informações sobre preços
+price_name,Nome do preço
+price_edit,Editar preço
+price_add,Adicionar Preço
+price_search,Preço de pesquisa
+delete_price_label,Excluir preço?
+price_delete_confirm_message,Deseja excluir o preço?
+err_price_name,Forneça o nome do preço
+err_price_len,O comprimento do nome do preço deve ser maior que 4
+err_price_exist,Price Name is already existed in the system
+success_price_edit,O preço foi atualizado com sucesso
+success_price_add,O preço foi adicionado com sucesso
+success_price_delete,O preço foi excluído com sucesso
+type_info,Informações sobre o tipo de item
+type_name,Digite o nome
+type_edit,Edit Type
+type_add,Adicionar tipo
+type_search,Tipo de pesquisa
+delete_type_label,Excluir tipo?
+type_delete_confirm_message,Deseja excluir o Type?
+err_type_name,Forneça o nome do tipo
+err_type_len,O comprimento do Nome do tipo deve ser maior que 4
+err_type_exist,O nome do tipo já existe no sistema
+success_type_edit,O tipo foi atualizado com sucesso
+success_type_add,O tipo foi adicionado com sucesso
+success_type_delete,O tipo foi excluído com sucesso
+location_info,Informações de localização do item
+location_name,Nome do local
+location_edit,Editar localização
+location_add,Adicionar local
+location_search,Pesquisar Localização
+delete_location_label,Excluir local?
+location_delete_confirm_message,Deseja excluir o local?
+err_location_name,Forneça o nome do local
+err_location_len,O comprimento do nome do local deve ser maior que 4
+err_location_exist,O nome do local já existe no sistema
+success_location_edit,O local foi atualizado com sucesso
+success_location_add,O local foi adicionado com sucesso
+success_location_delete,O local foi excluído com sucesso
+blog_add,Adicionar Blog
+blog_info,Informações do blog
+blog_name,Nome do blog
+blog_desc,Descrição do blog
+blog_edit,Editar Blogs
+success_blog_add,Os blogs foram adicionados com sucesso
+success_blog_edit,Os blogs foram atualizados com sucesso
+err_dup_name,O nome já existe no sistema
+err_blog_exist,O nome do blog já existe no sistema
+delete_blog_label,Excluir blog?
+blog_delete_confirm_message,Tem certeza de que deseja excluir este blog?
+success_blog_delete,Tem certeza de que deseja excluir este blog?
+err_blog_len,O comprimento do nome do blog deve ser maior que 4
+err_blog_name,Forneça o nome do blog
+blog_search,Pesquisa de blogs
+blog_gallery,Galeria do Blog
+btn_disable,Desativar
+report_edit,Editar relatório de itens
+total_category_count_label,Total de Categorias
+total_sub_cat_count_label,Total de subcategorias
+total_blog_count_label,Total de blogs
+total_contact_count_label,Total da mensagem de contato
+popular_item,Item mais popular
+item_report,Item relatado
+items_label,Itens Adicionados Recentemente
+item_img,Imagem do item
+popular_item_info,Informações sobre itens populares
+popular_item_view,Exibir Item Popular
+app_setting_lable,Informações de configuração do aplicativo
+app_lat_label,Latitude
+app_lng_label,Longitude
+location_info_label,Informações de localização
+err_chat_history_not_exist,Nenhum registro encontrado no histórico de bate-papo
+accept_update_success,A oferta de aceitação foi atualizada com sucesso
+err_accept_update,"Desculpe, há um problema na aceitação da oferta"
+count_update_success,A contagem de redefinições foi atualizada com sucesso
+err_count_update,"Desculpe, há um problema na contagem de redefinições"
+price_update_success,O preço foi atualizado com sucesso
+err_price_update,"Desculpe, há um problema no preço"
+err_accept_offer,"Desculpe, você não pôde aceitar a oferta novamente."
+overall_rating,Avaliação
+user_is_verify_do_forgot_password,"Sua conta foi confirmada, por favor, esqueça a senha."
+user_view,Ver Usuário
+user_address,Endereço
+user_city,Cidade
+about_me,Sobre mim
+verify_type,Verificar tipo
+follower_count,Contagem de seguidores
+following_count,Contagem seguinte
+user_profile,Foto de perfil
+email_verify,Confirmar email
+facebook_verify,Verificação do Facebook
+google_verify,Google Verify
+phone_verify,Verificação de telefone
+condition_name,Nome da Condição
+cond_search,Condição de Pesquisa
+condition_add,Adicionar Condição
+condition_info,Informações sobre a condição do item
+cond_edit,Editar Condição
+delete_condition_label,Excluir condição?
+condition_delete_confirm_message,Deseja excluir as condições?
+condition_yes_all_message,Sim Tudo - A condição e os itens serão excluídos do sistema.
+success_condition_edit,A condição foi atualizada com sucesso
+success_condition_add,A condição foi adicionada com sucesso
+success_condition_delete,A condição foi excluída com sucesso
+err_condition_name,Forneça o nome da condição
+err_condition_len,O comprimento do Nome da Condição deve ser maior que 4
+err_condition_exist,O nome da condição já existe no sistema
+option_name,Nome da opção de transação
+cond_search,Opção de transação de pesquisa
+option_add,Adicionar opção de oferta
+option_info,Informações sobre a opção de oferta do item
+cond_edit,Editar opção de transação
+delete_option_label,Excluir opção de oferta?
+option_delete_confirm_message,Deseja excluir as Opções da oferta?
+option_yes_all_message,Sim Todas as opções e itens de operação serão excluídos do sistema.
+success_option_edit,A opção de oferta foi atualizada com sucesso
+success_option_add,A opção de oferta foi adicionada com sucesso
+success_option_delete,A opção de oferta foi excluída com sucesso
+err_option_name,Forneça o nome da Opção de transação
+err_option_len,O comprimento do Nome da opção de negociação deve ser maior que 4
+err_option_exist,O nome da opção de negociação já existe no sistema
+lang_name,Nome do idioma
+btn_active,Ativa
+lang_string,Idioma String
+lang_add,Adicionar idioma
+lang_info,Informações sobre o idioma
+lang_symbol,Symbol
+lang_search,Idioma de pesquisa
+lang_edit,Editar idioma
+success_lang_edit,O idioma foi atualizado com sucesso
+success_lang_add,O idioma foi adicionado com sucesso
+success_lang_delete,O idioma foi excluído com sucesso
+err_lang_name,Forneça o nome do idioma
+err_lang_len,O comprimento do nome do idioma deve ser maior que 4
+err_lang_exist,O nome do idioma já existe no sistema
+delete_lang_label,Excluir idioma?
+lang_delete_confirm_message,Deseja excluir toda a cadeia de caracteres nesse idioma?
+lang_yes_all_label,Sim todos
+lang_no_only_label,Apenas idioma
+lang_yes_all_message,Sim tudo - o idioma e os itens serão excluídos do sistema.
+language_id,Língua
+lang_string_key,Key
+lang_string_value,Valor
+lang_string_info,Informações sobre strings de idiomas
+select_language,Selected Language
+btn_import,Importar
+csv_symbol_link,Exemplo de arquivo csv aqui
+lang_str_search,String do idioma de pesquisa
+success_langstr_import,Idioma String carregado com êxito arquivo csv
+lang_str_add,Adicionar sequência de idiomas
+lang_str_edit,Editar sequência de idiomas
+lang_active,Ativa
+lang_deactive,Desativar
+success_lang_str_edit,A sequência de idiomas foi atualizada com sucesso
+success_lang_str_add,Idioma String foi adicionada com sucesso
+err_lang_str_name,Forneça o nome da string do idioma
+err_lang_str_len,O comprimento da string do idioma deve ser maior que 4
+err_lang_str_exist,Linguagem String já existe no sistema
+lang_title,Idioma excluído?
+lang_warning,Você não pode excluir o idioma ativo.
+btn_ok,Está bem
+list_lang_label,línguas
+list_lang_str_label,Sequências de idiomas
+err_lang_symbol,Forneça o símbolo do idioma
+dashboard_label,painel de controle
+cat_module,Categorias
+subcat_module,Subcategorias
+contact_module,Fale Conosco Mensagem
+system_user_module,Usuários do sistema
+register_user_module,Usuários registrados
+about_module,Sobre e definindo
+noti_module,Push Notification
+analytic_module,Google Analytics
+export_database_module,Exportar banco de dados
+app_setting_module,APP Setting
+popular_item_module,Most Popular Items
+item_module,Itens
+api_key_module,Api Keys
+api_setting_module,Configuração da API
+rating_module,A maioria dos usuários de classificação
+version_module,Versão
+item_currency_module,Moeda do item
+item_price_module,Preço do item
+item_type_module,Tipo de item
+blog_module,Blog
+item_report_module,Itens relatados
+app_setting_module,Configuração de aplicativo
+item_location_module,Localização do item
+item_condition_module,Condições do item
+deal_option_module,Opção de transação de item
+language_module,línguas
+paid_item_module,Relatório de itens patrocinados
+start_date_label,Data de início
+end_date_label,Data final
+amount_label,Montante
+payment_method_label,Forma de pagamento
+progress_label,Progresso
+finished_label,Acabada
+not_yet_start_label,Ainda não iniciar
+today_label,Hoje
+second_ago,segundos
+minute_ago,minutos
+hour_ago,horas
+day_ago,dias
+week_ago,semanas
+month_ago,meses
+year_ago,anos
+decade_ago,décadas
+just_now_label,Agora mesmo
+ago_label,atrás
+user_acc_reg_label,Registro de nova conta de usuário
+user_register_success_but_email_not_send,"O registro do usuário foi bem-sucedido, mas o e-mail não foi enviado"
+pwd_reset_label,Redefinição de senha
+hi_label,Oi
+pwd_reset_link,Clique no link a seguir para redefinir sua senha
+reset_link_label,Redefinir senha
+best_regards_label,Cumprimentos
+new_user_acc,Sua nova conta de usuário foi criada. Bem-vindo ao Flutter Buy & Sell. Verifique com o código abaixo para ativar sua conta.
+verify_code_label,Código Verificado
+hi_admin_label,Olá Admin
+name_label,Nome
+email_label,O email
+phone_label,telefone
+msg_label,mensagem
+verify_code_sent,O código de verificação foi enviado.
+user_id_required,O ID do usuário é obrigatório.
+invalid_login_user_id,O ID do usuário é inválido.
+already_accept_user,Usuário foi aceito.
+sender_id_required,O ID do remetente é obrigatório
+success_delete,Excluído com sucesso.
+success_cat_request,Sua solicitação com sucesso.
+err_cat_request,"Desculpe, seu pedido não foi bem-sucedido."
+err_chat_history_save,"Desculpe, seu histórico de bate-papo não pode ser salvo."
+accept_reset_success,Sua solicitação de bate-papo com sucesso.
+error_delete_chat_history,"Desculpe, seu histórico de bate-papo não pode ser excluído."
+success_delete_chat_history,Seu histórico de bate-papo foi excluído com sucesso.
+err_soldout_reset,"Desculpe, você não pode ficar esgotado."
+soldout_reset_success,Sua redefinição foi bem-sucedida.
+err_item_report,"Desculpe, você não pode reportar itens."
+token_already_exist,"Desculpe, o token do dispositivo já existe."
+err_in_noti_read,"Desculpe, a notificação não pode ler."
+success_noti_send,A notificação foi enviada com sucesso.
+error_noti_send,"Desculpe, a notificação não pode enviar."
+invalid_code,"Desculpe, seu código é inválido."
+backend_config_info_lable,Backend Setting Information
+sender_name_label,Sender Name
+receive_email_label,Receber e-mail
+sender_email_label,E-mail do remetente
+img_section,Seção de Imagem
+fcm_api_key_label,tecla api do fcm
+backend_login_img,Imagem de fundo do login de back-end
+backend_logo,Logotipo de back-end
+backend_fav_icon,Favicon de back-end
+upload_backend_logo,Carregar logotipo de back-end
+upload_fav_icon,Carregar ícone Fav
+upload_login_img,Carregar foto de login
+transaction_module,Histórico de transações
+history_search,Histórico de transações de pesquisa
+trans_history_info,Informações do histórico de transações
+entry_group,Entrada
+reports_group,Relatórios
+user_mang_group,Gerenciamento de usuários
+miscellaneous_group,Diversas
+setting_group,Configuração
+ple_sub_cat_name,Nome da subcategoria
+ple_highlight_info,Destaque Informações
+forget_pwd,Esqueceu a senha?
+remove_label,Retirar
+his_info,Informações da História
+err_paid_item_history,Seu anúncio ainda não foi concluído e portanto não pode ser modificado.
+paid_config_module,Configurações pagas
+currency_symbol_label,Símbolo monetário (por exemplo $)
+paypal_env_label,Ambiente Paypal
+paypal_merchant_label,ID do comerciante Paypal
+paypal_pub_label,Chave pública do Paypal
+paypal_pri_label,Chave privada Paypal
+paypal_enabled_label,O Paypal está ativado?
+stripe_publishable_key,Chave publicável
+stripe_secret_key,Chave secreta
+stripe_enable_label,O pagamento por faixa ativada está ativado?
+stripe_label,[Opção 2]: Pagamento com faixa
+paypal_label,[Opção 1]: Pagamento com Paypal ativado
+day_label,Dia
+paid_config_info_lable,Informações de configuração paga
+paid_currrency_setting,Configuração do símbolo de moeda
+paid_paypal_setting,Configuração Paypal
+paid_stripe_setting,Configuração de distribuição
+success_backend_edit,A configuração de back-end foi atualizada com sucesso
+smtp_section,Configuração SMTP
+smtp_host_label,Host SMTP
+smtp_host_placeholder,por exemplo: ssl: //smtp.hostmail.com
+smtp_port_label,Número da porta SMTP
+smtp_enable,Ativar SMTP?
+smtp_user_label,Usuário SMTP
+smtp_pass_label,Senha SMTP
+topics_label,Tópicas
+cannot_deactive,"Desculpe, não é possível desativar."
+error_symbol_exist,O símbolo do idioma já existe no sistema.
+backend_setting_module,Configuração de back-end
+policy_info,Informações da Política de Privacidade
+content_label,Conteúdo
+privacy_policy_module,Política de Privacidade
+success_policy_edit,A Política de Privacidade foi atualizada com sucesso
+success_policy_add,A Política de Privacidade foi adicionada com sucesso
+razor_label,[Opção 3]: Pagamento com navalha
+razor_key_label,Chave de navalha
+razor_enabled_label,O Razor está ativado?
+btn_promote,Promover
+prd_paid_info,Item pago Informações
+app_is_approval_enabled,"Sistema de aprovação ativado?(Se essa configuração é On"" quando a atualização usuário novo item ele precisa para aprovar ou rejeitar a partir de super administrador.)"
+approval_group,Aprovação
+pending_items_module,Itens Pendentes
+reject_items_module,Rejeitar itens
+disable_items_module,Desativar itens
+select_status,Selecione Status?
+pending_edit,Editar item pendente
+approve_message_1,Parabéns! Item aprovado (
+approve_message_2,)
+disable_message_1,Desculpe! Item Disable(
+disable_message_2,)
+reject_message_1,Desculpe! Rejeitar Item (
+reject_message_2,)
+reject_edit,Editar itens rejeitados
+disable_edit,Editar itens desativados
+noti_sent_fail,Falha ao enviar notificação por push
+noti_sent_success,Enviada com êxito a notificação por push para
+success_app_setting_edit,A configuração do aplicativo foi atualizada com sucesso
+btn_no,Não
+module_group_lang,Grupo de módulos
+group_name,Nome do grupo de módulos
+group_icon,Ícone do grupo de módulos
+group_lang_key,Chave de idioma
+group_info,Informações do grupo de módulos
+group_search,Grupo de módulos de pesquisa
+group_add,Adicionar grupo de módulos
+success_group_edit,O grupo de módulos foi editado com sucesso
+success_group_add,O grupo de módulos foi adicionado com sucesso
+group_edit,Editar grupo de módulos
+success_group_delete,O grupo de módulos foi excluído com sucesso
+err_group_name,Forneça o grupo de módulos
+err_group_len,O comprimento do nome do grupo de módulos deve ser maior que 4
+err_group_exist,O nome do grupo de módulos já existe
+module_lang,Módulo
+module_desc,Descrição
+module_ordering,Encomenda
+module_add,Adicionar módulo
+module_info,Informações do módulo
+module_name,nome do módulo
+is_show_on_menu,Mostrar no menu?
+module_lang_key,Chave de idioma do módulo
+module_select_group,Selecionar grupo de módulos
+delete_module_label,Excluir módulo?
+module_delete_confirm_message,Tem certeza de que deseja excluir este módulo?
+delete_group_label,Excluir grupo de módulos?
+group_delete_confirm_message,Tem certeza de que deseja excluir este grupo de módulos?
+err_module_name,Forneça o nome do módulo
+err_module_len,O comprimento do nome do módulo deve ser maior que 4
+err_module_exist,O nome do módulo já existe
+module_search,Nome do módulo de pesquisa
+success_module_edit,O módulo foi atualizado com sucesso.
+success_module_add,O módulo foi adicionado com sucesso.
+module_edit,Módulo de edição
+success_module_delete,O módulo foi excluído com sucesso.
+approval_yes_all_message,Você tem certeza que quer deletar?
+err_user_phone_exist,O telefone já existe no sistema.
+paid_history_edit,Editar histórico de transações
+paid_prd_add,Adicionar item pago
+delete_system_user_label,Excluir usuário do sistema?
+system_user_delete_confirm_message,Tem certeza de que deseja excluir este usuário do sistema?
+loc_ordering,Encomenda
+record_not_found,10001 ## Desculpe registro não encontrado.
+no_record_pagination,10002 ## Desculpe não há mais registro no sistema.
+offline_paid_module,Itens pagos offline
+offline_paid_prd_info,Informações de itens pagos offline
+offline_paid_edit,Editar Item Pago Offline
+offline_setting,Configuração offline
+offline_label,[Opção 4]: Pagamento com offline
+offline_message,mensagem
+offline_enabled_label,Está ativado off-line?
+prd_paid_info,Informação do item pago
+offline_info,Informação de pagamento offline
+offline_title_label,Título de pagamento offline
+offline_description_label,Descrição de pagamento offline
+offline_icon,Ícone de pagamento offline
+offline_search,Pesquisar pagamento offline
+offline_add,Adicionar pagamento offline
+offline_edit,Editar pagamento offline
+success_offline_edit,O pagamento offline foi atualizado com sucesso
+success_offline_add,O pagamento offline foi adicionado com sucesso
+success_offline_delete,O pagamento offline foi excluído com sucesso
+err_offline_name,Forneça título de pagamento offline
+err_offline_len,O comprimento do título do pagamento offline deve ser maior que 4
+err_offline_exist,O título offline do Paymen já existe no sistema
+delete_offline_label,Excluir pagamento offline?
+offline_delete_confirm_message,Você quer excluir todos os pagamentos offline?
+offline_yes_all_label,sim
+offline_no_only_label,Cancelar
+offline_payment,Métodos de pagamento offline
+offline_paid_module,Itens pagos offline
+img_configuration,Configuração de imagem
+land_width_label,Largura Paisagem
+potrait_height_label,Altura do Retrato
+square_label,Altura Quadrada
+err_lat,"Por favor, forneça Latitude"
+err_lng,"Por favor, forneça Longitude"
+err_lat_lng,Sua latitude e longitude não deve ser 0.0
+offline_yes_all_message,Você quer apagar todo o pagamento offline?
+email_verification_enabled,"-Mail de verificação Activado?(Se essa configuração é On"" quando registo de utilizador utilizando e-mail ele irá enviar código de verificação para o usuário de e-mail registrado.)"
+user_auto_approved,Sua nova conta de usuário foi criada. Bem-vindo ao Flutter Buy & Sell.
+user_not_able_delete,"Desculpe, esta é conta do sistema para que ele não é capaz de desativar."
+delete_allow_user_label,Excluir usuário permitido?
+allow_user_delete_confirm_message,Você deseja excluir todos os usuários permitidos?
+allowed_module_lang,Usuários permitidos
+itm_promote_alert,Importante: este item está em promoção agora certifique-se de desativar a ação.
+user_not_able_delete,"Desculpe, esta é conta do sistema para que ele não é capaz de desativar."
+err_user_register,"Desculpe, não é o problema para o registro do usuário."
+err_user_not_exist,Sua conta não está existia no sistema.
+err_user_email_blank,Por favor forneça e-mail
+err_user_email_invalid,Seu e-mail é inválido
+success_block,Usuário foi bloqueado com sucesso.
+success_unblock,Usuário foi desbloqueado com sucesso.
+no_user_unblock,Não é possível para desbloquear o usuário.
+unable_to_report,Não é possível para relatar o item porque ele é o seu próprio item.
+success_logout,Não é possível para relatar o item porque ele é o seu próprio item.
+deeplink_section,Seção Deep Linking
+dyn_link_key_label,Chave de link dinâmico
+dyn_link_url_label,URL de ligação dinâmica
+dyn_link_package_name_label,Nome do pacote de link dinâmico
+dyn_link_domain_label,Domínio de ligação dinâmica
+dyn_link_deep_url_label,URL de link direto
+prd_dynamic_link_label,Product Dynamic Link
+already_report,Você já relataram a este item.
+lat_invlaid,Latitude deve estar entre -90 e 90 graus inclusive.
+lng_invlaid,Longitude deve estar entre -180 e 180 graus inclusive.
+paystack_setting,Paystack Configuração
+paystack_label,[Option 5]: Pagamento com Paystack
+paystack_key_label,Paystack Key
+paystack_enabled_label,Paystack está ativado?
+btn_duplicate,Duplicada
+success_prd_duplicate_add,O item duplicado foi adicionado com sucesso
+dyn_link_package_name_ios,ligando o nome do pacote IOS dinâmica
+dyn_link_ios_appstore_id,Dinâmica Linking IOS AppStore Id
+purchase_add,Adicionar Na App Comprado
+in_app_purchase_info,Em Informações App Compradas
+app_purchase_product_id_label,No ID do produto comprado do aplicativo (promoção do item)
+purchase_description_label,Descrição
+purchase_type_label,Tipo (Promoção do Item)
+err_purchase_description,Forneça Descrição
+success_purchase_edit,Na App compradas foi atualizado com sucesso.
+data_deletion_policy_url,Exclusão de dados URL Política
+delete_purchase_label,Excluir na App comprado?
+purchase_yes_all_message,Você quer apagar Na App comprado?
+success_purchase_delete,Na App Comprado foi excluído com sucesso.
+in_app_purchased_setting,Na App Ajuste Comprada
+purchase_key_label,Você pode fazer o pagamento com no aplicativo comprado
+purchase_enabled_label,Compra é ativado?
+in_app_purchases,Na App Comprado
+data_delection_module,Usuário exclusão de dados
+data_delete_info,Dados do usuário Informações Exclusão
+is_show_email,Mostrar-mail
+is_show_phone,Mostrar telefone
+data_delete_info,Supressão Informação Política de Dados
+success_data_deletion_add,Dados Política de eliminação foi adicionado com sucesso.
+success_data_deletion_edit,Dados Política de eliminação foi atualizado com sucesso.
+data_deletion_module,Política de eliminação de dados
+privacy_policy_url,URL com Política de Privacidade
+Privacy_policies,Políticas de privacidade
+Data_deletions_policies,Políticas exclusão de dados
+location_townships,Townships loction
+location_township_add,Adicionar Localização Township
+township_name,Nome Township
+item_location_module,localização Cidades
+is_default,Predefinição
+Prd_search_location_township,Selecionar item Localização Township
+itm_select_location_township,Selecionar item Localização Township
+location_township_name,Nome Township
+township_edit,Editar Township
+township_search,pesquisa Township
+is_sub_location,"Sub Local On? (Se essa configuração é ""On"" quando o usuário abrir o aplicativo a necessidade do usuário para escolher sub local (município) sob o local (cidade))"
+followed_you,seguir você.
+bought_your_item,comprou o item
+you_bought,Você comprou
+err_user_bought,"Desculpe, não é um problema quando o usuário clicar comprado."
+success_user_bought,Usuário comprei foi clicado com sucesso.
+thumbnail_generators_lng,Gerador de miniaturas
+btn_create_thumbnail,Gerador de miniatura (1x2x3x)
+thumb_1x_label,Thumbnail 1x Tamanho da imagem
+thumb_2x_label,Thumbnail 2x Tamanho da imagem
+thumb_3x_label,Thumbnail 3x Tamanho da imagem
+image_lists_lng,Listas de imagens
+img_name,Nome da imagem.
+success_img_create,"Thumbnail 2x, 3x foi criado com sucesso."
+img_not_exist,A imagem não existiu na pasta de upload.
+select_location_label,Selecione Localização
+delete_offline_item_label,Excluir item off-line?
+offline_item_delete_message_label,Você tem certeza de excluir o item off-line?
+blue_mark,Marca azul
+blue_mark_verified,Marca azul verificada
+blue_mark_applied,Marca azul aplicada
+blue_mark_rejected,Marca azul rejeitada
+verify_blue_mark_noti_approve,"Parabéns, o administrador aprovou sua marca azul."
+verify_blue_mark_noti_reject,"Desculpe, o administrador rejeitou sua marca azul. Você pode tentar aplicar novamente."
+verify_email_not_send_user,Não enviar confirmar email para
+del_photo,Excluir imagem?
+upload_video,Envio vídeo
+del_video,Excluir vídeo?
+del_video_confirm,Você tem certeza de excluir vídeo?
+success_video_delete,O vídeo foi excluído com sucesso.
+success_video_icon_delete,O ícone de vídeo foi excluído com sucesso.
+apply_success,"Marca azul foi aplicada. Por favor, aguarde uma aprovação admin."
+blue_mark_pending,"Atualmente, você não pode aplicar a marca azul porque você está pendente. Então, aguarde uma aprovação de administrador."
+already_blue_mark,Você já tem a marca azul.
+note,Observação
+user_social_info_override,"Informações sociais do usuário substituir? Se marcado, as informações sociais do usuário serão superestimadas quando você estiver login com (Google, Facebook, telefone e maçã, etc ...)"
+recommended_size_img,Tamanho recomendado: 400 x 200
+recommended_size_icon,Tamanho recomendado: 200 x 200
+applied_date_label,Data aplicada (DD / mm / aaaa)
+pending,Pendente
+verified,Verificado
+rejected,Rejeitado
+all,Tudo
+blue_mark_users_label,Verifique os usuários de marca azul
+app_token_label,Token App (para a foto do perfil do Facebook)
+already_sold_out,O item já está esgotado e você não pode fazer oferta.
+city_id_required,Por favor selecione a ID da cidade.
+err_township_name,"Por favor, forneça o nome do município."
+err_township_len,O comprimento do nome do município deve ser maior que 4.
+success_township_add,Township foi adicionado com sucesso.
+success_township_edit,Township foi atualizado com sucesso.
+deeplink_generator_label,Gerador de deeplink.
+btn_deeplink_generator,Gerar deeplink.
+success_deeplink_generate,Deeplink foi gerado com sucesso.
+cannot_chat,Não é possível conversar com este usuário ou item.
+topics_fe_label,Tópicos para o frontend
+topics_label,Tópicos para celular
+go_to_be_setting_label,Vá para a configuração de backend
+deeplink_note_label,"Nota - O link dinâmico do item foi gerado por essas configurações acima. Se você quiser se regenerar com nova configuração, altere a configuração aqui:"
+err_price,"Por favor, forneça o Pirce."
+price_cannot_zero,O preço não pode ser zero.
+is_thumb2x_3x_generate,"Thumbnail 2x, 3x Configuração? (Se esta configuração estiver 'ativada' quando você carregar a imagem, ele gerará thumbnail2x e thumbnail3x automaticamente.)"
+thumb_generator_text_label,"Ele gerará as imagens de miniaturas para cada item. Por favor, observe que este processo levará às vezes com base nos seus dados"
+thumb2x_3x_settting_off,"Criar thumbnail2x, a configuração 3x está desligada."
+create_thumb2x_folder,"A pasta Thumbnail2x não existe, por favor, crie-a primeiro. Ou você pode desligar a configuração Thumb2X, 3x."
+create_thumb3x_folder,"A pasta Thumbnail3x não existe, por favor, crie-a primeiro. Ou você pode desligar a configuração Thumb2X, 3x."
+thumb2x_already_existed,A imagem já existe na pasta thumbnail2x.
+thumb3x_already_existed,A imagem já existe na pasta thumbnail3x.
+err_currency_symbol,"Por favor, forneça símbolo de moeda."
+err_description,Forneça a descrição do item
+pkg_add,Adicionar Pacote
+pkg_search,Pacote de Pesquisa
+pkg_edit,Editar Pacote
+success_pkg_edit,O pacote foi atualizado com sucesso.
+success_pkg_add,O pacote foi adicionado com sucesso.
+success_pkg_delete,O pacote foi excluído com sucesso.
+title,Título
+pkg_info,Informação do pacote
+post_count,Contagem de publicações
+pkg_select_currency,Selecione a moeda do pacote
+err_pkg_title,Forneça o título do pacote
+err_pkg_price,Forneça o preço do pacote
+err_pkg_currency,Forneça a moeda do pacote
+err_pkg_post_count,Forneça o número de contagem de postagens
+err_pkg_exit,O nome do pacote já existe no sistema
+delete_pkg_label,Excluir pacote?
+pkg_delete_confirm_message,Tem certeza de que deseja excluir este pacote?
+pkg_yes_all_label,Sim tudo
+pkg_no_only_label,Apenas Pacote
+err_pkg_bought,Desculpe
+success_pkg_bought,Pacote comprado inserido com sucesso.
+is_paid_app,"Aplicativo pago ativado? (Se esta configuração estiver ""Ligado"", este aplicativo é limitado à postagem de anúncio do usuário)"
+package_module,Pacotes
+paid_item_module,Relatório de itens patrocinados
+is_subcat_subscription,"Assinatura da subcategoria ativada? (Se esta configuração for ""Ligado"", o usuário deve ser capaz de se inscrever nas subcategorias.)"
+err_subcat_subscibe_save,Desculpe
+err_subcat_subscibe_delete,Desculpe
+success_subcat_subscribe,Assinatura de subcategoria de sucesso.
+verify_blue_mark,Marca azul verificada
+rating_view,Visualizar usuário de classificação
+csv_export,Exportação CSV
+Item_reports,Itens reportados
+report_search,Pesquisar item relatado
+rating_search,Usuário de classificação de pesquisa
+demo_login,Faça login com uma conta demo
+approve_item,Aprovar item
+disable_item,Desativar item
+reject_item,Rejeitar item
+receive_rating_from,Receber classificação de
+discount_rate_by_percentage,Taxa de desconto por porcentagem
+item_upload_config,Configurações de upload de itens
+success_item_config_edit,A configuração de upload do item foi atualizada com sucesso
+success_item_config_add,A configuração de upload do item foi adicionada com sucesso
+item_config_label,Informações de configuração de upload de item
+item_type,Tipo de item
+price_type,Tipo de preço
+deal_option_remark,Observação da opção de transação
+System_users,Usuários do sistema
+Registered_users,Usuários registrados
+item_location,Localização do item
+item_location_township,Local do item Município
+Item_currency,Moeda do item
+App_settings,Configurações do aplicativo
+Backend_configs,Configurações de back-end
+is_block_user,"Recurso de bloqueio ativado? (Se esta configuração estiver ""Ativada"", o usuário poderá impedir que outros usuários indesejados vejam sua postagem de anúncio.)"
+err_image,"Por favor, preencha o upload da foto"
+err_video,"Por favor, preencha o upload do vídeo"
+err_video_icon,"Por favor, preencha o ícone de upload de vídeo"
+item_video,Envio de vídeo do item
+item_video_icon,Carregamento do ícone de vídeo do item
+item_loc_config,Configuração do local do item
+err_brand,Forneça o nome da marca do item
+err_address,"Por favor, forneça o endereço"
+err_deal_option,Forneça a opção de transação
+err_deal_option_remark,Forneça a observação da opção de transação
+err_highlight_info,Forneça informações de destaque
+Item_price,Preço do item
+err_item_price_type,Forneça o tipo de preço do item
+err_item_type,Forneça o tipo de item
+err_condition_of_item,"Por favor, forneça a condição do item"
+open,abrir
+in_progress,em andamento
+close,Fechar
+demo_data_delete,Exclusão de dados de demonstração
+demo_data_delete_note_label,"Nota: Todos os registros de 'usuários' serão excluídos, exceto a conta de administrador."
+success_demo_data_delete,Os dados de demonstração foram excluídos com sucesso.
+btn_submit,Enviar
+admin_pwd_label,Digite a senha do administrador
+delete_demo_data,Tem certeza de excluir todos os dados de demonstração?
+admin_confirm,Digite sua senha de administrador abaixo para confirmar essas exclusões de dados de demonstração.
+err_blank_pwd,"Por favor, preencha a senha de administrador"
+err_pwd_invalid,Sua senha é invalida!
+no_messages,Nenhuma mensagem recente
+no_items,Nenhum item adicionado recentemente
+no_users,Nenhum usuário adicionado recentemente
+img_all_delete,Todas as imagens relacionadas serão excluídas
+images,Imagens
+no_need_bought,"Não há necessidade de comprar postagens de anúncios, você é um usuário do sistema."
+need_user_bought,Este item foi necessário para comprar pelo usuário primeiro.
+need_accept_offer,Este item foi necessário para aceitar uma oferta primeiro.
+need_make_offer,Este item foi necessário para fazer uma oferta primeiro.
+already_make_offer,Este item já foi feito uma oferta.
+already_reject_offer,Este item já foi rejeitado a oferta.
+already_rejected,Este item já foi rejeitado a oferta.
+adpost_history_search,Histórico de transações de postagem do anúncio de pesquisa
+ad_post_transactions_module,Histórico de transações de postagem de anúncios
+package_name,Nome do pacote
+buy_ad_post_transactions,Histórico de transações de postagem de anúncios
+adpost_history_view,Ver histórico de transações de publicação de anúncios
+cannot_default,"Desculpe, não é possível restaurar o padrão."
+cannot_unpublish,"Desculpe, não é possível cancelar a publicação na moeda padrão."
+new_item_upload_label,Novo item carregado em
+csv_upload_instruction_city,"Siga os passos abaixo: <br>
+1. Em seguida, prepare como o formato CSV. <a href=""https://drive.google.com/file/d/1g3T6H2cdZsGS0UlHji6_BkP_JIa1YBCy/view?usp=sharing"" target=""_blank""> amostra de arquivo csv aqui </a> <br>
+2. Você pode usar o Google Sheet para criar e exportar como separador de vírgulas."
+pls_upload_csv,Faça o upload de um arquivo CSV.
+something_wrong_upload,Algo errado fazer upload do arquivo
+err_paid_adpost_history,"Desculpe! Por favor, verifique as informações de pagamento."
+total_city,Local total da cidade:
+success_total_city,Cidade de localização de sucesso:
+fail_total_city,Cidade do local com falha:
+total_township,Município de localização total:
+success_total_township,Local de sucesso município:
+fail_total_township,Município de localização com falha:
+beacause_db_err,devido a um erro de banco de dados.
+because_miss_city,por falta de localização da cidade
+because_miss_township,por causa do município de localização ausente
+csv_upload_instruction_township,"Siga os passos abaixo: <br>
+1. Em seguida, prepare como o formato CSV. <a href=""https://drive.google.com/file/d/1hkLZUDt4pxIqtfPE9k5rhzf4rhK6VJit/view?usp=sharing"" target=""_blank""> amostra de arquivo csv aqui </a> <br>
+2. Você pode usar o Planilhas Google para criar e exportar como separador de vírgulas.<br>
+Observação: o nome da cidade a ser usado no arquivo CSV do município de localização deve ser adicionado primeiro."
+because_noexit_city,o nome da cidade não existe no sistema
+item_locations,Cidade do local do item
+city_existed,já existia no sistema.
+township_existed,já existia no sistema.
+success_generate_sitemap,O mapa do site foi gerado com sucesso.
+sitemap_generator,Gerador de mapa do site
+sitemap_generators,Gerador de mapa do site
+sitemap_generator_label,Gerador de mapa do site
+btn_create_sitemap,Gerar Sitemap
+err_generate_sitemap,Os Sitemaps não geram alguns erros.
+sitemap_generate_desc,Ele irá gerar os arquivos XML do mapa do site. Observe que esse processo levará algumas coisas com base em seus dados.
+sitemap_url_here,Arquivo de mapa do site aqui:
+sitemap_info,Seu sitemap xml foi gerado em
+copy_sitemap_to_fe,Copie o arquivo de mapa do site para o front-end
+total_cat,Categoria Total:
+success_cat,Categoria de sucesso:
+fail_cat,Categoria com falha:
+miss_cat_name,por causa do nome da categoria ausente
+miss_cat_img,por causa da imagem de categoria ausente na pasta 'uploads'.
+miss_cat_icon,por causa do ícone de categoria ausente na pasta 'uploads'.
+total_subcat,Subcategoria Total:
+success_subcat,Subcategoria bem-sucedida:
+fail_subcat,Subcategoria com falha:
+miss_subcat_name,devido à falta do nome da subcategoria
+miss_subcat_img,devido à falta de imagem de subcategoria na pasta 'uploads'.
+miss_subcat_icon,por causa do ícone de subcategoria ausente na pasta 'uploads'.
+not_exist_cat,nome da categoria não existia no sistema.
+db_err,devido a um erro de banco de dados.
+already_existed,já existe.
+csv_upload_instruction_cat,"Siga as etapas abaixo:<br>
+1. Faça upload das imagens para a pasta de uploads manualmente via FTP.<br>
+2. Em seguida, prepare como o formato CSV. <a href=""https://drive.google.com/file/d/1Qt-fnaTullQo6tOumLGwoZIB34b-TlW3/view?usp=sharing"" target=""_blank"">Arquivo de amostra aqui</a><br>
+3. Você pode usar o Google Sheet para criar e exportar como separador de vírgulas."
+csv_upload_instruction_subcat,"Siga as etapas abaixo:<br>
+1. Faça upload das imagens para a pasta de uploads manualmente via FTP.<br>
+2. Em seguida, prepare como o formato CSV. <a href=""https://drive.google.com/file/d/1SZpLcLjRXEYZCym5aQJHs5Par0_qvrDr/view?usp=sharing"" target=""_blank"">Arquivo de amostra aqui</a><br>
+3. Você pode usar o Google Sheet para criar e exportar como separador de vírgulas.<br>
+<b>Observação: o nome da categoria a ser usado no arquivo CSV da subcategoria deve ser adicionado primeiro.</b>"
+unauthorize_item_edit,Você não tem permissão para atualizar um item porque não é seu item.
+not_enought_post_count,Não há contagem de postagens suficiente.
+record_not_found,10001#Desculpe
+record_no_pagination,"10001#Desculpe, não há mais registros no sistema."
+offer_rejected,Oferta rejeitada!
+make_offer,Faça oferta!
+offer_accepted,Oferta aceita!
+image,Imagem!
+about_app,Sobre o aplicativo
+api_setting,Configuração da API
+app_setting,Configuração do aplicativo
+fail_push_devices,Falha ao empurrar todos os dispositivos Android e IOS.
+fail_push_websites,Falha ao enviar todos os sites.
+push_noti_module,Notificação push
+app_version,Versão
+err_title,"Por favor, forneça o título."
+err_title_len,O comprimento do título deve ser maior que 4.
+remove_label,Remover
+all_label,Todo
+approved_label,Aprovado
+reject_label,Rejeitar
+err_icon,"Por favor, preencha o ícone de upload."
+start_upload,Iniciar envio
+cancel_upload,Cancelar upload
+add_files,Adicionar arquivos
+btn_update,Atualizar
+err,Erro
+btn_start,Começar
+btn_close,Fechar
+category,Categoria
+added,Adicionado
+disable_label,Desativar
+waiting_approval_label,Esperando aprovação
+count,Contar
+demo_dummy_refresh_hour,"Esteja ciente de que o back-end é um modo de demonstração, portanto, todos esses dados fictícios serão atualizados a cada hora."
+sys_err_occur,Ocorreu um erro de sistema. Entre em contato com o administrador do sistema.
+registered_user,Usuário Registrado
+generate_thumbnail_label,Ele irá gerar as imagens em miniatura para cada item. Observe que esse processo levará algum tempo com base em seus dados.
+max_img_upload_of_item,Upload máximo de imagem do item
+err_max_img_blank_save,Forneça o upload máximo de imagens do item.
+err_max_img_zero_save,O upload máximo de imagens do item não pode ser zero.
+err_max_img_upload,A imagem do item é máxima.
+price_format,Formato de preço
+price_format_desc,"Você precisa alterar de acordo com o formato que você precisa (por exemplo, "",##0.00"" => 2.555,00, ""##0.00"" => 2555,00 ,"".00"" => 2555,00, "",##0"" => 2.555, "",##0,0"" => 2.555,0)"
+date_format,Formato de data
+google_playstore_url,URL do Google Play Store
+apple_appstore_url,URL da App App Store
+ios_appstore_id,IOS App Store ID
+default_order_time,Tempo de ordem padrão (minutos)
+fb_key,Chave do Facebook
+is_show_token_id,"ID do token ativado? (Se esta configuração estiver ""Ativada"", o usuário poderá visualizar o ID do token na configuração de notificação.)"
+is_show_subcategory,"Subcategoria ativada? (Se esta configuração for ""On"", a subcategoria pode ser usada no aplicativo.)"
+is_use_thumbnail_as_placeholder,"Usar miniatura como configuração de espaço reservado ativado? (Se esta configuração estiver ""Ligada"", ela carregará a imagem em miniatura primeiro e depois carregará a imagem completa. Ou se essa configuração estiver ""Desativada"", ela carregará a imagem completa diretamente e para a imagem de espaço reservado será usada a imagem de espaço reservado padrão.)"
+admob_section,Configuração da AdMob
+is_show_admob,"Configuração da AdMob ativada? (Se esta configuração estiver ""Ligada"", o aplicativo exibirá anúncios.)"
+lang_section,Configuração de idioma
+default_language,Idioma padrão
+exclude_language,idiomas disponíveis
+exclude_lang_desc,"(Se o idioma estiver ""Ligado"", o usuário poderá usar esse idioma no aplicativo.)"
+default_currency_section,Default Currency Configuration
+default_razor_currency,Moeda padrão da navalha
+is_razor_support_multi_currency,"Razor Support Multi-Moeda Ativado? (Se esta configuração estiver ""Ligada"", você pode aceitar o pagamento com lâmina em várias moedas no aplicativo.)"
+default_flutter_wave_currency,Moeda padrão do Flutterwave
+login_section,Configuração de login
+show_facebook_login,"Login do Facebook ativado? (Se esta configuração estiver ""Ligada"", os usuários podem estar logados com o Facebook.)"
+show_google_login,"Login do Google ativado? (Se esta configuração estiver ""Ativada"", os usuários poderão fazer login com o Google.)"
+show_phone_login,"Telefone Login Ligado? (Se esta configuração estiver ""Ligada"", os usuários poderão fazer login com um número de telefone.)"
+show_main_menu,"Menu principal ativado? (Se esta configuração estiver ""Ligada"", o usuário poderá visualizar a guia ""Menu Principal"" em cada loja.)"
+show_special_collections,"Coleções especiais em? (Se esta configuração estiver ""Ativada"", o usuário poderá visualizar a guia ""Ofertas especiais"" em cada loja.)"
+show_featured_items,"Itens em destaque ativado? (Se esta configuração estiver ""Ligada"", o usuário poderá visualizar os ""Itens em destaque"" em cada loja.)"
+show_best_choice_slider,"Melhor controle deslizante de escolha? (Se esta configuração estiver ""Ativada"" quando o usuário abrir o aplicativo, o usuário poderá visualizar as coleções de melhor escolha com a visualização do controle deslizante.)"
+default_loading_limit,Limite de carregamento padrão
+category_loading_limit,Limite de carga de categoria
+recent_item_loading_limit,Limite de carregamento de item recente
+popular_item_loading_limit,Limite de carregamento de item popular
+discount_item_loading_limit,Limite de carregamento de item de desconto
+feature_item_loading_limit,Limite de carregamento do item de recurso
+block_slider_loading_limit,Limite de carregamento do controle deslizante de bloco
+follower_item_loading_limit,Limite de carregamento do item seguidor
+default_limit_section,Configuração do limite padrão
+block_item_loading_limit,Limite de carregamento de item de bloco
+date_format_desc,"DD para o dia, mm para o mês, aaaya para o ano, HH durante a hora, mm durante o minuto, SS para o segundo (por exemplo, DD-MM-AAAA, HH: mm: SS)"
+app_config_info_lable,Informações de configuração móvel
+loc_section,Configuração de localização
+success_mobile_edit,A configuração móvel foi atualizada com sucesso.
+success_mobile_add,A configuração móvel foi adicionada com sucesso.
+err_default_lang,"Por favor, forneça o idioma padrão."
+err_default_loading_limit_zero,O limite de carga padrão não pode ser zero.
+err_default_loading_limit,"Por favor, forneça o limite de carga padrão."
+err_category_loading_limit,"Por favor, forneça o limite de carga da categoria"
+err_category_loading_limit_zero,O limite de carga de categoria não pode ser zero.
+err_collection_product_loading_limit,"Por favor, forneça o limite de carregamento do produto de coleta."
+err_collection_product_loading_limit_zero,O limite de carga do produto da coleção não pode ser zero.
+err_discount_product_loading_limit,"Por favor, forneça o limite de carga do produto com desconto."
+err_discount_product_loading_limit_zero,O limite de carga do produto com desconto não pode ser zero.
+err_feature_product_loading_limit,"Por favor, forneça o limite de carga do produto em destaque."
+err_feature_product_loading_limit_zero,O limite de carga do produto em destaque não pode ser zero.
+err_latest_product_loading_limit,"Por favor, forneça o mais recente limite de carga do produto."
+err_latest_product_loading_limit_zero,O limite mais recente de carga do produto não pode ser zero.
+err_shop_loading_limit,"Por favor, forneça o limite de carregamento da loja."
+err_shop_loading_limit_zero,O limite de carga não pode ser zero.
+err_trending_product_loading_limit,"Por favor, forneça o limite de carregamento do produto de tendência."
+err_trending_product_loading_limit_zero,O limite de carga do produto de tendência não pode ser zero.
+err_default_order_time,"Por favor, forneça o tempo de pedido padrão."
+err_default_order_time_zero,O tempo de ordem padrão (minutos) não pode ser zero.
+err_google_playstore_url,"Por favor, forneça o URL do Google Play Store."
+err_apple_appstore_url,"Por favor, forneça a URL da App App Store."
+err_ios_appstore_id,"Por favor, forneça um ID da App Store do IOS."
+err_price_format,"Por favor, forneça o formato de preço."
+err_date_format,"Por favor, forneça o formato de data."
+err_fb_key,"Por favor, forneça uma chave do facebook."
+default_lang_select,Selecione o idioma padrão
+mobile_configs,Config.
+frontend_configs,Frontend config.
+faq_pages_label,Páginas FAQ
+terms_and_conditions_label,Termos e Condições
+is_use_googlemap,Use o Google Map On?
+item_detail_view_count_for_ads,Contagem de visualização detalhada do item para anúncios
+is_show_ads_in_item_detail,É apresentar anúncios no detalhe do item?
+after_item_count_admob_once,Após a contagem de itens Admob uma vez
+is_show_admob_inside_list,O show Admob Inside List?
+blue_mark_size,Tamanho do Bluemark
+mile,Faixa de milhas para itens mais próximos
+video_duration,Duração do vídeo (milissegundos)
+image_section,Seção de imagem.
+profile_image_size,Tamanho da imagem do perfil
+upload_image_size,Upload o tamanho da imagem
+chat_image_size,Tamanho da imagem de bate-papo.
+promote_section,Promover seção
+promote_first_choice_day,Promover o dia de primeira escolha ou o dia padrão
+promote_second_choice_day,Promover o dia de segunda escolha
+promote_third_choice_day,Promover o terceiro dia de escolha
+promote_fourth_choice_day,Promover quarto dia de escolha
+no_filter_with_location_on_map,Não é filtro com localização no mapa?
+is_show_owner_info,É mostrar informações do proprietário?
+frontend_config_label,Informações do Frontend Config.
+map_key,Chave do mapa
+enable_notification,Ativar notificação?
+fcm_server_key,Chave do servidor FCM.
+firebase_web_push_key_pair,Firebase Web Push Key Par
+ad_client,Cliente do anúncio
+ad_slot,Slot de anúncios
+copy_right,Direito autoral
+google_play_url,Google Play Url.
+app_store_url,URL da App Store.
+google_setting,Setting do Google.
+app_store_setting,Configuração da App Store.
+banner_src,Banner src.
+google_map,Google Map
+open_street_map,Mapa de rua aberto
+image_limit,Limite de imagem.
+success_frontend_edit,O Frontend Config foi atualizado com sucesso.
+success_frontend_add,Frontend config foi adicionado com sucesso.
+show_user_profile,Mostrar perfil de usuário?
+is_enable_video_setting,É ativar a configuração de vídeo?
+err_map,"Por favor, forneça a chave do mapa"
+err_price_format,"Por favor, forneça formato de preço"
+err_fcm_server_key,"Por favor, forneça a chave do servidor FCM"
+err_firebase_web_push_key_pair,"Por favor, forneça par Keybase Web Push Key"
+err_ad_client,"Por favor, forneça um cliente publicitário"
+err_copy_right,"Por favor, forneça cópia direita"
+err_google_play_url,"Por favor, forneça o URL do Google Play"
+err_ad_slot,"Por favor, forneça slot para anúncios"
+err_app_store_url,"Por favor, forneça URL da App Store"
+err_banner_src,"Por favor, forneça banner src"
+err_block_item_loading_limit_zero,O limite de carga do item de bloco não pode ser zero
+err_block_item_loading_limit,"Por favor, forneça um item de bloco carregando"
+err_follower_item_loading_limit_zero,O limite de carregamento do item seguidor não pode ser zero
+err_follower_item_loading_limit,"Por favor, forneça o limite de carga do item seguidor"
+err_block_slider_loading_limit_zero,O limite de carregamento deslizante de bloco não pode ser zero
+err_feature_item_loading_limit_zero,O limite de carregamento do item de recurso não pode ser zero
+err_feature_item_loading_limit,"Por favor, forneça limite de carregamento do item de recurso"
+err_discount_item_loading_limit_zero,O limite de carga do item de desconto não pode ser zero
+err_discount_item_loading_limit,"Por favor, forneça limite de carga de item de desconto"
+err_popular_item_loading_limit_zero,Limite de carga de item popular não pode ser zero
+err_popular_item_loading_limit,"Por favor, forneça limite popular de carga de item"
+err_recent_item_loading_limit_zero,Limite de carga de item recente não pode ser zero
+err_recent_item_loading_limit,"Por favor, forneça um limite recente de carga do item"
+err_item_detail_view_count_for_ads_zero,Contagem de visualização detalhada do item para anúncios não podem ser zero
+err_item_detail_view_count_for_ads,"Por favor, forneça contagem de visualização detalhada do item para anúncios"
+err_after_item_count_admob_once_zero,Após a contagem de itens Admob uma vez não pode ser zero
+err_after_item_count_admob_once,"Por favor, forneça após a contagem de itens Admob uma vez"
+err_profile_image_size_zero,O tamanho da imagem do perfil não pode ser zero
+err_profile_image_size,"Por favor, forneça o tamanho da imagem de perfil"
+err_upload_image_size_zero,O tamanho da imagem de upload não pode ser zero
+err_upload_image_size,"Por favor, forneça o tamanho da imagem do upload"
+err_blue_mark_size_zero,O tamanho do Bluemark não pode ser zero
+err_blue_mark_size,"Por favor, forneça o tamanho do Bluemark"
+err_video_duration_zero,A duração de vídeo não pode ser zero
+err_video_duration,"Por favor, forneça a duração de vídeo"
+err_mile_zero,Milha não pode ser zero
+err_mile,"Por favor, forneça a milha"
+err_chat_image_size_zero,O tamanho da imagem do bate-papo não pode ser zero
+err_chat_image_size,"Por favor, forneça o tamanho da imagem de bate-papo"
+ad_post_type,Tipo de postagem ad
+err_ad_post_type,"Por favor, forneça o tipo de postagem do anúncio."
+select_ad_post_type,Selecione o tipo de postagem do anúncio
+err_promo_cell_blank_save,"Por favor, forneça o intervalo celular promovido no."
+err_promo_cell_zero_save,O intervalo celular promovido não. não pode ser zero.
+promo_cell_interval_no,Promovido Intervalo de Célula No.
+ad_post_section,Configuração do tipo post do anúncio
+paid_items,Itens patrocinados
+promo_cell_interval_desc,(Os anúncios patrocinados ou anúncios do Google vão mostrar em todos os x não da lista.)
+offline_pkg_bought_edit,Editar pacote offline comprado
+offline_pkg_bought_search,Pesquisar pacote off-line comprado
+delete_offline_pkg_label,Excluir pacote de anúncios offline comprado?
+offline_pkg_delete_message_label,Tem certeza de que deseja excluir o pacote de anúncios offline comprado?
+offline_pkg_bought_info,Informações de compra de pacote off-line
+bought_user,Usuário comprado
+currency_label,Moeda
+success_offline_pkg_delete,O pacote de anúncios offline comprado foi excluído com sucesso.
+success_offline_pkg_edit,O pacote de anúncios offline comprado foi atualizado com sucesso.
+success_offline_pkg_add,O pacote de anúncios offline comprado foi adicionado com sucesso.
+offline_paids,Solicitação de itens patrocinados offline
+offline_ad_package_bought_request,Solicitação de compra de pacote de anúncios off-line
+err_block_slider_loading_limit,Forneça o limite de carregamento do controle deslizante de bloco.
+err_item_detail_view_count_for_ads,Forneça a contagem de detalhes do item para anúncios.
+err_item_detail_view_count_for_ads_zero,A contagem de detalhes do item para anúncios não pode ser zero.
+err_promote_fourth_choice_day,"Por favor, forneça promover o quarto dia de escolha."
+err_promote_fourth_choice_day_zero,A promoção do quarto dia de escolha não pode ser zero.
+err_promote_first_choice_day,"Por favor, forneça promover o primeiro dia de escolha."
+err_promote_first_choice_day_zero,A promoção no dia da primeira escolha não pode ser zero.
+err_promote_second_choice_day,"Por favor, forneça promover o segundo dia de escolha."
+err_promote_second_choice_day_zero,O dia de promoção da segunda escolha não pode ser zero.
+err_promote_third_choice_day,"Por favor, forneça promover o terceiro dia de escolha."
+err_promote_third_choice_day_zero,A promoção do terceiro dia de escolha não pode ser zero.
+success_image_reorder,A imagem foi reordenada com sucesso.
+unauthorize_reorder_img_edit,Você não tem permissão para reordenar esta imagem porque não é proprietário.
+no_transaction_yet,Você não pode exportar o arquivo CSV devido a nenhuma transação.
+package_app_purchase_product_id_label,ID do produto de compras de compras de aplicativos
+package_purchase_type_label,Pacote em compras de aplicativos Tipo
+default_map_section,Seção de mapa padrão
+is_force_login,"O login forçado está ativado? (Se essa configuração estiver ""Ativada"" quando o aplicativo for iniciado, o usuário deverá fazer login primeiro.)"
+is_language_config,"A configuração de idioma está ativada? (Se esta configuração estiver ""Ativada"" quando o aplicativo for iniciado, o usuário deverá selecionar o idioma.)"
+sold_out_items,Itens Esgotados
+sold_out_items_module,Itens Esgotados
+sold_out_item_view,Ver itens vendidos
+item_upload_ui_section,Seção de IU de upload de itens
+item_upload_ui1,IU de carregamento de itens 1
+item_upload_ui2,IU de carregamento de itens 2
+price_pkg_desc,(O campo de preço é usado apenas para outros pagamentos além do IAP (no aplicativo comprado).)
+currency_pkg_desc,(O campo de moeda é usado apenas para outros pagamentos além do IAP (no aplicativo comprado).)
+api_keys,Chaves de API
+languages,línguas
+versions,Versões
+abouts,Sobre
+item_address_label,Endereço
+lat_label,Latitude
+lng_label,Longitude
+data_deletion_policy_url,URL da política de exclusão de dados
+paid_configs,Configuração de pagamento
+in_app_purchased,No aplicativo comprado
+in_app_purchases,No aplicativo comprado
+module_groups,Configuração do nome do menu
+modules,Configuração do nome do submenu
+thumbnail_generators,Geradores de miniaturas
+image_lists,Listas de imagens
+categrories,Categorias
+subcategories,Subcategorias
+packages,Pacotes
+item location townships,Local do item Municípios
+item_location_townships,Local do item Municípios
+items,Itens
+item_conditions,Condições do item
+deal_options,Opções de transação
+blogs,Blogues
+pendings,Pendentes
+rejects,Rejeições
+disables,Desativa
+blue_mark_users,Usuários da marca azul
+Blue mark users,Usuários da marca azul
+user_phone_label,Telefone
+popularitems,Itens populares
+view,Visão
+ratings,Classificações
+contacts,Contatos
+transactions,Transações
+notis,Notificações
+deeplink_generators,Geradores de links diretos
+Deeplink generators,Geradores de links diretos

@@ -1,0 +1,1281 @@
+key,valeur
+site_name,Flutter Buy & Sell Admin Panel
+title_bar_seperator,|
+added_date,Date
+upload_point_label,Point de téléchargement
+success_item_report,Le rapport d'élément a été ajouté avec succès
+signin,Se connecter
+check_for_detail,Vérifiez pour plus de détails!
+success_delete,Supprimé avec succès
+success_save_contact,Merci de nous avoir contacté. Nous vous recontacterons bientôt.
+success_contact_delete,Le message de contact a été supprimé avec succès
+btn_search,Chercher
+btn_add_new,Add NewAjouter un nouveau
+btn_edit,Éditer
+btn_save,sauvegarder
+btn_save_gallery,Enregistrer et aller à la galerie
+btn_cancel,Annuler
+btn_yes,Oui
+btn_delete,Supprimer
+btn_publish,Publier
+btn_replace_photo,Remplacer la photo
+btn_replace_icon,Remplacer l'icône
+back_button,Retour
+lbl_view,Vue
+chat_history_save_success,L'historique du chat a été ajouté avec succès
+chat_history_update_success,L'historique du chat a été mis à jour avec succès
+btn_version,Version
+ver_info,Information sur la version
+ver_no_label,Version Non
+ver_msg_label,Message de version
+ver_title_label,Titre de la version
+ver_force_update,Version Force Update?
+ver_need_data,Version Besoin de données claires?
+success_version_add,La version a été ajoutée avec succès
+success_version_edit,La version a été mise à jour avec succès
+dashboard,Tableau de bord
+no,Non
+del_cover_photo,Supprimer la photo de couverture
+youtube_url,URL Youtube
+profile_img,Image de profil
+success_upload,L'image a été téléchargée avec succès
+success_img_delete,L'image a été supprimée avec succès
+error_login,Email et mot de passe ne correspondent pas
+err_access,"Désolé, vous n'avez pas accès à cette action"
+err_model,Une erreur de base de données s'est produite
+err_sys,Une erreur système s'est produite
+err_upload,Une erreur de téléchargement s'est produite
+del_cover_photo_confirm,Voulez-vous vraiment supprimer la photo?
+upload_photo,Envoyer la photo
+no_record,Plus d'enregistrements
+invalid_api_key,La clé API n'est pas valide
+invalid_user_id,Identifiant invalide
+invalid_item_id,ID d'élément non valide
+role,Rôle
+user_name,Nom d'utilisateur
+user_email,Email
+user_password,Mot de passe
+conf_password,Confirmez le mot de passe
+user_phone,Téléphone
+allowed_modules,Modules autorisés
+user_ban,Interdire
+user_unban,Débloquer
+user_info,informations de l'utilisateur
+user_list,Liste des utilisateurs
+user_add,Ajouter un nouvel utilisateur
+user_edit,Modifier l'utilisateur
+user_search,Rechercher un utilisateur
+err_dup_email,L'adresse e-mail existe déjà dans le système
+err_dup_name,Le nom existe déjà dans le système
+err_user_name_blank,Veuillez fournir un nom d'utilisateur
+err_user_name_len,La longueur du nom d'utilisateur doit être supérieure à 4
+err_user_email_blank,Veuillez fournir une adresse e-mail
+err_user_email_invalid,Adresse email invalide
+err_user_email_exist,L'adresse e-mail existe déjà dans le système
+err_user_pass_blank,Veuillez fournir un mot de passe
+err_user_pass_len,La longueur du mot de passe doit être supérieure à 4
+err_user_pass_conf_blank,Veuillez confirmer le mot de passe
+err_user_pass_conf_not_match,Le mot de passe et la confirmation du mot de passe ne correspondent pas
+err_permission_blank,Veuillez sélectionner les modules auxquels vous pouvez accéder
+success_user_add,L'utilisateur a été ajouté avec succès
+success_user_edit,L'utilisateur a été mis à jour avec succès
+err_user_banned,"Désolé, vous ne pouvez pas vous connecter car votre compte est banni."
+cat_info,Informations sur la catégorie
+cat_name,Nom de catégorie
+cat_ordering,Ordre des catégories
+cat_img,Catégorie Photo de couverture
+cat_icon,Icône de catégorie
+cat_search,Catégorie de recherche
+cat_select,Sélectionnez le nom de la catégorie
+cat_add,ajouter une catégorie
+cat_edit,Modifier la catégorie
+success_cat_edit,La catégorie a été mise à jour avec succès
+success_cat_add,La catégorie a été ajoutée avec succès
+success_cat_delete,La catégorie a été supprimée avec succès
+err_cat_name,Veuillez fournir le nom de la catégorie
+err_cat_len,La longueur du nom de catégorie doit être supérieure à 4
+err_cat_exist,Le nom de catégorie existe déjà dans le système
+delete_cat_label,Supprimer la catégorie?
+cat_delete_confirm_message,Voulez-vous supprimer toute la catégorie?
+cat_yes_all_message,Oui tout - La catégorie et les articles seront supprimés du système.
+cat_no_only_message,Only Category - Only Category supprimera du système.
+cat_yes_all_label,Oui tout
+cat_no_only_label,Catégorie uniquement
+subcat_info,Informations sur la sous-catégorie
+subcat_name,Nom de la sous-catégorie
+subcat_ordering,Ordre des sous-catégories
+subcat_img,Sous-catégorie Photo
+subcat_icon,Icône de sous-catégorie
+subcat_search,Sous-catégorie de recherche
+subcat_add,Ajouter une sous-catégorie
+subcat_edit,Modifier la sous-catégorie
+success_subcat_edit,La sous-catégorie a été mise à jour avec succès
+success_subcat_add,La sous-catégorie a été ajoutée avec succès
+success_subcat_delete,La sous-catégorie a été supprimée avec succès
+err_subcat_name,Veuillez fournir le nom de la sous-catégorie
+err_subcat_len,La longueur du nom de la sous-catégorie doit être supérieure à 4
+err_subcat_exist,Le nom de la sous-catégorie existe déjà dans le système
+delete_subcat_label,Supprimer la sous-catégorie?
+subcat_delete_confirm_message,Voulez-vous vraiment supprimer cette sous-catégorie?
+subcat_yes_all_message,"Lorsque vous supprimez cette sous-catégorie, tous les produits associés seront également supprimés. Voulez-vous toujours le supprimer?"
+subcat_no_only_message,<b> Seule sous-catégorie </b> - Seule la sous-catégorie sera supprimée du système.
+subcat_yes_all_label,Oui tout
+subcat_no_only_label,Sous-catégorie uniquement
+select_subcat,Sélectionnez une sous-catégorie
+select_cat,Choisir une catégorie
+subcat_panel_title,Liste des sous-catégories
+Prd_search_cat,Sélectionnez le nom de la catégorie
+delete_contact_label,Supprimer le message de contact?
+contact_delete_confirm_message,Voulez-vous supprimer le message de contact?
+detail_contact_label,Détails du message de contact
+contact_info_label,Informations sur le message de contact
+about_contact_label,À propos du message de contact
+contact_info_label,Coordonnées de contact
+contact_name,nom de contacte d'une personne
+contact_email,Courriel de la personne de contact
+contact_phone,Téléphone de la personne de contact
+btn_reset,Réinitialiser
+reset_password,réinitialiser le mot de passe
+contact_receive_message,Vous avez reçu un nouveau message contactez-nous.
+nav_profile,Accéder au profil
+nav_backend,Aller au backend
+nav_logout,Se déconnecter
+device_label,Dispositif
+devices_label,Dispositifs
+registered_label,a été enregistré pour la notification push
+noti_info,Notification push
+noti_message_label,Message
+noti_message_tooltips,Veuillez fournir le message pour la notification push.
+noti_send_btn,Envoyer une notification push
+sorry_no_device,"Désolé, il n'y a pas d'appareil enregistré pour la notification push."
+select_cat,Choisir une catégorie
+success_noti_add,La notification a été ajoutée avec succès
+success_noti_delete,La notification a été supprimée avec succès
+delete_noti_label,Supprimer la notification?
+noti_yes_message,Oui - La notification sera supprimée du système.
+push_message,Message push
+noti_des_label,La description
+noti_img,Photo de notification
+noti_search,Rechercher Noti
+select_cat,Choisir une catégorie
+noti_add,Ajouter Noti
+app_info_lable,À propos de l'information
+about_title_label,À propos du titre
+description_label,Description
+about_email_label,À propos de l'e-mail
+about_phone_label,A propos du téléphone
+about_website_label,À propos du lien vers le site Web
+about_seo_section,Informations SEO
+about_seo_title_label,Titre SEO
+about_seo_desc_label,Description du référencement
+about_seo_keywords_label,Mots-clés SEO
+about_social_section,Informations sociales
+about_facebook_label,Facebook
+about_gplus_label,Google+
+about_instagram_label,Instagram
+about_youtube_label,Youtube
+about_pinterest_label,Pinterest
+about_twitter_label,Twitter
+about_color_section,À propos de la couleur du thème du site Web
+about_theme,Thèmes disponibles
+success_about_edit,À propos de la mise à jour réussie
+about_ads_analyt,Paramètres Google Analytics et annonces
+about_ads_client,Client Ads
+about_ads_slot,Emplacement des annonces
+about_analyt_track_id,Identifiant de piste analytique
+about_ads_on,Activer Google Adsense
+about_analyt_on,Activer Google Analytic
+gdpr_label,Contenu GDPR
+safety_tips_label,Conseils de sécurité
+about_nav_icon,Icône de navigation
+about_fav_icon,Icône Fav
+about_backend_icon,Pour le backend
+total_users_count_label,Utilisateurs enregistrés
+total_cat_count_label,Catégories totales
+total_contact_label,Message de contact total
+total_likes_count_label,Nombre total de likes
+total_favs_count_label,Nombre total de favoris
+total_comments_count_label,Nombre total de commentaires
+category_panel_title,Catégories récentes
+recent_news_panel_title,Nouvelles récentes
+available_inside,Nouvelles disponibles dans cette catégorie.
+contact_message,Messages de contact
+user_latest_members,Derniers utilisateurs enregistrés
+success_contact,Votre message a bien été enregistré dans le système.
+file_na,Indisponible
+required_platform,Plateforme requise
+err_noti_register,"Désolé, il y a un problème pour l'enregistrement de la notification push"
+success_noti_register,Votre appareil s'est enregistré avec succès pour la notification push.
+success_noti_unregister,Votre appareil n'a pas été enregistré avec succès pour la notification push.
+err_noti_unregister,"Désolé, il y a un problème de désinscription de la notification push"
+success_touch_count,Appuyez sur Compter avec succès inséré.
+err_touch_count,Problème dans le comptage tactile!
+err_user_register,"Désolé, il y a un problème pour l'enregistrement des utilisateurs."
+err_user_not_exist,"Désolé, l'utilisateur n'existe pas dans le système."
+err_user_not_verify,"Désolé, votre compte n'est pas encore validé."
+err_email_not_send,"Désolé, il y a un problème lors de l'envoi d'un e-mail."
+err_user_update,"Désolé, il y a un problème lors de la mise à jour des informations utilisateur."
+err_user_password_update,"Désolé, il y a un problème dans la mise à jour du mot de passe de l'utilisateur."
+success_profile_update,Votre profil a été mis à jour avec succès.
+success_email_sent,L'e-mail a été envoyé avec succès.
+success_reset,Le mot de passe a été réinitialisé avec succès
+success_reset_email_sent,L'e-mail de réinitialisation a été envoyé avec succès
+trending,Nouvelles tendances
+editor_pick,Nouvelles choisies par l'éditeur
+list_product_nav,Article
+prd_add,Ajouter un item
+att_add,Ajouter un nouvel attribut
+add_att_detail,Ajouter un nouveau détail d'attribut
+list_attribute_header,Liste d'en-tête d'attribut
+wrn_no_data,Il n'y a pas encore de données
+item_name,Nom de l'article
+att_name,Nom d'attribut
+Prd_search_subcat,Sélectionnez le nom de la sous-catégorie
+Prd_search_dis,Sélectionnez le type de remise
+product_gallery,Galerie d'objets
+prd_info,Informations sur l'élément
+rec_prd_info,Articles récemment ajoutés
+att_info,Informations sur les attributs
+prd_desc,Description de l'objet
+prd_high_info,Informations sur les éléments mis en évidence
+prd_edit,Modifier l'article
+prd_code,Code de l'article
+success_prd_add,L'élément a été ajouté avec succès
+success_prd_edit,L'élément a été mis à jour avec succès
+success_upload,L'image a été mise à jour avec succès
+delete_prd_label,Effacer l'article?
+prd_yes_all_message,"Lorsque vous supprimez cet élément, il supprimera également toutes les sous-catégories et catégories associées. Voulez-vous toujours le supprimer?"
+success_prd_delete,L'élément a été supprimé avec succès
+prd_search,Rechercher un élément
+err_item_name,Veuillez fournir le nom de l'article
+err_item_len,La longueur du nom de l'article doit être supérieure à 4
+err_item_exist,Le nom de l'article existe déjà dans le système
+item_gallery,Galerie d'objets
+condition_of_item,Condition de l'article
+item_description_label,La description
+deal_option_id_label,Option de transaction
+meet_up_label,Se rencontrer
+mailing_or_delivery_label,Envoi ou livraison
+brand_label,Marque
+price,Prix
+itm_title_label,Titre
+itm_business_mode,Est-ce que Shop?
+itm_show_shop,(Si l'utilisateur d'exposition peut en commander plusieurs)
+itm_is_sold_out,Est épuisé?
+location_info_label,Information de Lieu
+itm_address_label,Adresse
+itm_lat_label,Latitude
+itm_lng_label,Longitude
+itm_select_price,Sélectionnez le type de prix
+itm_select_type,Sélectionnez le type d'élément
+itm_select_currency,Sélectionnez la devise de l'article
+status_label,Statut
+select_status_label,Sélectionnez le statut
+itm_select_location,Sélectionner l'emplacement de l'article
+find_location_label,Saisir et rechercher un emplacement à partir de l'API Google
+itm_select_condition_of_item,Sélectionnez la condition de l'article
+itm_select_deal_option,Sélectionnez l'option de transaction
+api_info,Informations sur les paramètres de l'API
+api_title,Paramètre API
+api_title_tooltips,Nom de l'API
+api_order_by,Commandé par
+btn_save,sauvegarder
+btn_cancel,Annuler
+success_api_edit,Mise à jour réussie
+about_gallery,Galerie
+categories_label,Les catégories
+messages_label,messages
+Totale,Total
+view_all_label,Voir tout
+divider_label,:
+users_label,Utilisatrices
+app_setting,Informations sur les paramètres de l'application
+apikey_info,Informations clés Api
+key_label,Clé
+success_apikey_edit,Api Key est mis à jour avec succès
+success_apikey_add,Api Key est ajouté avec succès
+earn_point_label,Gagnez des points
+currency_info,Informations sur les devises
+currency_add,Ajouter une devise
+currency_symbol,Symbole de la monnaie
+currency_short_form,Forme abrégée de la devise
+currency_add,Ajouter une devise
+success_currency_edit,La devise a bien été mise à jour
+success_currency_add,La devise a été ajoutée avec succès
+success_currency_delete,La devise a bien été supprimée
+delete_currency_label,Supprimer la devise?
+currency_delete_confirm_message,Voulez-vous supprimer la devise?
+currency_search,Recherche de devise
+currency_edit,Modifier la devise
+err_currency_name,Veuillez fournir le nom de la devise
+err_currency_len,La longueur du nom de la devise doit être supérieure à 4
+err_currency_exist,Le nom de la devise existe déjà dans le système
+color_color,Couleur
+select_type,Sélectionner le genre
+from_point,Du point:
+to_point,Pointer :
+order_by,Commandé par :
+select_order,Sélectionnez votre commande
+push_noti_sending_title,Envoi d'une notification push
+no_device_label,Il n'y a pas encore d'appareils enregistrés.
+delete_color_label,Supprimer la couleur?
+color_delete_confirm_message,Voulez-vous supprimer la couleur?
+upload_icon,Icône de catégorie
+about_upload_icon,Icône de téléchargement
+fav_upload_icon,Icône Fav
+sidebar_upload_icon,Logo de la barre latérale
+btn_upload,Télécharger
+not_enough_point,"Désolé, votre point ne suffit pas."
+view_count,Voir les comptes
+earn_point_label,Point gagné
+download_count,Télécharger Count
+rating_count,Nombre de notes
+terms_label,Termes et conditions
+about_img,À propos de la photo de couverture
+select_csv_file,Sélectionnez un fichier CSV
+something_wrong_upload,Quelque chose ne va pas dans vos données téléchargées.
+pls_upload_csv,Veuillez télécharger le fichier CSV.
+sample_csv_format,Un exemple de CSV est ici
+csv_upload_instruction,"Veuillez suivre les étapes ci-dessous: <br>
+1. Téléchargez des images dans le dossier de téléchargement manuellement via FTP. <br>
+2. Téléchargez des images miniatures dans le dossier de téléchargements / miniatures manuellement via FTP. <br>
+3. Préparez ensuite le même format CSV. Échantillon ici: http://bit.ly/2UvCjRp <br>
+4. Besoin de suivre ces règles. Ici: http://bit.ly/2T1Tjgp <br>
+5. Vous pouvez utiliser Google Sheet pour créer et exporter comme séparateur de virgules. <br>
+6. Recommandé est d'environ 100 enregistrements à un CSV."
+noti_sent_fail,Impossible d'envoyer une notification push
+noti_sent_success,Envoi d'une notification push à
+reject_message_2,)
+approve_message_2,)
+uploaded_user,Utilisateur transféré
+delete_user_label,Supprimer l'utilisateur enregistré?
+user_delete_confirm_message,Voulez-vous supprimer tous les utilisateurs enregistrés?
+Oui tout,Oui tout
+user_no_only_label,Catégorie uniquement
+success_user_delete,L'utilisateur enregistré a été supprimé avec succès
+credit,Crédit
+price_info,Information sur les prix
+price_name,Nom du prix
+price_edit,Modifier le prix
+price_add,Ajouter un prix
+price_search,Prix de recherche
+delete_price_label,Supprimer le prix?
+price_delete_confirm_message,Voulez-vous supprimer le prix?
+err_price_name,Veuillez fournir le nom du prix
+err_price_len,La longueur du nom du prix doit être supérieure à 4
+err_price_exist,Le nom du prix existe déjà dans le système
+success_price_edit,Le prix a été mis à jour avec succès
+success_price_add,Le prix a été ajouté avec succès
+success_price_delete,Le prix a été supprimé avec succès
+type_info,Informations sur le type d'élément
+type_name,Nom du type
+type_edit,Modifier le type
+type_add,Ajouter un type
+type_search,Type de recherche
+delete_type_label,Supprimer le type?
+type_delete_confirm_message,Voulez-vous supprimer le type?
+err_type_name,Veuillez fournir le nom du type
+err_type_len,La longueur du nom de type doit être supérieure à 4
+err_type_exist,Le nom de type existe déjà dans le système
+success_type_edit,Le type a été mis à jour avec succès
+success_type_add,Le type a été ajouté avec succès
+success_type_delete,Le type a été supprimé avec succès
+location_info,Informations sur l'emplacement de l'article
+location_name,Nom de la localisation
+location_edit,Modifier l'emplacement
+location_add,Ajouter un emplacement
+location_search,Lieu de recherche
+delete_location_label,Supprimer l'emplacement?
+location_delete_confirm_message,Voulez-vous supprimer l'emplacement?
+err_location_name,Veuillez fournir le nom du lieu
+err_location_len,La longueur du nom de l'emplacement doit être supérieure à 4
+err_location_exist,Le nom de l'emplacement existe déjà dans le système
+success_location_edit,L'emplacement a été mis à jour avec succès
+success_location_add,L'emplacement a été ajouté avec succès
+success_location_delete,L'emplacement a été supprimé avec succès
+blog_add,Ajouter un blog
+blog_info,Informations sur le blog
+blog_name,Nom du blog
+blog_desc,Description du blog
+blog_edit,Modifier des blogs
+success_blog_add,Les blogs ont été ajoutés avec succès
+success_blog_edit,Les blogs ont été mis à jour avec succès
+err_dup_name,Le nom existe déjà dans le système
+err_blog_exist,Le nom du blog existe déjà dans le système
+delete_blog_label,Supprimer le blog?
+blog_delete_confirm_message,Voulez-vous vraiment supprimer ce blog?
+success_blog_delete,Les blogs ont été supprimés avec succès
+err_blog_len,La longueur du nom du blog doit être supérieure à 4
+err_blog_name,Veuillez fournir le nom du blog
+blog_search,Recherche de blog
+blog_gallery,Galerie de blogs
+btn_disable,Désactiver
+report_edit,Modifier le rapport d'article
+total_category_count_label,Catégories totales
+total_sub_cat_count_label,Total sous-catégories
+total_blog_count_label,Total des blogs
+total_contact_count_label,Message de contact total
+popular_item,Article le plus populaire
+item_report,Élément signalé
+items_label,Articles récemment ajoutés
+item_img,Image de l'article
+popular_item_info,Informations sur les articles populaires
+popular_item_view,Afficher l'article populaire
+app_setting_lable,Informations sur les paramètres de l'application
+app_lat_label,Latitude
+app_lng_label,Longitude
+location_info_label,Information de Lieu
+err_chat_history_not_exist,Aucun enregistrement trouvé dans l'historique de chat
+accept_update_success,Accepter l'offre a été mise à jour avec succès
+err_accept_update,"Désolé, il y a un problème dans l'acceptation de l'offre"
+count_update_success,Le compte de réinitialisation a été mis à jour avec succès
+err_count_update,"Désolé, il y a un problème de réinitialisation du nombre"
+price_update_success,Le prix a été mis à jour avec succès
+err_price_update,"Désolé, il y a un problème de prix"
+err_accept_offer,"Désolé, vous ne pouvez plus accepter l'offre."
+overall_rating,Évaluation
+user_is_verify_do_forgot_password,"Votre compte est vérifié, veuillez donc oublier le mot de passe."
+user_view,Afficher l'utilisateur
+user_address,Adresse
+user_city,Ville
+about_me,À propos de moi
+verify_type,Vérifier le type
+follower_count,Nombre de suiveurs
+following_count,Compte suivant
+user_profile,Photo de profil
+email_verify,Vérification par e-mail
+facebook_verify,Facebook Vérifier
+google_verify,Google Verify
+phone_verify,Vérification du téléphone
+condition_name,Nom de la condition
+cond_search,Condition de recherche
+condition_add,Ajouter une condition
+condition_info,Informations sur l'état de l'article
+cond_edit,Modifier la condition
+delete_condition_label,Supprimer la condition?
+condition_delete_confirm_message,Voulez-vous supprimer les conditions?
+condition_yes_all_message,Oui tout - La condition et les éléments seront supprimés du système.
+success_condition_edit,La condition a été mise à jour avec succès
+success_condition_add,La condition a été ajoutée avec succès
+success_condition_delete,La condition a été supprimée avec succès
+err_condition_name,Veuillez fournir le nom de la condition
+err_condition_len,La longueur du nom de la condition doit être supérieure à 4
+err_condition_exist,Le nom de condition existe déjà dans le système
+option_name,Nom de l'option de transaction
+cond_search,Option de recherche
+option_add,Ajouter une option de transaction
+option_info,Informations sur l'option de transaction
+cond_edit,Modifier l'option de transaction
+delete_option_label,Supprimer l'option de transaction?
+option_delete_confirm_message,Voulez-vous supprimer les options de transaction?
+option_yes_all_message,"Oui, toutes les options et tous les articles seront supprimés du système."
+success_option_edit,L'option de transaction a été mise à jour avec succès
+success_option_add,L'option de transaction a été ajoutée avec succès
+success_option_delete,L'option de transaction a été supprimée avec succès
+err_option_name,Veuillez fournir le nom de l'option de transaction
+err_option_len,La longueur du nom de l'option de transaction doit être supérieure à 4.
+err_option_exist,Le nom de l'option de transaction existe déjà dans le système
+lang_name,Nom de la langue
+btn_active,Active
+lang_string,Chaîne de langue
+lang_add,Ajouter une langue
+lang_info,Informations sur la langue
+lang_symbol,symbole
+lang_search,Langue de recherche
+lang_edit,Modifier la langue
+success_lang_edit,La langue a été mise à jour avec succès
+success_lang_add,La langue a été ajoutée avec succès
+success_lang_delete,La langue a été supprimée avec succès
+err_lang_name,Veuillez fournir le nom de la langue
+err_lang_len,La longueur du nom de la langue doit être supérieure à 4
+err_lang_exist,Le nom de la langue existe déjà dans le système
+delete_lang_label,Supprimer la langue?
+lang_delete_confirm_message,Voulez-vous supprimer toutes les chaînes sous cette langue ensemble?
+lang_yes_all_label,Oui tout
+lang_no_only_label,Langue uniquement
+lang_yes_all_message,Oui tout - La langue et les éléments seront supprimés du système.
+language_id,Langue
+lang_string_key,Clé
+lang_string_value,Valeur
+lang_string_info,"Informations sur les chaînes de langue
+"
+select_language,Langue choisie
+btn_import,Importation
+csv_symbol_link,"Exemple de fichier csv ici
+"
+lang_str_search,Rechercher une chaîne de langue
+success_langstr_import,La chaîne de langue a réussi le téléchargement du fichier csv
+lang_str_add,Ajouter une chaîne de langue
+lang_str_edit,Modifier la chaîne de langue
+lang_active,Active
+lang_deactive,Désactiver
+success_lang_str_edit,La chaîne de langue a été mise à jour avec succès
+success_lang_str_add,La chaîne de langue a été ajoutée avec succès
+err_lang_str_name,Veuillez fournir le nom de la chaîne de langue
+err_lang_str_len,La longueur de la chaîne de langue doit être supérieure à 4
+err_lang_str_exist,La chaîne de langue existe déjà dans le système
+lang_title,Langue supprimée?
+lang_warning,Vous ne pouvez pas supprimer la langue active.
+btn_ok,D'accord
+list_lang_label,Langues
+list_lang_str_label,Chaînes de langue
+err_lang_symbol,Veuillez indiquer le symbole de la langue
+dashboard_label,Tableau de bord
+cat_module,Les catégories
+subcat_module,Sous-catégories
+contact_module,Contactez-nous Message
+system_user_module,Utilisateurs système
+register_user_module,Utilisateurs enregistrés
+about_module,À propos et réglage
+noti_module,Notification push
+analytic_module,Analytique
+export_database_module,Exporter la base de données
+app_setting_module,Paramètre APP
+popular_item_module,Articles les plus populaires
+item_module,Articles
+api_key_module,Api Keys
+api_setting_module,Paramètre API
+rating_module,Utilisateurs les plus cotés
+version_module,Version
+item_currency_module,Devise de l'article
+item_price_module,Prix de l'article
+item_type_module,Type d'élément
+blog_module,Blog
+item_report_module,Éléments signalés
+app_setting_module,Paramètre d'application
+item_location_module,Emplacement de l'article
+item_condition_module,Conditions de l'article
+deal_option_module,Option de transaction d'article
+language_module,langues
+paid_item_module,Rapport sur les articles sponsorisés
+backend_setting_module,Réglage du backend
+start_date_label,Date de début
+end_date_label,Date de fin
+amount_label,Montante
+payment_method_label,Mode de paiement
+progress_label,Le progrès
+finished_label,Finie
+not_yet_start_label,Pas encore commencé
+today_label,Aujourd'hui
+second_ago,secondes
+minute_ago,minutes
+hour_ago,heures
+day_ago,journées
+week_ago,semaines
+month_ago,mois
+year_ago,années
+decade_ago,décennies
+just_now_label,Juste maintenant
+ago_label,depuis
+user_acc_reg_label,Enregistrement d'un nouveau compte d'utilisateur
+user_register_success_but_email_not_send,Enregistrement de l'utilisateur réussi mais e-mail non envoyé
+pwd_reset_label,Réinitialisation du mot de passe
+hi_label,salut
+pwd_reset_link,Veuillez cliquer sur le lien suivant pour réinitialiser votre mot de passe
+reset_link_label,réinitialiser le mot de passe
+best_regards_label,Meilleures salutations
+new_user_acc,Votre nouveau compte utilisateur a été créé. Bienvenue sur Flutter Buy & Sell. Veuillez vérifier avec le code ci-dessous pour activer votre compte.
+verify_code_label,Code vérifié
+hi_admin_label,Salut Admin
+name_label,Nom
+email_label,Email
+phone_label,Téléphone
+msg_label,Message
+verify_code_sent,Le code de vérification a été envoyé.
+user_id_required,L'ID utilisateur est requis.
+invalid_login_user_id,L'ID utilisateur n'est pas valide.
+already_accept_user,L'utilisateur a été accepté.
+sender_id_required,L'identifiant de l'expéditeur est requis
+success_delete,Supprimé avec succès.
+success_cat_request,Votre demande a réussi.
+err_cat_request,"Désolé, votre demande a échoué."
+err_chat_history_save,"Désolé, votre historique de discussion n'a pas pu être enregistré."
+accept_reset_success,Votre demande de chat a réussi.
+error_delete_chat_history,"Désolé, votre historique de discussion n'a pas pu être supprimé."
+success_delete_chat_history,L'historique de votre chat a bien été supprimé.
+err_soldout_reset,"Désolé, vous ne pouvez pas vous reposer pour épuisé."
+soldout_reset_success,Votre réinitialisation a réussi.
+err_item_report,"Désolé, vous n'êtes pas en mesure de rapporter l'article."
+token_already_exist,"Désolé, le jeton d'appareil existe déjà."
+err_in_noti_read,"Désolé, la notification ne peut pas être lue."
+success_noti_send,La notification a été envoyée avec succès.
+error_noti_send,"Désolé, la notification n'a pas pu être envoyée."
+invalid_code,"Désolé, votre code n'est pas valide."
+backend_config_info_lable,Informations sur les paramètres du backend
+sender_name_label,Nom de l'expéditeur
+receive_email_label,Recevoir un e-mail
+sender_email_label,Courriel de l'expéditeur
+img_section,Section Image
+fcm_api_key_label,fcm api key
+backend_login_img,Image d'arrière-plan de connexion au backend
+backend_logo,Logo du backend
+backend_fav_icon,Favicon backend
+upload_backend_logo,Télécharger le logo du backend
+upload_fav_icon,Télécharger l'icône Fav
+upload_login_img,Télécharger une photo de connexion
+transaction_module,Historique des transactions
+history_search,Rechercher l'historique des transactions
+trans_history_info,Informations sur l'historique des transactions
+entry_group,Entrée
+reports_group,Rapports
+user_mang_group,Gestion des utilisateurs
+miscellaneous_group,Divers
+setting_group,Réglage
+btn_no,Non
+forget_pwd,Mot de passe oublié?
+remove_label,Retirer
+his_info,Informations sur l'histoire
+err_paid_item_history,Votre annonce n'est pas encore terminée elle ne peut donc pas être modifiée.
+paid_config_module,Configurations payantes
+currency_symbol_label,Symbole monétaire (par exemple; $)
+paypal_env_label,Environnement Paypal
+paypal_merchant_label,ID marchand PayPal
+paypal_pub_label,Clé publique Paypal
+paypal_pri_label,Clé privée Paypal
+paypal_enabled_label,Paypal est-il activé?
+stripe_publishable_key,Clé publiable
+stripe_secret_key,Clef secrète
+stripe_enable_label,Le paiement Stripe est-il activé?
+stripe_label,[Option 2]: Paiement avec Stripe
+paypal_label,[Option 1]: Paiement avec Paypal activé
+day_label,journée
+paid_config_info_lable,Informations de configuration payantes
+paid_currrency_setting,Réglage du symbole monétaire
+paid_paypal_setting,Paramètre Paypal
+paid_stripe_setting,Réglage des rayures
+success_backend_edit,Le paramètre principal a été mis à jour avec succès
+smtp_section,Configuration SMTP
+smtp_host_label,Hôte SMTP
+smtp_host_placeholder,par exemple: ssl: //smtp.hostmail.com
+smtp_port_label,Numéro de port SMTP
+smtp_enable,Activer SMTP?
+smtp_user_label,Utilisateur SMTP
+smtp_pass_label,Mot de passe SMTP
+topics_label,Les sujets
+cannot_deactive,"Désolé, il ne peut pas être désactivé."
+err_symbol_exist,Le symbole de langage existe déjà dans le système.
+policy_info,Informations sur la politique de confidentialité
+content_label,Contenu
+app_is_approval_enabled,"Approval System On?(If this setting is ""On"" when user update new item it need to approve or reject from super admin.)"
+privacy_policy_module,Politique de confidentialité
+success_policy_edit,La politique de confidentialité a été mise à jour avec succès
+success_policy_add,La politique de confidentialité a été ajoutée avec succès
+razor_label,[Option 3]: Paiement avec rasoir
+razor_key_label,Clé de rasoir
+razor_enabled_label,Le rasoir est-il activé?
+btn_promote,Promouvoir
+prd_paid_info,Article payé Information
+no_record_pagination,"10002 ## Désolé, plus d'enregistrement dans le système."
+offline_paid_module,Articles payants hors ligne
+offline_paid_prd_info,Informations sur les articles payés hors ligne
+offline_paid_edit,Modifier l'article payé hors ligne
+offline_setting,Paramètres hors ligne
+offline_label,[Option 4]: Paiement hors ligne
+offline_message,Message
+offline_enabled_label,Est-il activé hors ligne?
+prd_paid_info,Informations sur les articles payés
+offline_info,Informations de paiement hors ligne
+offline_title_label,Titre du paiement hors ligne
+offline_description_label,Description du paiement hors ligne
+offline_icon,Icône de paiement hors ligne
+offline_search,Rechercher un paiement hors ligne
+offline_add,Ajouter un paiement hors ligne
+offline_edit,Modifier le paiement hors ligne
+success_offline_edit,Le paiement hors ligne a été mis à jour avec succès
+success_offline_add,Le paiement hors ligne a été ajouté avec succès
+success_offline_delete,Le paiement hors ligne a été supprimé avec succès
+err_offline_name,Veuillez indiquer le titre du paiement hors ligne
+err_offline_len,La longueur du titre de paiement hors ligne doit être supérieure à 4
+err_offline_exist,Le titre Offline Paymen existe déjà dans le système
+delete_offline_label,Supprimer le paiement hors ligne?
+offline_delete_confirm_message,Voulez-vous supprimer tous les paiements hors ligne?
+offline_yes_all_label,Oui
+offline_no_only_label,Annuler
+offline_payment,Modes de paiement hors ligne
+offline_paid_module,Articles payants hors ligne
+img_configuration,Configuration d'image
+land_width_label,Largeur du paysage
+potrait_height_label,Hauteur du portrait
+square_label,Hauteur carrée
+err_lat,S'il vous plaît fournir Latitude
+err_lng,S'il vous plaît fournir Longitude
+err_lat_lng,Votre Latitude et Longitude ne doivent pas être 0.0
+offline_yes_all_message,Voulez-vous supprimer tout le paiement en ligne?
+email_verification_enabled,"Vérification email activé?(Si ce paramètre est « On », lorsque le registre de l'utilisateur en utilisant le courrier électronique, il envoie le code de vérification au courrier électronique de l'utilisateur enregistré.)"
+user_auto_approved,Votre nouveau compte utilisateur a été créé. Bienvenue sur Flutter Buy & Sell.
+user_not_able_delete,"Désolé, ce compte est le système de sorte qu'il ne peut pas désactiver."
+delete_allow_user_label,Supprimer l'utilisateur autorisé?
+allow_user_delete_confirm_message,Voulez-vous supprimer tous les utilisateurs autorisés?
+allowed_module_lang,Utilisateurs autorisés
+itm_promote_alert,Important: cet article est actuellement en promotion veuillez donc vous assurer de désactiver l'action.
+user_not_able_delete,"Désolé, ce compte est du système de sorte qu'il ne peut pas désactiver."
+err_user_register,"Désolé, il y a le problème pour l'enregistrement des utilisateurs."
+err_user_not_exist,Votre compte n'est pas existé dans le système.
+err_user_email_blank,S'il vous plaît fournir email
+err_user_email_invalid,Votre email est invalide
+success_block,L'utilisateur a été bloqué avec succès.
+success_unblock,L'utilisateur a été débloquée avec succès.
+no_user_unblock,Impossible de débloquer l'utilisateur.
+unable_to_report,Impossible de signaler l'élément parce qu'il est votre propre article.
+success_logout,Impossible de signaler l'élément parce qu'il est votre propre article.
+deeplink_section,Section des liens profonds
+dyn_link_key_label,Clé de lien dynamique
+dyn_link_url_label,URL de lien dynamique
+dyn_link_package_name_label,Nom du package de liaison dynamique
+dyn_link_domain_label,Domaine de liaison dynamique
+dyn_link_deep_url_label,URL de lien profond
+prd_dynamic_link_label,Lien dynamique du produit
+already_report,Vous avez déjà signalé à ce point.
+lat_invlaid,La latitude doit être compris entre -90 et 90 degrés inclus.
+lng_invlaid,Longitude doit être comprise entre -180 et 180 degrés inclus.
+paystack_setting,Réglage Paystack
+paystack_label,[Option 5]: Paiement avec Paystack
+paystack_key_label,Paystack clé
+paystack_enabled_label,Paystack est activé?
+btn_duplicate,Dupliquer
+success_prd_duplicate_add,L'élément en double a été ajouté avec succès
+dyn_link_package_name_ios,Dynamique en liant le nom de package IOS
+dyn_link_ios_appstore_id,Dynamic Linking IOS Id AppStore
+purchase_add,Ajouter dans App Achetée
+in_app_purchase_info,App Informations achetés
+app_purchase_product_id_label,Dans l'application achetée par un produit (promotion d'articles)
+purchase_description_label,La description
+purchase_type_label,Type (promotion des articles)
+err_purchase_description,S'il vous plaît fournir une description
+success_purchase_edit,App a été mis à jour Achetée avec succès.
+delete_purchase_label,Supprimer dans App Achetée?
+purchase_yes_all_message,Voulez-vous supprimer dans App
+success_purchase_delete,En application achetée a été supprimé avec succès.
+in_app_purchased_setting,App Réglage Acheté
+purchase_key_label,Vous pouvez effectuer le paiement avec en application achetée
+purchase_enabled_label,Est-achat activé?
+in_app_purchases,Dans App Achetée
+data_delection_module,Suppression des données utilisateur
+data_delete_info,Informations Suppression des données utilisateur
+is_show_email,Afficher Email
+is_show_phone,Afficher téléphone
+data_delete_info,Suppression des données d'information politique
+success_data_deletion_add,Politique de suppression des données a été ajouté avec succès.
+success_data_deletion_edit,Politique de suppression des données a été mise à jour.
+data_deletion_module,Politique de données Suppression
+data_deletion_policy_url,Données Suppression URL Politique
+privacy_policy_url,Politique de confidentialité URL
+Data_deletions_policies,Les politiques de confidentialité
+Privacy_policies,Politiques de suppression des données
+location_townships,Cantons de loction
+location_township_add,Ajouter un emplacement Township
+township_name,Township Nom
+item_location_module,Lieu de poste
+is_default,Défaut
+Prd_search_location_township,Sélectionner l'article Township Lieu
+itm_select_location_township,Sélectionner l'article Township Lieu
+location_township_name,Township Nom
+township_edit,Modifier Township
+township_search,Recherche canton
+is_sub_location,Sous Situation Sur? (Si ce paramètre est « Activé » lorsque l'utilisateur ouvre l'application du besoin de l'utilisateur de choisir l'emplacement sous (canton) sous le lieu (ville))
+followed_you,je t'ai suivi
+bought_your_item,acheté_your_Item
+you_bought,tu as acheté
+err_user_bought,"Désolé, il y a un problème lorsque l'utilisateur a acheté un clic."
+success_user_bought,L'utilisateur acheté a été cliqué avec succès.
+thumbnail_generators_lng,Générateur de vignettes
+btn_create_thumbnail,Thumbnail (1x2x3x) générateur
+thumb_1x_label,Taille de la vignette 1x image
+thumb_2x_label,Taille d'image 2x Thumbnail 2x
+thumb_3x_label,Taille d'image 3x Thumbnail 3x
+image_lists_lng,Listes d'images
+img_name,Nom d'image
+success_img_create,"Thumbnail 2x, 3x a été créé avec succès."
+img_not_exist,L'image n'a pas existé dans le dossier de téléchargement.
+select_location_label,Sélectionnez l'emplacement
+delete_offline_item_label,Supprimer l'élément hors ligne?
+offline_item_delete_message_label,Êtes-vous sûr de supprimer l'article hors ligne?
+blue_mark,Marque bleue
+blue_mark_verified,Mark bleu vérifié
+blue_mark_applied,Blue Mark appliquée
+blue_mark_rejected,Marque bleue rejetée
+verify_blue_mark_noti_approve,"Félicitations, l'administrateur a approuvé votre marque bleue."
+verify_blue_mark_noti_reject,"Désolé, l'administrateur a rejeté votre marque bleue. Vous pouvez essayer de postuler à nouveau."
+verify_email_not_send_user,Omettre d'envoyer votre courrier électronique à
+del_photo,Supprimer l'image?
+upload_video,Télécharger une video
+del_video,Supprimer la vidéo?
+del_video_confirm,Êtes-vous sûr de supprimer la vidéo?
+success_video_delete,La vidéo a été supprimée avec succès.
+success_video_icon_delete,L'icône vidéo a été supprimée avec succès.
+apply_success,La marque bleue a été appliquée. Veuillez attendre une approbation administrative.
+blue_mark_pending,"Actuellement, vous ne pouvez pas appliquer Blue Mark parce que vous êtes en attente. Alors, veuillez patienter une approbation administrative."
+already_blue_mark,Vous avez déjà la marque bleue.
+note,Noter
+user_social_info_override,"User Social Information Remplacer? Si coché, les informations sociales de l'utilisateur seront excessives lorsque vous vous connectez (Google, Facebook, téléphone et Apple, etc.)"
+recommended_size_img,Tamaño recomendado: 400 x 200
+recommended_size_icon,Tamaño recomendado: 200 x 200
+applied_date_label,Date d'application (DD / MM / AAAA)
+pending,En attente
+verified,Vérifié
+rejected,Rejeté
+all,Tous
+blue_mark_users_label,Vérifier les utilisateurs de marques bleues
+app_token_label,Jeton d'application (pour la photo de profil Facebook)
+already_sold_out,L'article a déjà été épuisé et vous ne pouvez pas faire une offre.
+city_id_required,Veuillez sélectionner la ville ID.
+err_township_name,Veuillez fournir le nom du canton.
+err_township_len,La durée du nom du canton doit être supérieure à 4.
+success_township_add,Le canton a été ajouté avec succès.
+success_township_edit,Le canton a été mis à jour avec succès.
+deeplink_generator_label,Générateur Deeplink
+btn_deeplink_generator,Générer dueplink
+success_deeplink_generate,Deeplink a été généré avec succès.
+cannot_chat,Impossible de discuter avec cet utilisateur ou cet élément.
+topics_fe_label,Sujets pour Frontend
+topics_label,Sujets pour mobile
+go_to_be_setting_label,Aller au cadre du backend
+deeplink_note_label,"Remarque - La liaison dynamique de l'élément a été générée par ces paramètres ci-dessus. Si vous souhaitez régénérer avec un nouveau paramètre, veuillez modifier le paramètre ici:"
+err_price,S'il vous plaît fournir un pirce.
+price_cannot_zero,Le prix ne peut pas être zéro.
+is_thumb2x_3x_generate,"Thumbnail 2x, 3x réglage sur? (Si ce paramètre est ""ON"" lorsque vous téléchargez l'image, il générera automatiquement la vignette et la vignette3).)"
+thumb_generator_text_label,Il générera les images des vignettes pour chaque élément. Veuillez noter que ce processus prendra parfois basé sur vos données.
+thumb2x_3x_settting_off,"Créez Thumbnail2X, le réglage 3x est éteint."
+create_thumb2x_folder,"Le dossier Thumbnail2X n'existe pas, veuillez la créer d'abord. Ou vous pouvez désactiver créer Thumb2x, 3x réglage."
+create_thumb3x_folder,"Le dossier Thumbnail3x n'existe pas, veuillez la créer d'abord. Ou vous pouvez désactiver créer Thumb2x, 3x réglage."
+thumb2x_already_existed,L'image est déjà existée dans le dossier miniature2x.
+thumb3x_already_existed,L'image existe déjà dans le dossier Thumbnail3x.
+err_currency_symbol,S'il vous plaît fournir un symbole monétaire.
+err_description,Veuillez fournir une description de l'article
+pkg_add,Ajouter un package
+pkg_search,Forfait de recherche
+pkg_edit,Modifier le package
+success_pkg_edit,Le package a été mis à jour avec succès.
+success_pkg_add,Le paquet a été ajouté avec succès.
+success_pkg_delete,Le paquet a été supprimé avec succès.
+title,Titre
+pkg_info,Informations sur le paquet
+post_count,Nombre de messages
+pkg_select_currency,Sélectionnez la devise du package
+err_pkg_title,Veuillez fournir le titre du package
+err_pkg_price,Veuillez fournir le prix du forfait
+err_pkg_post_count,Veuillez fournir le nombre de messages
+err_pkg_exit,Le nom du package existe déjà dans le système
+delete_pkg_label,Supprimer le paquet ?
+pkg_delete_confirm_message,Êtes-vous sûr de supprimer ce package ?
+pkg_yes_all_label,Oui tout
+pkg_no_only_label,Paquet seul
+err_pkg_bought,Pardon
+success_pkg_bought,Paquet acheté avec succès inséré.
+is_paid_app,"Application payante activée ? (Si ce paramètre est ""Activé"", cette application est limitée à la publication d'annonces utilisateur)"
+package_module,Paquets
+is_subcat_subscription,"Abonnement à la sous-catégorie activé ? (Si ce paramètre est sur ""On"", l'utilisateur doit pouvoir s'abonner aux sous-catégories.)"
+err_subcat_subscibe_save,Pardon
+err_subcat_subscibe_delete,Pardon
+success_subcat_subscribe,Abonnement à la sous-catégorie de réussite.
+verify_blue_mark,Marque bleue vérifiée
+rating_view,Afficher l'évaluation de l'utilisateur
+csv_export,Exportation CSV
+Item_reports,Éléments signalés
+report_search,Rechercher un article signalé
+rating_search,Rechercher un utilisateur d'évaluation
+demo_login,Connectez-vous avec un compte démo
+approve_item,Approuver l'élément
+disable_item,Désactiver l'élément
+reject_item,Refuser l'article
+receive_rating_from,Recevoir une note de
+discount_rate_by_percentage,Taux d'actualisation par pourcentage
+item_upload_config,Configurations de téléchargement d'articles
+success_item_config_edit,La configuration de téléchargement d'articles a été mise à jour avec succès
+success_item_config_add,La configuration de téléchargement d'articles a été ajoutée avec succès
+item_config_label,Informations de configuration de téléchargement d'article
+item_type,Type d'élément
+price_type,Type de prix
+deal_option_remark,Remarque sur l'option de transaction
+System_users,Utilisateurs du système
+Registered_users,Utilisateurs enregistrés
+item_location,Emplacement de l'article
+item_location_township,Localisation de l'article
+Item_currency,Devise de l'article
+App_settings,Paramètres de l'application
+Backend_configs,Configurations back-end
+is_block_user,"Fonction de blocage activée ? (Si ce paramètre est ""Activé"", l'utilisateur peut empêcher d'autres utilisateurs indésirables de voir sa publication.)"
+err_image,Veuillez remplir la photo de téléchargement
+err_video,Veuillez remplir la vidéo de téléchargement
+err_video_icon,Veuillez remplir l'icône de téléchargement de la vidéo
+item_video,Téléchargement de la vidéo de l'article
+item_video_icon,Téléchargement de l'icône de la vidéo de l'article
+item_loc_config,Configuration de l'emplacement de l'article
+err_brand,Veuillez fournir le nom de la marque de l'article
+err_address,Veuillez fournir l'adresse
+err_deal_option,Veuillez fournir l'option de transaction
+err_deal_option_remark,Veuillez fournir une remarque sur l'option de transaction
+err_highlight_info,Veuillez fournir des informations sur les faits saillants
+Item_price,Prix de l'article
+err_item_price_type,Veuillez indiquer le type de prix de l'article
+err_item_type,Veuillez indiquer le type d'article
+err_condition_of_item,Merci de préciser l'état de l'article
+open,ouverte
+in_progress,en cours
+close,Fermer
+demo_data_delete,Suppression des données de démonstration
+demo_data_delete_note_label,"Remarque : Tous les enregistrements ""utilisateurs"" seront supprimés, à l'exception du compte administrateur."
+success_demo_data_delete,Les données de démonstration ont été supprimées avec succès.
+btn_submit,Soumettre
+admin_pwd_label,Entrez le mot de passe administrateur
+delete_demo_data,Êtes-vous sûr de vouloir supprimer toutes les données de démonstration ?
+admin_confirm,Veuillez entrer votre mot de passe administrateur ci-dessous pour confirmer ces suppressions de données de démonstration.
+err_blank_pwd,Veuillez remplir le mot de passe administrateur
+err_pwd_invalid,Votre mot de passe est incorrect!
+no_messages,Aucun message récent
+no_items,Aucun élément récemment ajouté
+no_users,Aucun utilisateur récemment ajouté
+img_all_delete,Toutes les images associées seront supprimées
+images,Images
+no_need_bought,"Pas besoin d'acheter des publications publicitaires, vous êtes un utilisateur du système."
+need_user_bought,Cet article a été nécessaire pour acheter par l'utilisateur en premier.
+need_accept_offer,Cet article a été nécessaire pour accepter une offre en premier.
+need_make_offer,Cet article a été nécessaire pour faire une offre en premier.
+already_make_offer,Cet article a déjà fait une offre.
+already_reject_offer,Cet article a déjà été rejeté l'offre.
+already_rejected,Cet article a déjà été rejeté l'offre.
+adpost_history_search,Historique des transactions de publication d'annonces sur le Réseau de Recherche
+ad_post_transactions_module,Afficher l'historique des transactions
+package_name,Nom du paquet
+buy_ad_post_transactions,Afficher l'historique des transactions
+adpost_history_view,Afficher l'historique des transactions de publication d'annonces
+cannot_default,"Désolé, il n'est pas possible d'annuler la valeur par défaut."
+cannot_unpublish,"Désolé, il n'est pas possible d'annuler la publication dans la devise par défaut."
+new_item_upload_label,Nouvel article téléchargé sous
+csv_upload_instruction_city,"Veuillez suivre les étapes ci-dessous : <br>
+1. Préparez ensuite le format CSV. <a href=""https://drive.google.com/file/d/1g3T6H2cdZsGS0UlHji6_BkP_JIa1YBCy/view?usp=sharing"" target=""_blank""> exemple de fichier CSV ici </a> <br>
+2. Vous pouvez utiliser Google Sheet pour créer et exporter en tant que séparateur de virgule."
+pls_upload_csv,Veuillez télécharger un fichier CSV.
+something_wrong_upload,Quelque chose ne va pas télécharger le fichier
+err_paid_adpost_history,Pardon! Veuillez vérifier les informations de paiement.
+total_city,Ville de localisation totale :
+success_total_city,Succès ville de localisation :
+fail_total_city,Ville de localisation en échec :
+total_township,Localisation totale commune :
+success_total_township,Réussir localisation commune :
+fail_total_township,Commune de localisation échouée :
+beacause_db_err,à cause d'une erreur de base de données.
+because_miss_city,à cause de la ville manquante
+because_miss_township,à cause de l'emplacement manquant du canton
+csv_upload_instruction_township,"Veuillez suivre les étapes ci-dessous : <br>
+1. Préparez ensuite le format CSV. <a href=""https://drive.google.com/file/d/1hkLZUDt4pxIqtfPE9k5rhzf4rhK6VJit/view?usp=sharing"" target=""_blank""> exemple de fichier CSV ici </a> <br>
+2. Vous pouvez utiliser Google Sheet pour créer et exporter en tant que séparateur de virgule.<br>
+Remarque : Le nom de la ville à utiliser dans le fichier CSV du canton doit être ajouté en premier."
+because_noexit_city,le nom de la ville n'existe pas dans le système
+item_locations,Ville de l'emplacement de l'article
+city_existed,existait déjà dans le système.
+township_existed,existait déjà dans le système.
+success_generate_sitemap,Le plan du site a été généré avec succès.
+sitemap_generator,Générateur de plan de site
+sitemap_generators,Générateur de plan de site
+sitemap_generator_label,Générateur de plan de site
+btn_create_sitemap,Générer un plan du site
+err_generate_sitemap,Les sitemaps ne génèrent pas d'erreurs.
+sitemap_generate_desc,Il générera les fichiers XML du sitemap. Veuillez noter que ce processus prendra certaines choses en fonction de vos données.
+sitemap_url_here,Fichier de plan du site ici :
+sitemap_info,Votre sitemap xml a été généré à
+copy_sitemap_to_fe,Copier le fichier de sitemap sur le frontend
+total_cat,Catégorie totale :
+success_cat,Catégorie réussie :
+fail_cat,Catégorie d'échec :
+miss_cat_name,à cause du nom de catégorie manquant
+miss_cat_img,à cause de l'image de catégorie manquante dans le dossier 'uploads'.
+miss_cat_icon,à cause de l'icône de catégorie manquante dans le dossier 'uploads'.
+total_subcat,Sous-catégorie totale :
+success_subcat,Sous-catégorie réussie :
+fail_subcat,Échec de la sous-catégorie :
+miss_subcat_name,à cause du nom de sous-catégorie manquant
+miss_subcat_img,"en raison d'une image de sous-catégorie manquante dans le dossier ""téléchargements""."
+miss_subcat_icon,à cause de l'icône de sous-catégorie manquante dans le dossier 'uploads'.
+not_exist_cat,le nom de la catégorie n'existe pas dans le système.
+db_err,à cause d'une erreur de base de données.
+already_existed,existe déjà.
+csv_upload_instruction_cat,"Veuillez suivre les étapes ci-dessous :<br>
+1. Téléchargez manuellement les images dans le dossier de téléchargement via FTP.<br>
+2. Préparez ensuite le format CSV. <a href=""https://drive.google.com/file/d/1Qt-fnaTullQo6tOumLGwoZIB34b-TlW3/view?usp=sharing"" target=""_blank"">Exemple de fichier ici</a><br>
+3. Vous pouvez utiliser Google Sheet pour créer et exporter en tant que séparateur de virgule."
+csv_upload_instruction_subcat,"Veuillez suivre les étapes ci-dessous :<br>
+1. Téléchargez manuellement les images dans le dossier de téléchargement via FTP.<br>
+2. Préparez ensuite le format CSV. <a href=""https://drive.google.com/file/d/1SZpLcLjRXEYZCym5aQJHs5Par0_qvrDr/view?usp=sharing"" target=""_blank"">Exemple de fichier ici</a><br>
+3. Vous pouvez utiliser Google Sheet pour créer et exporter en tant que séparateur de virgule.<br>
+<b>Remarque : Le nom de la catégorie à utiliser dans le fichier CSV de la sous-catégorie doit être ajouté en premier.</b>"
+unauthorize_item_edit,Vous n'avez pas la permission de mettre à jour un élément car ce n'est pas votre article.
+not_enought_post_count,Pas assez de post count.
+record_not_found,10001#Désolé
+record_no_pagination,"10001#Désolé, plus d'enregistrements dans le système."
+offer_rejected,Offre refusée !
+make_offer,Faire une offre!
+offer_accepted,Offre acceptée!
+image,Image!
+about_app,À propos de l'application
+api_setting,Paramètre API
+app_setting,Paramètres de l'application
+fail_push_devices,Échec de pousser tous les appareils Android et IOS.
+fail_push_websites,Échec de pousser tous les sites Web.
+push_noti_module,Notification push
+app_version,Version
+err_title,Veuillez fournir le titre.
+err_title_len,La longueur du titre doit être supérieure à 4.
+remove_label,Retirer
+all_label,Tous
+approved_label,Approuvé
+reject_label,Rejeter
+err_icon,Veuillez remplir l'icône de téléchargement.
+start_upload,Commence le téléchargement
+cancel_upload,Annuler le téléchargement
+add_files,Ajouter des fichiers
+btn_update,Mettre à jour
+err,Erreur
+btn_start,Démarrer
+btn_close,Fermer
+category,Catégorie
+added,Ajoutée
+disable_label,Désactiver
+waiting_approval_label,En attente d'approbation
+count,Compter
+demo_dummy_refresh_hour,"Veuillez noter que le backend est un mode démo, donc toutes ces données factices seront actualisées toutes les heures."
+sys_err_occur,Une erreur système s'est produite. Veuillez contacter votre administrateur système.
+registered_user,Utilisateur enregistré
+generate_thumbnail_label,Il générera les images miniatures pour chaque élément. Veuillez noter que ce processus prendra un certain temps en fonction de vos données.
+max_img_upload_of_item,Téléchargement maximal d'images de l'élément
+err_max_img_blank_save,Veuillez fournir le téléchargement maximal d'images de l'article.
+err_max_img_zero_save,Le téléchargement maximal d'images de l'élément ne peut pas être égal à zéro.
+err_max_img_upload,L'image de l'article est maximale.
+price_format,Format de prix
+price_format_desc,"Vous devez changer en fonction de votre format dont vous avez besoin (par exemple "",##0.00"" => 2,555.00, ""##0.00"" => 2555.00, "".00"" => 2555.00, "",##0"" => 2,555, "",##0.0"" => 2 555.0)"
+date_format,Format de date
+google_playstore_url,URL de Google Play Store
+apple_appstore_url,URL de Apple App Store
+ios_appstore_id,IOS App Store ID
+default_order_time,Temps de commande par défaut (minutes)
+fb_key,Touche Facebook
+is_show_token_id,"Token ID activé? (Si ce paramètre est « activé », l’utilisateur peut afficher l’ID de jeton dans le paramètre de notification.)"
+is_show_subcategory,"Sous-catégorie sur? (Si ce paramètre est « run », la sous-catégorie peut être utilisée dans l’application.)"
+is_use_thumbnail_as_placeholder,"Utiliser la vignette comme paramètre de l’élément mp en cours d’exécution ? (Si ce paramètre est en cours d’exécution, téléchargez d’abord la miniature, puis l’image complète."
+admob_section,Configuration admob
+is_show_admob,"Configurer AdMob en cours d’exécution? (Si ce paramètre est activé, l’application affichera des annonces.)"
+lang_section,Configuration de la langue
+default_language,Langage par défaut
+exclude_language,Langues disponibles
+exclude_lang_desc,"(Si la langue est « run », l’utilisateur peut l’utiliser dans l’application.)"
+default_currency_section,Configuration de la devise par défaut
+default_razor_currency,Devise de rasoir par défaut
+is_razor_support_multi_currency,"Prise en charge du rasage multi-devises ? (Si ce paramètre est « exécuter », vous pouvez accepter un paiement simple dans plusieurs devises dans l’application.)"
+default_flutter_wave_currency,Monnaie de flutterwave par défaut
+login_section,Configuration de connexion
+show_facebook_login,"Connexion Facebook activée ? (Si ce paramètre est ""Activé"", les utilisateurs peuvent être connectés avec Facebook.)"
+show_google_login,"Connexion Google activée ? (Si ce paramètre est ""Activé"", les utilisateurs peuvent être connectés avec Google.)"
+show_phone_login,"Phone Login On? (If this setting is ""On"", the users can be logged in with a phone number.)"
+show_main_menu,"Main Menu On? (If this setting is ""On"", the user can view the ""Main Menu"" tab in each shop.)"
+show_special_collections,"Collections spéciales activées ? (Si ce paramètre est ""Activé"", l'utilisateur peut afficher l'onglet ""Offres spéciales"" dans chaque boutique.)"
+show_featured_items,"Articles en vedette activés ? (Si ce paramètre est ""Activé"", l'utilisateur peut afficher les ""Articles en vedette"" dans chaque boutique.)"
+show_best_choice_slider,"Curseur de meilleur choix activé ? (Si ce paramètre est ""Activé"" lorsque l'utilisateur ouvre l'application, l'utilisateur peut afficher les meilleures collections de choix avec la vue du curseur.)"
+default_loading_limit,Limite de chargement par défaut
+category_loading_limit,Catégorie Limite de chargement
+recent_item_loading_limit,Limite de chargement récente de l'article
+popular_item_loading_limit,Limite de chargement de l'article populaire
+discount_item_loading_limit,Limite de chargement de l'article de réduction
+feature_item_loading_limit,Caractéristique Limite de chargement
+block_slider_loading_limit,Bloquer la limite de chargement du curseur
+follower_item_loading_limit,Limite de chargement des articles suiveurs
+default_limit_section,Configuration de la limite par défaut
+block_item_loading_limit,Limite de chargement de l'élément de blocage
+date_format_desc,"DD pour la journée, mm pour le mois, Yyyy pour l'année, HH pour l'heure, mm pour la minute, SS pour la seconde (par exemple, DD-MM-AAAAAAI HH: MM: SS)"
+app_config_info_lable,Informations sur la définition mobile
+loc_section,Configuration de l'emplacement
+success_mobile_edit,La configuration mobile a été mise à jour avec succès.
+success_mobile_add,La configuration mobile a été ajoutée avec succès.
+err_default_lang,Veuillez fournir la langue par défaut.
+err_default_loading_limit_zero,La limite de chargement par défaut ne peut pas être nulle.
+err_default_loading_limit,Veuillez fournir la limite de chargement par défaut.
+err_category_loading_limit,Veuillez fournir la limite de chargement de la catégorie
+err_category_loading_limit_zero,La limite de chargement de la catégorie ne peut être nulle.
+err_collection_product_loading_limit,Veuillez fournir la limite de chargement du produit de collecte.
+err_collection_product_loading_limit_zero,La limite de chargement du produit de collecte ne peut pas être nulle.
+err_discount_product_loading_limit,Veuillez fournir la limite de chargement du produit de réduction.
+err_discount_product_loading_limit_zero,La limite de chargement du produit de réduction ne peut pas être nulle.
+err_feature_product_loading_limit,Veuillez fournir la limite de chargement du produit en vedette.
+err_feature_product_loading_limit_zero,La limite de chargement du produit en vedette ne peut pas être nulle.
+err_latest_product_loading_limit,Veuillez fournir la dernière limite de chargement des produits.
+err_latest_product_loading_limit_zero,La dernière limite de chargement de produits ne peut pas être zéro.
+err_shop_loading_limit,Veuillez fournir la limite de chargement de la boutique.
+err_shop_loading_limit_zero,La limite de chargement de la boutique ne peut pas être zéro.
+err_trending_product_loading_limit,Veuillez fournir la limite de chargement du produit de tendance.
+err_trending_product_loading_limit_zero,La limite de chargement des produits de tendance ne peut pas être nulle.
+err_default_order_time,Veuillez fournir l'heure de la commande par défaut.
+err_default_order_time_zero,Le temps de commande par défaut (minutes) ne peut pas être zéro.
+err_google_playstore_url,Veuillez fournir l'URL de Google Play Store.
+err_apple_appstore_url,Veuillez fournir l'URL Apple App Store.
+err_ios_appstore_id,Veuillez fournir un identifiant IOS App Store.
+err_price_format,S'il vous plaît fournir le format de prix.
+err_date_format,S'il vous plaît fournir le format de date.
+err_fb_key,Veuillez fournir une clé Facebook.
+default_lang_select,Sélectionnez la langue par défaut
+mobile_configs,Configuration mobile
+frontend_configs,Configuration frontale
+faq_pages_label,Pages FAQ
+terms_and_conditions_label,Termes et conditions
+is_use_googlemap,Utilisez Google Map sur?
+item_detail_view_count_for_ads,Détail de l'article Afficher compter pour les annonces
+is_show_ads_in_item_detail,Est-ce que montrer des annonces dans le détail de l'article?
+after_item_count_admob_once,Après le compte de poste admob une fois
+is_show_admob_inside_list,Est-ce que Show admob dans la liste?
+blue_mark_size,Taille bluemark
+mile,Plage de milles pour les articles les plus proches
+video_duration,Durée de la vidéo (millisecondes)
+image_section,Section de l'image
+profile_image_size,Taille de l'image de profil
+upload_image_size,Télécharger la taille de l'image
+chat_image_size,Taille de l'image de chat
+promote_section,Promouvoir la section
+promote_first_choice_day,Promouvoir la journée de premier choix ou la journée par défaut
+promote_second_choice_day,Promouvoir la deuxième journée de choix
+promote_third_choice_day,Promouvoir la troisième journée de choix
+promote_fourth_choice_day,Promouvoir la quatrième journée de choix
+no_filter_with_location_on_map,Aucun filtre avec emplacement sur la carte?
+is_show_owner_info,Est-ce que montrer le propriétaire info?
+frontend_config_label,Informations sur la configuration frontale
+map_key,Carte clé
+enable_notification,Est la notification d'activation?
+fcm_server_key,Touche Server FCM
+firebase_web_push_key_pair,Firebase Web Push Key paire
+ad_client,Client
+ad_slot,Fente
+copy_right,حقوق النشر
+google_play_url,Google Play Url
+app_store_url,URL de l'App Store
+google_setting,Réglage de Google
+app_store_setting,Définition de l'App Store
+banner_src,Bannière src
+google_map,Google Map
+open_street_map,Carte de rue ouverte
+image_limit,Limite d'image
+success_frontend_edit,La configuration frontale a été mise à jour avec succès.
+success_frontend_add,La configuration frontale a été ajoutée avec succès.
+show_user_profile,Afficher le profil d'utilisateur?
+is_enable_video_setting,Activer le réglage vidéo?
+err_map,S'il vous plaît fournir une clé de carte
+err_price_format,S'il vous plaît fournir un format de prix
+err_fcm_server_key,Veuillez fournir la clé de serveur FCM
+err_firebase_web_push_key_pair,Veuillez fournir une paire de touches de push Web Firebase Web
+err_ad_client,S'il vous plaît fournir un client ad
+err_copy_right,S'il vous plaît fournir une copie juste
+err_google_play_url,Veuillez fournir URL Google Play
+err_ad_slot,S'il vous plaît fournir une machine à sous
+err_app_store_url,Veuillez fournir URL de l'App Store
+err_banner_src,S'il vous plaît fournir une bannière src
+err_block_item_loading_limit_zero,La limite de chargement d'élément de bloc peut ne pas être zéro
+err_block_item_loading_limit,S'il vous plaît fournir un élément de bloc de blocage
+err_follower_item_loading_limit_zero,La limite de chargement des articles suiveurs ne peut pas être zéro
+err_follower_item_loading_limit,Veuillez fournir une limite de chargement des articles suiveurs
+err_block_slider_loading_limit_zero,Bloquer la limite de chargement du curseur ne peut pas être zéro
+err_feature_item_loading_limit_zero,La limite de chargement des articles de fonctionnalité ne peut pas être zéro
+err_feature_item_loading_limit,Veuillez fournir la limite de chargement de l'élément de fonctionnalité
+err_discount_item_loading_limit_zero,Limite de chargement de l'article de réduction ne peut pas être zéro
+err_discount_item_loading_limit,Veuillez fournir une limite de chargement de l'article de réduction
+err_popular_item_loading_limit_zero,La limite de chargement de l'article populaire ne peut pas être zéro
+err_popular_item_loading_limit,Veuillez fournir une limite de chargement de l'article populaire
+err_recent_item_loading_limit_zero,La limite de chargement de l'article récente ne peut pas être zéro
+err_recent_item_loading_limit,Veuillez fournir une limite de chargement récente de l'article
+err_item_detail_view_count_for_ads_zero,Compte de vue de détail de l'article pour les annonces ne peut pas être zéro
+err_item_detail_view_count_for_ads,Veuillez fournir le détail de l'article Compte pour les annonces
+err_after_item_count_admob_once_zero,Après le compte d'élément admob admob une fois ne peut pas être zéro
+err_after_item_count_admob_once,S'il vous plaît fournir après le compte de poste admis une fois
+err_profile_image_size_zero,La taille de l'image de profil ne peut pas être zéro
+err_profile_image_size,Veuillez fournir la taille de l'image de profil
+err_upload_image_size_zero,Télécharger la taille de l'image ne peut pas être zéro
+err_upload_image_size,Veuillez fournir la taille de l'image de téléchargement
+err_blue_mark_size_zero,La taille des bluemark ne peut pas être zéro
+err_blue_mark_size,S'il vous plaît fournir une taille bluemark
+err_video_duration_zero,La durée de la vidéo ne peut pas être zéro
+err_video_duration,Veuillez fournir une durée vidéo
+err_mile_zero,Mile ne peut pas être zéro
+err_mile,S'il vous plaît fournir mile
+err_chat_image_size_zero,La taille de l'image de chat ne peut pas être zéro
+err_chat_image_size,Veuillez fournir la taille de l'image de chat
+ad_post_type,Type d'annonce
+err_ad_post_type,Veuillez fournir le type de post Ad.
+select_ad_post_type,Sélectionnez Type de post Ad
+err_promo_cell_blank_save,Veuillez fournir l'intervalle de cellule promu.
+err_promo_cell_zero_save,L'intervalle de cellule favorisée no. ne peut pas être zéro.
+promo_cell_interval_no,Intervalle de cellule promu
+ad_post_section,Réglage de type post de l'annonce
+paid_items,Articles sponsorisés
+promo_cell_interval_desc,(Les annonces sponsorisées ou Google Ads vont montrer dans chaque X no de la liste.)
+offline_pkg_bought_edit,Modifier le package hors ligne acheté
+offline_pkg_bought_search,Rechercher le package acheté hors ligne
+delete_offline_pkg_label,Supprimer le package d'annonces hors ligne acheté ?
+offline_pkg_delete_message_label,Voulez-vous vraiment supprimer le package d'annonces hors ligne acheté ?
+offline_pkg_bought_info,Informations sur le package acheté hors ligne
+bought_user,Utilisateur acheté
+currency_label,Monnaie
+success_offline_pkg_delete,Le package d'annonces hors ligne acheté a été supprimé avec succès.
+success_offline_pkg_edit,Le package d'annonces hors ligne acheté a été mis à jour avec succès.
+success_offline_pkg_add,Le package d'annonces hors ligne acheté a été ajouté avec succès.
+offline_paids,Demande d'articles sponsorisés hors ligne
+offline_ad_package_bought_request,Demande d'achat de package d'annonces hors ligne
+err_block_slider_loading_limit,Veuillez indiquer la limite de chargement du curseur de bloc.
+err_item_detail_view_count_for_ads,Veuillez fournir le nombre de détails de l'article pour les annonces.
+err_item_detail_view_count_for_ads_zero,Le nombre de détails d'articles pour les annonces ne peut pas être égal à zéro.
+err_promote_fourth_choice_day,Veuillez fournir la promotion du jour du quatrième choix.
+err_promote_fourth_choice_day_zero,La promotion du jour du quatrième choix ne peut pas être nulle.
+err_promote_first_choice_day,Veuillez fournir la promotion du jour de premier choix.
+err_promote_first_choice_day_zero,Le jour de promotion du premier choix ne peut pas être nul.
+err_promote_second_choice_day,Veuillez fournir la promotion du deuxième jour de choix.
+err_promote_second_choice_day_zero,Le jour de deuxième choix de la promotion ne peut pas être nul.
+err_promote_third_choice_day,Veuillez fournir la promotion du troisième jour de choix.
+err_promote_third_choice_day_zero,Le jour de la promotion du troisième choix ne peut pas être nul.
+success_image_reorder,L'image a été réorganisée avec succès.
+unauthorize_reorder_img_edit,"Vous n'êtes pas autorisé à réorganiser cette image, car vous n'en êtes pas le propriétaire."
+no_transaction_yet,Vous ne pouvez pas exporter le fichier CSV car il n'y a aucune transaction.
+package_app_purchase_product_id_label,Package dans l'application Achats ID de produit
+package_purchase_type_label,Package dans les achats d'applications Type
+default_map_section,Section de carte par défaut
+is_force_login,"La connexion forcée est-elle activée ? (Si ce paramètre est ""Activé"" au démarrage de l'application, l'utilisateur doit d'abord se connecter.)"
+is_language_config,"La configuration de la langue est-elle activée ? (Si ce paramètre est ""Activé"" au démarrage de l'application, l'utilisateur doit sélectionner la langue.)"
+sold_out_items,Articles épuisés
+sold_out_items_module,Articles épuisés
+sold_out_item_view,Voir les articles vendus
+item_upload_ui_section,Section de l'interface utilisateur de téléchargement d'éléments
+item_upload_ui1,UI de téléchargement d'article 1
+item_upload_ui2,Interface utilisateur de téléchargement d'éléments 2
+price_pkg_desc,(Le champ de prix n'est utilisé que pour les autres paiements autres que l'IAP (acheté dans l'application).)
+currency_pkg_desc,(Le champ de devise n'est utilisé que pour les autres paiements autres que IAP (acheté dans l'application).)
+api_keys,Clés API
+languages,Langues
+versions,Versions
+abouts,À propos
+item_address_label,Adresse
+lat_label,Latitude
+lng_label,Longitude
+data_deletion_policy_url,URL de la politique de suppression des données
+paid_configs,Paramètre de paiement
+in_app_purchased,Dans l'application achetée
+in_app_purchases,Dans l'application achetée
+module_groups,Réglage du nom du menu
+modules,Réglage du nom du sous-menu
+thumbnail_generators,Générateurs de vignettes
+image_lists,Listes d'images
+categrories,Catégories
+subcategories,Sous-catégories
+packages,Paquets
+item location townships,Localisation de l'article Cantons
+item_location_townships,Localisation de l'article Cantons
+items,Articles
+item_conditions,État de l'article
+deal_options,Options de transaction
+blogs,Blogues
+pendings,En attente
+rejects,Rejets
+disables,Désactive
+blue_mark_users,Utilisateurs de la marque bleue
+Blue mark users,Utilisateurs de la marque bleue
+user_phone_label,Téléphoner
+popularitems,Articles populaires
+view,Voir
+ratings,Notes
+contacts,Contacts
+transactions,Transactions
+notis,Avis
+deeplink_generators,Générateurs de liens profonds
+Deeplink generators,Générateurs de liens profonds
